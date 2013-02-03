@@ -6,14 +6,10 @@ Category: Haskell
 [HaskellDB][] is a domain specific embedded language for specifying
 database queries and operations.
 
-</p>
-
 The upside of this is the full Haskell language for writing queries and
 the Haskell compiler and type checker for validating database code. The
 (big) downside is the error messages are horribly cryptic; although once
 is compiles it is likely to be correct.
-
-</p>
 
 The original version of HaskellDB was re-written to be more portable and
 usable in more situations. Unfortunately, the documentation is out of
@@ -21,59 +17,66 @@ step with the current code.
 
 Installation is particularly tricky.
 
-</p>
-
 The following is an example query:
 
-</p>
-<p>
-    stockInfo :: Database -> String             -> IO [(CompanyName, TickerSymbol)]stockInfo db val = do  let q = do      s < - table stock      restrict (fromNull (constant "") (s!company_name)                `like` constant ("%"++val++"%"))      r <- project (company_name << s!company_name #                    ticker << s!ticker)      return r  rs <- query db q  return $ map (\\r ->     (maybe "" id (r!company_name), r!ticker)) rs
-
-</p>
+    :::haskell
+    stockInfo :: Database -> String
+                 -> IO [(CompanyName, TickerSymbol)]
+    stockInfo db val = do
+      let q = do
+          s < - table stock
+          restrict (fromNull (constant "") (s!company_name)
+                    `like` constant ("%"++val++"%"))
+          r <- project (company_name << s!company_name #
+                        ticker << s!ticker)
+          return r
+      rs <- query db q
+      return $ map (\\r ->
+        (maybe "" id (r!company_name), r!ticker)) rs
 
 To run the query, a database connection detail is passed, along with the
 search string. In this case, find all company names and stock tickers
 where the company name contains *'news'*.
 
-<p>
-    vals :: IO [(CompanyName, TickerSymbol)]vals = withDB $ \\db -> stockInfo db "news"
-
-</p>
+    :::haskell
+    vals :: IO [(CompanyName, TickerSymbol)]
+    vals = withDB $ \\db -> stockInfo db "news"
 
 The result is:
 
-</p>
-
-<p>
-    [("APN NEWS & MEDIA LIMITED","APN"), ("WEST AUSTRALIAN NEWSPAPERS HOLDINGS LIMITED","WAN"), ("NEWS CORPORATION","NWS"), ("NEWSAT LIMITED","NWT")]
-
-</p>
+    :::haskell
+    [("APN NEWS & MEDIA LIMITED","APN"),
+     ("WEST AUSTRALIAN NEWSPAPERS HOLDINGS LIMITED","WAN"),
+     ("NEWS CORPORATION","NWS"),
+     ("NEWSAT LIMITED","NWT")]
 
 The database connection can be abstracted into a separate module:
 
-</p>
+    :::haskell
+    module StockConnection where
 
-<p>
-    module StockConnection whereimport Database.HaskellDBimport Database.HaskellDB.HSQL.MySQLopts = MySQLOptions {        server="localhost",         db="stocks",         uid="stock_user",         pwd="stock_pass"}withDB :: (Database -> IO a) -> IO awithDB = mysqlConnect opts
+    import Database.HaskellDB
+    import Database.HaskellDB.HSQL.MySQL
 
-</p>
+    opts = MySQLOptions {
+            server="localhost",
+            db="stocks",
+            uid="stock_user",
+            pwd="stock_pass"}
+
+    withDB :: (Database -> IO a) -> IO a
+    withDB = mysqlConnect opts
 
 If you want more information, try:
-
-</p>
 
 -   [Introductory Slides][] (pdf) – a gentle introduction.
 -   [Student Paper: HaskellDB Improved][] (pdf) – the report of the
     re-write.
 -   [Database.HaskellDB.Query][] – list of the query combinators.
 
-</p>
-
 This approach to database programming is included in Microsoft's .NET
 platform, called [LINQ][]. [Eric Meijer][] is the [link][] between the
 two.
-
-</p>
 
   [HaskellDB]: http://haskelldb.sourceforge.net/
   [Introductory Slides]: http://www.cs.chalmers.se/~bringert/publ/haskelldb/haskelldb-db-2005.pdf

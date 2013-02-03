@@ -5,8 +5,6 @@ Category: Musings
 
 Not so long ago...
 
-</p>
-
 -   a web server was a large piece of software requiring large expensive
     hardware to run.
 
@@ -24,24 +22,16 @@ Not so long ago...
     Now a browser is a control that is [embedded][] into many different
     applications.
 
-</p>
-
 Things that were once big are now available as small and nimble and
 "mashable" in normal applications.
-
-</p>
 
 Search is slowly permeating the [desktop][] as an assumption rather than
 a feature. Microsoft has even taken the essence of a big iron EAI
 toolset and scheduled it for inclusion as a [workflow engine][] suitable
 for the desktop.
 
-</p>
-
 With these kinds of building blocks it's an exciting time to be an
 application developer!
-
-</p>
 
   [Core Data]: http://developer.apple.com/macosx/coredata.html
   [embedded]: http://webkit.opendarwin.org/blog/?p=58

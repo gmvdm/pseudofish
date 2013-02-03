@@ -6,47 +6,29 @@ Category: Technology
 I've been thinking about building a web application that behaves more
 like a desktop application. Think MobileMe, GMail, Google Docs, etc.
 
-</p>
-
 This post collects together some of the research that I've been doing so
 I can refer back to it.
 
-</p>
-
 SproutCore
-
-</p>
 
 -   [Homepage][]
 -   [SproutCore on Wikipedia][]
 -   [Getting Started][]
 
-</p>
-
 Cappuccino
-
-</p>
 
 -   [Homepage][1]
 -   [Cappuccino on Wikipedia][]
 -   [Tutorials][]
 
-</p>
-
 Raphaël
-
-</p>
 
 -   [Homepage][2]
 -   [Raphaël on Wikipedia][]
 -   [Drag & Drop support][]
 
-</p>
-
 There is a few places that have a comparison between some of these,
 including:
-
-</p>
 
 -   [SproutCore vs Cappuccino][] (stackoverflow)
 -   [SproutCore and Cappuccino][] (stackoverflow) - if you use Cocoa,
@@ -54,18 +36,12 @@ including:
 -   [To SproutCore, or not to SproutCore][]
 -   [Building a Project Planning App][] (ruby or rails oceania)
 
-</p>
-
 From my current reading, my inclination is to dive deeper into
 SproutCore. Apple and [Yehuda][] seem to be investing a lot into it.
 That said, Cappuccino looks quite interesting.
 
-</p>
-
 *Update:* [This][] article provides a good summary of large scale
 development using Javascript.
-
-</p>
 
   [Homepage]: http://www.sproutcore.com/
   [SproutCore on Wikipedia]: http://en.wikipedia.org/wiki/SproutCore

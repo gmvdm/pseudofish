@@ -5,34 +5,22 @@ Category: Photography
 
 Canon's new [5D][] has [started shipping][] in the US.
 
-</p>
-
 [Australian shipping][] is a bit of a guess. Rumor is for the end of the
 week (28^th^ Nov). Mine is on pre-order from [Cameras Direct][]. They
 stopped taking any more pre-orders. Hopefully, they are close with Canon
 and can ship this week.
 
-</p>
-
 China is a bit luckier, as it is [already available][] in selected
 camera stores.
 
-</p>
-
 <u>Bonus:</u> Video editing tutorials for FCP and the 5D.
-
-</p>
 
 -   [Editing 5D footage][]
 -   [Color Grading 5D footage][]
 -   [Cut Color Compress 5D footage][]
 
-</p>
-
 Adobe has also updated [Camera Raw][] to support the 5D Mark II.
 Lightroom update to follow in December.
-
-</p>
 
   [5D]: http://www.amazon.com/exec/obidos/asin/B001G5ZTLS/ref=nosim/pseudofish-20
   [started shipping]: http://www.robgalbraith.com/bins/content_page.asp?cid=7-9318-9765

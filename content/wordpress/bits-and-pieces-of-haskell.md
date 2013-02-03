@@ -7,102 +7,62 @@ There are a few threads that I've been attempting to unravel that don't
 quite justify their own post. However, as each is proving to be very
 interesting, I've gathered them together:
 
-</p>
-
--   </p>
-
-    [Arrows][] - *"Arrows are a new abstract view of computation ...
+-   [Arrows][] - *"Arrows are a new abstract view of computation ...
     [that] serve much the same purpose as monads -- providing a common
     structure for libraries -- but are more general."*
 
-    </p>
-
     A monad generalises a computation across its output. An arrow
     generalises computation for both input and output.
-
-    </p>
 
     For fun, a Kleisli arrow will lift a monad abstraction to an arrow
     abstraction, but the interesting arrows are the ones that can't be
     made into monads. Essentially, the arrow abstraction is a super-set
     of monadic abstractions.
 
-    </p>
-
     If you want to understand the *why* of arrows, read [[Hug00][]]. If
     you want to understand the *how* of arrows, read [[Hug05][Hug00]]
 
-    </p>
-
     As usual with Haskell, the interesting bits are in research papers.
 
-    </p>
-    <p>
--   </p>
 
-    Software Transactional Memory ([STM][]) - *"a quantum step forward
+-   Software Transactional Memory ([STM][]) - *"a quantum step forward
     from locks and conditionals"* in concurrent programming.
-
-    </p>
 
     Simon Peyton-Jones and Tim Harris were recently [interviewed][] by
     Channel 9 on STM. The discussion covers the motivation of STM and
     outlines the types of problems it solves.
 
-    </p>
-
     [STM][1] is available today in Haskell, as a GHC extension.
 
-    </p>
-    <p>
--   </p>
 
-    [Types and Programming Languages][] - If you have an interest in
+-   [Types and Programming Languages][] - If you have an interest in
     computational theory and type systems, I cannot recommend this book
     enough. [Autrijus][] blamed this book for him starting the [pugs][]
     project.
-
-    </p>
 
     I'm only part way through the book, and it is stretching my brain in
     interesting ways. The benefit is that much of the terminology in
     research papers in functional programming is becoming more clear.
 
-    </p>
-
     I haven't had this much fun since writing a monadic based lambda
     calculus parser at [uni][].
 
-    </p>
-    <p>
--   </p>
-
-    [Category theory][] - this is floating around the edges of a number
+-   [Category theory][] - this is floating around the edges of a number
     of topics. There are veiled and direct references to how category
     theory is responsible for concepts such as monads and arrows.
 
     From [[Hug05][Hug00]]:
 
-    </p>
-    <p>
     > Arrows in Haskell are directly inspired by category theory, which
     > in turn is just the theory of arrows — a category is no more than
     > a collection of arrows with certain properties.
 
-    </p>
-
     For now, category theory is on my *"to read"* list, having piqued my
     interest.
-
-    </p>
-    <p>
-
-</p>
 
 To keep up to date with what it happening in the Haskell community, I
 highly recommend the [Haskell Weekly Report][] ([rss][]).
 
-</p>
 
   [Arrows]: http://www.haskell.org/arrows/
   [Hug00]: http://www.haskell.org/arrows/biblio.html

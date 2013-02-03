@@ -32,8 +32,6 @@ fiction. I'm looking forward to the next few!
 
 ps. I still hold out hope for personal flying devices in my lifetime.
 
-</p>
-
   [Stanford]: http://arstechnica.com/apple/news/2009/04/stanford-iphone-developer-course-available-free-via-itunes-u.ars
   [conference]: http://www.ted.com/talks
   [Singapore]: http://www.flickr.com/photos/gmwils/tags/singapore

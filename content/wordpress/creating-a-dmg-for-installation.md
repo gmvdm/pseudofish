@@ -10,10 +10,8 @@ much.
 
 The short version is:
 
-<p>
-     % hdiutil create -srcfolder dist/[app name].app [app name].dmg
-
-</p>
+    :::shell
+    % hdiutil create -srcfolder dist/[app name].app [app name].dmg
 
 With [app name] replaced with the name of your application. Obviously,
 you need to do a proper build of your Python application, the
@@ -21,10 +19,10 @@ symbolically linked version isn't good enough.
 
 For example, the Date List sample app can be deployed with:
 
-<p>
-     % rm -rf dist % python setup.py py2app % hdiutil create -srcfolder dist/Date\ List.app Date\ List.dmg
-
-</p>
+    ::: shell
+    % rm -rf dist
+    % python setup.py py2app
+    % hdiutil create -srcfolder dist/Date\ List.app Date\ List.dmg
 
 There are a range of features that are worth adding to a .dmg that is
 used to deploy software. These include things like background images,

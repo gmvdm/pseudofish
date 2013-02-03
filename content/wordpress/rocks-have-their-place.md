@@ -3,8 +3,6 @@ Date: 2008-05-17 13:23
 Author: gmwils
 Category: Musings
 
-<p>
->
 > One day, a Tibetan Lama was speaking to a group of monks and, to make
 > a point, pulled out a large jar, set it on the table in front of him,
 > produced a few fist-sized rocks, and placed them into the jar.
@@ -29,24 +27,13 @@ Category: Musings
 > 'the point is that if you don't put the big rocks in first, you'll
 > never get them all in at all. What are the priorities in your life?'
 >
-> </p>
->
 > <small>– from [the art of looking sideways][], p141.</small>
-
-</p>
 
 Bonus quote ...
 
-</p>
-
-<p>
 > Computers are useless. They can only give you answers.
 >
-> </p>
->
 > <small> — [Pablo Picasso][]</small>
-
-</p>
 
   [the art of looking sideways]: http://pseudofish.com/blog/2007/12/09/looking-sideways-the-art-of/
   [Pablo Picasso]: http://en.wikiquote.org/wiki/Pablo_Picasso

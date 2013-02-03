@@ -27,7 +27,5 @@ size of firm.
 The uptake of corporate use of Wikis and other Web 2.0 technologies is
 an interesting trend and bodes well for companies such as [Atlassain][].
 
-</p>
-
   [survey]: http://www.mckinseyquarterly.com/article_abstract.aspx?ar=1913&l2=16&l3=16&srid=17&gp=0
   [Atlassain]: http://www.atlassian.com/software/confluence/

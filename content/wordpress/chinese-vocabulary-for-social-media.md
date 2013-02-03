@@ -6,46 +6,22 @@ Category: Musings
 [Jeremy Webb][], over at the [Asia Digital Map blog][], has a great list
 of [Chinese terms][] for the social media web:
 
-</p>
-
-<p>
-> </p>
->
 > Location-based service: 定位服务 dìngwèi fúwù
->
-> </p>
 >
 > Augmented reality: 现实增强 xiànshí zēngqiáng
 >
-> </p>
->
 > Desktop client: 桌面客户端 zhuōmiàn kèhùduān
->
-> </p>
 >
 > Mobile phone client: 手机客户端 shǒujī kèhùduān
 >
-> </p>
->
 > App (iPhone etc.): 应用程序 yīngyòng chéngxù
 >
-> </p>
->
 > ...
->
-> </p>
-> <p>
-
-</p>
 
 As I've been using [iVocabulary][] to study vocabulary, I added all the
 terms into the [ProVoc][] (dng) format.
 
-</p>
-
 If you have a Mac, the file is available [here][] (zip).
-
-</p>
 
   [Jeremy Webb]: http://www.webbinchina.com/
   [Asia Digital Map blog]: http://www.asiadigitalmap.com/

@@ -6,20 +6,11 @@ Category: Haskell
 [Autrijus][] gave a wonderful [talk][] on [Haskell][] at OSDC. One
 insight that must be shared:
 
-</p>
-
-<p>
 > Everywhere you see Monad, replace it with Action in your head.
-> </p>
-> <p>
-
-</p>
 
 Monads are conceptually quite tricky. This simple insight is an "ahha!"
 moment. Several years of studying (and teaching) Haskell at Uni and this
 clarified the concept like no other tutorial.
-
-</p>
 
   [Autrijus]: http://www.pugscode.org/
   [talk]: http://osdc2005.cgpublisher.com/proposals/75

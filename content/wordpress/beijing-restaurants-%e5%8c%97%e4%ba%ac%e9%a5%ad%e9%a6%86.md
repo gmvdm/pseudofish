@@ -53,8 +53,6 @@ did not serve tea! The food here is quite good from the little I've
 tried. I am not holding out much expectation for Shenzhen; hopefully I
 will be surprised.
 
-</p>
-
   [Huajia Yiyuan Restaurant]: http://www.bestfoodinchina.net/node/101
   [Da Dong]: http://travel.nytimes.com/travel/guides/asia/china/beijing/restaurant-detail.html?vid=1194723840271
   [Quanjude]: http://www.quanjude.com.cn/e_about.html

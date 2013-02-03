@@ -34,8 +34,6 @@ to avoid too much detail.
 > Description begins in the writer's imagination, but should finish in
 > the reader's.
 
-</p>
-
   [James Herbert]: http://en.wikipedia.org/wiki/James_Herbert
   [Dean Koontz]: http://en.wikipedia.org/wiki/Dean_Koontz
   [Stephen King]: http://www.stephenking.com/

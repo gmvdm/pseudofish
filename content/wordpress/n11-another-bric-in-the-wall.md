@@ -7,18 +7,12 @@ This week's [Economist][] has a special report on international banking.
 With the rise in new types of financial instruments, and private equity
 firms, this is a very timely discussion.
 
-</p>
-
 With increased competition, the banks are [scouring the globe][] for new
 markets to shore up their business.
-
-</p>
 
 Currently, the expansions have been into so-called *BRIC* markets
 (Brazil, Russia, India, China). The next horizon for expansion has been
 dubbed by Goldman as N11 and includes the following:
-
-</p>
 
 -   Bangladesh
 -   Egypt
@@ -32,13 +26,9 @@ dubbed by Goldman as N11 and includes the following:
 -   Turkey
 -   Vietnam
 
-</p>
-
 This is not a set of economies without risk. However, as the global
 investment banks set up shop, easier access to western style financial
 controls should improve matters.
-
-</p>
 
   [Economist]: http://economist.com
   [scouring the globe]: http://economist.com/surveys/displaystory.cfm?story_id=E1_JTQTGQQ

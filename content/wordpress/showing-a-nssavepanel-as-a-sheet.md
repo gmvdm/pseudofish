@@ -86,8 +86,6 @@ was learnt along the way. A good abstraction allows you to peek through
 it. I'm happy to learn that PyObjC provides that flexibility, and that
 most of the time, it isn't needed.
 
-</p>
-
   [NSSavePanel]: http://developer.apple.com/documentation/Cocoa/Reference/ApplicationKit/ObjC_classic/Classes/NSSavePanel.html
   [intro]: http://pyobjc.sourceforge.net/doc/intro.php#messages-and-functions
   [wrapping]: http://pyobjc.sourceforge.net/doc/wrapping.php

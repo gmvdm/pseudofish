@@ -7,20 +7,12 @@ This is my current list of things to do and see if you happen to be
 visiting Stockholm for a weekend or a bit longer. The list is based on
 things we've seen, or that friends have found.
 
-</p>
-
 To get up-to-date tips, contact me directly or via Twitter
 (@[gmwils][]).
 
-</p>
-
 [![Fjäderholmarna, Stockholm Archipeligo][]][]
 
-</p>
-
 ### Sights
-
-</p>
 
 -   [Vasa Museum][] — an old ship that has been preserved due to failure
     to launch. Interesting museum on maritime history. There are
@@ -39,8 +31,6 @@ To get up-to-date tips, contact me directly or via Twitter
     palace, explore the streets. Almost everything is over priced, but
     then it is the main tourist district. It also has some of the better
     restaurants in town.
-    </p>
-    <p>
 -   [Södermalm][] — itself is one of the nicer areas of Stockholm. The
     shore of the island on the south is a popular place for hanging out.
     There are lots of nice restaurants near Slussen on the northern side
@@ -58,11 +48,7 @@ To get up-to-date tips, contact me directly or via Twitter
     The article has some info on boats, they also depart from near
     Östermalm.
 
-</p>
-
 ### Restaurants
-
-</p>
 
 -   [Rival Hotel][] — the restaurant here is worth a visit, a short walk
     from Mariatorget station
@@ -84,56 +70,34 @@ To get up-to-date tips, contact me directly or via Twitter
     animal at a time. Interesting concept, and has been recommended to
     me.
 
-</p>
-
 For suggestions of coffee places on Södermalm, check out [this
 article][].
 
-</p>
-
 ### Transport
-
-</p>
 
 To get around, it is worth getting tickets for the underground train
 line (Tunnelbana, abbreviated to large signs with a T). It runs pretty
 much everywhere and will make it easier to see the city.
 
-</p>
-
 To transfer from the airport, taxi works out cost effective if there are
 more than one person travelling. Otherwise, the train system is fast and
 easy to navigate.
 
-</p>
-
 ### Swedish News
-
-</p>
 
 For news in English about what is happening in Sweden, try [The
 Local][].
 
-</p>
-
 For Swedish, [DN.se][] and for Swedish restaurant reviews try [På
 Stan][] (with [Google translate][] to help).
 
-</p>
-
 ### Language Basics
-
-</p>
 
 Almost everyone here speaks perfect English as their second language, so
 knowing some Swedish isn’t important. That said, some pleasantries
 always helps.
 
-</p>
-
 These few phrases will get you far:
-
-</p>
 
 -   Hej (pron. “Hey!) — hello, or goodbye, general greeting.
 -   Hej då (pron. “Hey door”) — goodbye.
@@ -142,8 +106,6 @@ These few phrases will get you far:
     word a lot.
 -   Tack så mycket (pron. “Tack so mickey”) — thank you very much, often
     used at the end of transactions.
-
-</p>
 
   [gmwils]: http://twitter.com/gmwils
   [Fjäderholmarna, Stockholm Archipeligo]: http://farm7.static.flickr.com/6026/5987241892_973d037135.jpg

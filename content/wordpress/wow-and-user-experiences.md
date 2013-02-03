@@ -3,17 +3,12 @@ Date: 2007-06-25 12:39
 Author: gmwils
 Category: Design, Technology
 
-<p>
 > People’s first reaction to such a device (“WOW”) is amazing. It is,
 > therefore, incredible disappointing to realize that the product is
 > unusable.
 >
-> </p>
->
-> <p>
 > - from [elements][] blog, on the [Prada phone][] (by LG).
 
-</p>
 The two smartest designers I know spawned their own consultancy for user
 experience on mobile devices. Thanks to blogging, you can get their
 [insights for free][]!

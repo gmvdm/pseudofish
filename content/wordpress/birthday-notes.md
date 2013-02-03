@@ -42,8 +42,6 @@ license. To compile, [Python 2.4][], a recent build of [PyObjC][], and
 Finally, my thanks to those who have been helping with alpha testing.
 This release marks the start of a public beta.
 
-</p>
-
   [Birthday Notes]: http://www.pseudofish.com/files/BirthdayNotes-0.8.dmg
   [available]: http://www.pseudofish.com/files/BirthdayNotes-0.8.tar.gz
   [Python 2.4]: http://undefined.org/python/

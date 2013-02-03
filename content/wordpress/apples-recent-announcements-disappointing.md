@@ -26,5 +26,3 @@ Back to waiting ...
 
 On the bright side, I'm stoked with my iPod nano :)
 
-</p>
-

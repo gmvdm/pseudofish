@@ -3,9 +3,6 @@ Date: 2008-07-14 09:25
 Author: gmwils
 Category: Photography
 
-<p>
-> </p>
->
 > 1.  Be Aggressive
 > 2.  Diversify
 > 3.  Look for new resources for finding customers
@@ -17,24 +14,13 @@ Category: Photography
 > 9.  Look for new promotional opportunities
 > 10. Stay on top of technology
 >
-> </p>
->
 > This is a very short synopsis of Skips’ normal four-hour presentation.
->
-> </p>
-> <p>
-
-</p>
 
 From [Skip Cohen][] (via [Jeff Greene][]).
-
-</p>
 
 I started out in photography as I love taking photographs. I'm sticking
 with photography as there is so much to learn; business strategy,
 marketing, technology & more.
-
-</p>
 
   [Skip Cohen]: http://skip.wedshooter.com/
   [Jeff Greene]: http://blogs.msdn.com/prophoto/archive/2008/07/10/microsoft-pro-photo-summit-day-2-2.aspx

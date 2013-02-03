@@ -5,13 +5,7 @@ Category: Photography
 
 From [On Being a Photographer][]:
 
-</p>
-<p>
-> </p>
->
 > These basic principles are:
->
-> </p>
 >
 > 1.  Photographers are not primarily interested in photography. They
 >     have a focused energy and enthusiasm which is directed at an
@@ -32,25 +26,15 @@ From [On Being a Photographer][]:
 >     be good at photography requires an unusual capacity for continuous
 >     hard work and ...
 >
-> </p>
->
 > Good luck.
 >
-> </p>
-> <p>
-
-</p>
 
 [Brilliant book][On Being a Photographer]. One that I was drawn to by
 the [sample chapter][] (pdf), and one I will read again.
 
-</p>
-
 If the discussion between David Hurn and Bill Jay was held today, it
 would be published as a seven part podcast. I'm glad that it comes as a
 book. This means it stays in my house for years rather than days.
-
-</p>
 
   [On Being a Photographer]: http://www.amazon.com/exec/obidos/asin/1888803061/ref=nosim/pseudofish-20
   [sample chapter]: http://enhanced.lenswork.com/obpenhanced.pdf

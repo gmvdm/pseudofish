@@ -25,6 +25,4 @@ A short summary:
 9.  Add New Test Cases Before you Start Debugging
 10. Don't Optimize Code--Benchmark It
 
-</p>
-
   [this article]: http://www.perl.com/pub/a/2005/07/14/bestpractices.html

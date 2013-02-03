@@ -9,16 +9,10 @@ to turn my brain off by watching others learn and solve problems.
 
 Classic quote:
 
-<p>
-> </p>
 > House: "You're British"
 >
 > Chase: "I'm Australian"
 >
 > House: "You put the Queen on your money. You're British"
->
-> <p>
-
-</p>
 
   [House]: http://www.tv.com/house/show/22374/summary.html

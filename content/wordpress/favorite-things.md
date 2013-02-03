@@ -7,6 +7,4 @@ Category: Musings
 
 Snowboarding, rally driving and Primus. [Too good!][]
 
-</p>
-
   [Too good!]: http://video.mpora.com/watch/TplUU8H0l/

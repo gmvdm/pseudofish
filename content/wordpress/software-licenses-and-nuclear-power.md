@@ -14,6 +14,4 @@ to meltdown a nuclear reactor from a bug my cell phone.
 
 Now that's scary.
 
-</p>
-
   [sample]: http://java.sun.com/blueprints/code/archive.html

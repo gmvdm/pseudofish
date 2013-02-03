@@ -12,10 +12,7 @@ breaks the link process with a heap of errors.
 
 Switch to gcc 3.0 using:
 
-<p>
     sudo gcc_select 3.3
-
-</p>
 
 And it won't show any errors, but still won't work. The issue is that
 Oracle 10g depends on some Panther specific libraries.

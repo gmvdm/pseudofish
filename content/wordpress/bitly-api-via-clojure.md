@@ -6,30 +6,23 @@ Category: Clojure
 While playing with links in Clojure for [Photozeit][], I wanted to
 shorten them via Bit.ly and to also lookup click counts per link.
 
-</p>
-
 The API is quite straightforward, so I wrote a small library,
 [clojure-bitly][], to allow access to it from Clojure.
-
-</p>
 
 The Github page includes some example code, and the library can be
 downloaded from [Clojars][] using either Lein or Maven.
 
-</p>
-
 Here is how to shorten a url:
 
-</p>
-<p>
-    user> (bitly/with-auth *bitly-user* *bitly-apikey*                       (bitly/shorten "http://www.google.com/"))"http://j.mp/lMfE5t"user>
-
-</p>
+    :::clojure
+    user> (bitly/with-auth *bitly-user* *bitly-apikey*
+            (bitly/shorten "http://www.google.com/"))
+    "http://j.mp/lMfE5t"
+    user>
 
 The [Bitly API docs][] have more details on which methods are available,
 or check out the [source][].
 
-</p>
 
   [Photozeit]: http://www.photozeit.org/
   [clojure-bitly]: https://github.com/gmwils/clojure-bitly

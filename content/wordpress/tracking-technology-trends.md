@@ -32,8 +32,6 @@ section of [the Age][]) and [Ars Technica][] religiously.
 Thus my consumption of news shifts further towards being personal and
 aggregated.
 
-</p>
-
   [Robert Scoble]: http://scobleizer.com/
   [top list]: http://scobleizer.com/2008/09/26/the-scoble-top-tech-bloggerfriendfeedsocial-media-list/
   [Friend Feed]: http://friendfeed.com

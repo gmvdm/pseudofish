@@ -26,13 +26,16 @@ and one for the body text.
 Given an [email][] message, either from a string or file:
 
     :::python
-    from email import headerimport emailmsg = email.message_from_string(str_msg)
+    from email import header
+    import email
+    msg = email.message_from_string(str_msg)
 
 
 Then, headers can be read using something like:
 
     :::python
-    subject, encoding = header.decode_header(msg['Subject'])[0]print subject.decode(encoding)
+    subject, encoding = header.decode_header(msg['Subject'])[0]
+    print subject.decode(encoding)
 
 Which gives:
 
@@ -49,7 +52,8 @@ The body text needs a slightly different approach:
 
 For:
 
-    石[石] shí ① rock ② stone ③ stone inscription ④ one of the eight ancient musical instruments 八音[ba1 yin1] 兰花[?花] lánhuā ① cymbidium ② orchid...
+    石[石] shí ① rock ② stone ③ stone inscription ④ one of the eight ancient musical instruments 八音[ba1 yin1]
+    兰花[?花] lánhuā ① cymbidium ② orchid...
 
 
 The ['replace'][] option will mark unknown characters using U+FFFD,

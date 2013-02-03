@@ -10,22 +10,18 @@ companies are adapting to the changes, some will fall.
 
 [Steve Rubel][] points to [data][] on the rise magazine advertising:
 
-<p>
 > According to the Magazine Publishers of America, magazine advertising
 > pages climbed to nearly 250,000 pages last year. While they're down
 > from their 2000 high of 286,000 pages, the trend line has been going
 > up
 
-</p>
 And his analysis:
 
-<p>
 > People like to peruse Vogue and GQ for the latest fashions and the ads
 > are part of the experience. Second, I think it's also because
 > magazines are by their nature vertical and they allow people to dig
 > deeper into the subjects that interest them.
 
-</p>
 I think the point of segmentation by verticals is the key here. The win
 is on two levels. On one hand, it engages the reader so boosts
 circulation. On the other hand, provides a targeted demographic to
@@ -33,11 +29,9 @@ advertisers, thus boosting revenue and the quality of the product.
 
 Not all magazines are winning:
 
-<p>
 > ... the rising tide is not lifting all boats. Time and Newsweek are
 > both suffering as news really moves to the Web.
 
-</p>
 This gels with [the comments][] of Peter Read Miller, a Sports
 Illustrated photographer, about the trends of his magazine. During his
 tenure, SI has gone from breaking the news of the games results, to a
@@ -71,19 +65,15 @@ speculation on the web that local is the next battle ground.
 
 From [Don Dodge][]:
 
-<p>
 > Local search is a huge opportunity. The local newspapers are in a
 > great position to own it...but they don't.
 
-</p>
 And [Tom Evslin][]:
 
-<p>
 > The importance of these statistics is that there is now a critical
 > mass of people who can and will take advantage of and interact with
 > rich LOCAL content.
 
-</p>
 Newspapers are inherently local. They have relationships with end
 consumers through their circulation department, and with local
 advertisers through ad sales. In the next few years, successful media

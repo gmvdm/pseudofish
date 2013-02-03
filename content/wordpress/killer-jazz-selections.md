@@ -7,40 +7,24 @@ Thanks to [Brad][] I'm addicted to Barry Eisler's books. The main
 protagonist, John Rain, is like Jack Bauer from 24 except with a license
 to kill and operating outside the law.
 
-</p>
-
 Actually, Jack does that anyway. The main differences are that John is
 half Japanese, has good taste in scotch and listens to jazz. Throughout
 the series several jazz CDs are mentioned - as part of the plot or in an
 appendix.
 
-</p>
-
 I'm posting the lists for future reference, so I can pass the books on.
-
-</p>
 
 ### Live Jazz CDs
 
-</p>
-
 (mentioned by John Rain in Rain Storm)
-
-</p>
 
 1.  Lynne Arriale - Live at Montreax
 2.  Eva Cassidy - Live at Blues Ally
 3.  Bill Evans Trio - Sunday at the Village Vanguard
 
-</p>
-
 ### Rain's Top Ten Jazz CDs You Might Not Have Heard Of
 
-</p>
-
 (comments by Barry Eisler in Killing Rain)
-
-</p>
 
 1.  **Eric Alexander** - Young tenor saxophonist with a ton of heart.
     Start with *Nightlife in Tokyo*, of course ... Nothing fancy, just
@@ -75,11 +59,7 @@ I'm posting the lists for future reference, so I can pass the books on.
     baritone voice, and a terrific performer -- at the Tokyo live
     houses, Toku packs 'em in.
 
-</p>
-
 ps. I've managed to draw the series out by limiting myself to one per
 Amazon purchase, otherwise I'd be finished by now :)
-
-</p>
 
   [Brad]: http://www.feld.com/

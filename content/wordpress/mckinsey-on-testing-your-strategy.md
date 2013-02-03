@@ -6,11 +6,7 @@ Category: Management
 In [an article][] from January 2011, McKinsey outlines a series of ten
 tests to validate your current strategy:
 
-</p>
-
 Summary of the tests:
-
-</p>
 
 1.  Will your strategy beat the market?
 2.  Does your strategy tap a true source of advantage?
@@ -23,17 +19,11 @@ Summary of the tests:
 9.  Is there conviction to act on your strategy?
 10. Have you translated your strategy into an action plan?
 
-</p>
-
 Each test includes a more detailed description, and an example of a
 company or industry where it is particularly relevant. There are also
 links through to relevant articles or books.
 
-</p>
-
 Although aimed at corporate strategy, this is an interesting list of
 points to consider at a personal or project level as well.
-
-</p>
 
   [an article]: https://www.mckinseyquarterly.com/Strategy/Strategic_Thinking/Have_you_tested_your_strategy_lately_2711

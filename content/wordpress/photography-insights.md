@@ -5,57 +5,37 @@ Category: Photography
 
 From the [Adobe(r) Lightroom][] podcast with Catherine Hall:
 
-</p>
-
-<p>
 > Pose by asking the participants to role play. For instance, imagine
 > you are in Paris ...
 >
-</p>
-
 This approach has worked really well for Catherine in her shooting of
 weddings. Especially as the *models* are usually not professionals, but
 rather everyday people. By asking them to role play, they can be enticed
 into interesting poses to match desired composition, without the
 stiffness associated with directing specific poses.
 
-</p>
-
 [George Jardine][]'s interview technique is simply sublime. This is one
 podcast series where I do not miss an episode. I went back and listened
 to the early shows. There is much to learn about photography in these
 interviews.
-
-</p>
 
   
 
 From the [LightSource][] podcast with [David Tobie][] from [Data
 Color][]:
 
-</p>
-
-<p>
 > The in-camera highlight clipping is based on the color space that is
 > set.
 
-</p>
-
 This is apparently true even if you are shooting RAW.
-
-</p>
 
 The implications of this are that you can no longer trust the clipping
 information. It will clip earlier, as RAW typically captures a wider
 gamut than say sRGB.
 
-</p>
-
 This episode is worth a listen if you are starting to reach the point
 where colour is important. Especially how colour looks on screen as
 compared to in print.
-
-</p>
 
   [Adobe(r) Lightroom]: http://www.mulita.com/blog/?p=44
   [George Jardine]: http://www.mulita.com/blog/

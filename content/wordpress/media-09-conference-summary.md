@@ -10,7 +10,6 @@ from [lagrangepoint][] was there and blogged many of the talks.
 Below are some of the highlights from his coverage (click through for
 full articles):
 
-<p>
 **[Brian McCarthy][]**, Fairfax CEO:
 
 > In discussing the media environment, he pointed out the differences
@@ -22,9 +21,6 @@ full articles):
 > being the key to survival, as the company continues to **merge its
 > print and online** offerings and diversify into new markets
 
-</p>
-
-<p>
 **[Caroline Little][]**, from The Guardian News and Media USA:
 
 > The role of the newspaper as a record of **yesterday's news** has
@@ -42,18 +38,12 @@ full articles):
 > engagement and their viral nature, and it is important to understand
 > how content is being distributed away from the publisher's website.
 
-</p>
-
-<p>
 **[Nic Newman][]**, BBC:
 
 > Content must also be made sharable, within the boudaries of content
 > rights, via widgets and other portals so that content gets to where
 > the audience actually is.
 
-</p>
-
-<p>
 **[Ben Self][]**, used social media for the Obama campaign:
 
 > There were more than 1800 videos distributed to supporters, and 50
@@ -70,8 +60,7 @@ full articles):
 > **geographically**, to help get people in neighbourhoods together who
 > want to be part of the campaign.
 >
-</p>
-<p>
+
 **[Meg Pickard][]**, The Guardian Community manager:
 
 > "We didnt make any money, but we generated an enormous amount of
@@ -86,7 +75,8 @@ full articles):
 > creating pages on Facebook, that you need to find a way to engage
 > with.
 >
-</p>
+
+
 **[Richard Cardran][],** Emmy award winner for his work in digital
 media:
 
@@ -105,8 +95,6 @@ media:
 > custom publications. He says newspapers should also create
 > **hyper-localised** applications to exploit **local advertising
 > revenue**.
-
-</p>
 
   [Media 09]: http://www.media09.com/program.html
   [lagrangepoint]: http://lagrangepoint.typepad.com/

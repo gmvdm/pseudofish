@@ -14,8 +14,6 @@ The steps are as follows.
 -   install oracle with oracle installer
 -   Type the commands
 
-</p>
-
 Now you can run `dbca` and create a database
 
 Note: you must ensure that your `ORACLE_HOME` environment variable is

@@ -38,8 +38,6 @@ do with priority and context.
 platform behind the scenes. What is visible is merely the tip of the
 iceberg. I'm watching with interest to see what emerges next.
 
-</p>
-
   [9cays]: http://www.9cays.com/
   [example]: http://9cays.com/conversation/aDUojbjHugsb
   [thingamy]: http://thingamy.typepad.com/sigs_blog/

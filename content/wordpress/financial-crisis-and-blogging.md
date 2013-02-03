@@ -9,8 +9,6 @@ Category: Musings
 
 From the delightful [Indexed][] blog.
 
-</p>
-
   [image]: http://thisisindexed.com/wp-content/uploads/2008/11/card1922-372x231.jpg
     "card1922"
   [Indexed]: http://thisisindexed.com/

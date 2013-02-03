@@ -25,8 +25,6 @@ Category: Musings
 And, this site has moved from a bedroom in Melbourne to a data centre in
 the United States. A big thanks to [Jeremy][] for a seamless transition!
 
-</p>
-
   [media industry]: http://www.atex.com/
   [telecommunications]: http://www.trolltech.com/products/qtopia/index.html
   [Brisvegas]: http://www.urbandictionary.com/define.php?term=brisvegas

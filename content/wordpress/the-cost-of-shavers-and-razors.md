@@ -69,7 +69,5 @@ ps. thanks to the wonderful shop assistant at the shaver shop in the
 city for answering my questions about types of electric shavers and
 their useful life.
 
-</p>
-
   [accounting]: http://www.amazon.com/exec/obidos/ASIN/0071425462/pseudofish-20?creative=327641&camp=14573&link_code=as1
   [earning]: http://www.amazon.com/exec/obidos/ASIN/0740718584/pseudofish-20?creative=327641&camp=14573&link_code=as1

@@ -6,43 +6,24 @@ Category: Management, Technology
 Estimating software development is hard. But it doesn't have to be
 impossible.
 
-</p>
-
 [Software Estimation][] by Steve McConnell draws together research and
 experience from the field of estimation into a single, easy to read,
 volume.
 
-</p>
-
 The biggest lesson I got out of the book is "Count, Compute, Judge".
 
-</p>
-
-<p>
-> </p>
->
 > *Count* if at all possible. *Compute* when you can't count. Use
 > *judgement* alone only as a last resort.
-
-</p>
 
 The software estimation I have been involved in falls into the realm of
 *judgement*. This is usually due to insufficient data available, or the
 lack of knowledge of the data that needs to be collected.
 
-</p>
-
 Some other highlights include:
 
-</p>
-
--   </p>
-
-    Relevant information from many sources (ie. key formulas from
+-   Relevant information from many sources (ie. key formulas from
     research papers, process details and examples)
 
-    </p>
-    <p>
 -   Details of industry studies and references to other work, allowing
     for deeper study.
 
@@ -52,17 +33,9 @@ Some other highlights include:
 -   Strategies for presenting estimates to stakeholders and navigating
     the associated political minefield.
 
-    <p>
     > ... estimate negotiations tend to be between introverted technical
     > staff (developers) and seasoned professional negotiators (sales
     > staff).
-    >
-    > </p>
-    > <p>
-
-    </p>
-
-</p>
 
 One area I found missing from the book is estimating changes to existing
 systems, such as maintenance and enhancements. The focus for the book is
@@ -70,13 +43,9 @@ on new features and creating new products. Hopefully the process and
 systems recommended, such as estimating from historical data, covers
 maintenance development.
 
-</p>
-
 In addition to good process and practice, there is a useful section
 towards the end with rules of thumb derived from industry findings. Some
 of them include:
-
-</p>
 
 -   To go from one-company, one-campus development to international
     outsource development, allow for a 40% increase in effort.
@@ -90,13 +59,9 @@ of them include:
 -   For administrative and clerical support, add 5% to 10% to the base
     effort estimate.
 
-</p>
-
 Software estimation is an important part of the development process.
 Estimates provide the benchmark that subsequent development is measured
 against. Making estimation an area that deserves more study, and making
 this book a must read for any software professional.
-
-</p>
 
   [Software Estimation]: http://www.amazon.com/exec/obidos/asin/0735605351/ref=nosim/pseudofish-20

@@ -12,17 +12,12 @@ First, download subversion for Mac OS X from [Martin Ott's site][]. The
 
 Second, follow the instructions for downloading the PyObjC source:
 
-<p>
     svn co http://svn.red-bean.com/pyobjc/trunk/pyobjc/
-
-</p>
 
 Finally, follow the installation instructions. The short version is:
 
-<p>
-    cd pyobjcpython setup.py bdist_mpkg --open
-
-</p>
+    cd pyobjc
+    python setup.py bdist_mpkg --open
 
 And then follow the instructions in the installer.
 

@@ -24,18 +24,12 @@ business.
 Do not underestimate the value of training, it may just help close your
 next deal!
 
-</p>
-
 <u>Bonus Links</u> (both from [Creating Passionate Users][]):
-
-</p>
 
 -   [You can out-spend or out-teach][] - "The most important skill today
     is... teaching"
 -   [You ARE a marketer. Deal with it.][] - "*You're in marketing*. Now
     go kill yourself."
-
-</p>
 
   [Seth]: http://sethgodin.typepad.com/seths_blog/2006/10/listen_to_this.html
   [Atex]: http://www.atex.com/

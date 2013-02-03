@@ -35,14 +35,8 @@ working PyGame installation.
 4.  [Python Image Library (PIL)][]
 5.  [SDL][] - C library for user handling
 6.  [SDL\_ttf][] - C library for TrueType fonts
-    </p>
-    <p>
 7.  [SDL\_image][] - C library for image handling
-    </p>
-    <p>
 8.  [SDL\_mixer][] - C library for sound
-    </p>
-    <p>
 9.  [SMPEG][] - C based Mpeg and MP3 library. (*Checkout smpeg from CVS;
     autoconf; automake; ./configure; make; create framework.*)
 10. [PyGame][1]
@@ -53,12 +47,14 @@ Optional packages:
 1.  [PyOpenGL][] - OpenGL bindings for Python
 2.  [FreeType][] - TrueType font library, listed as a dependency of
     SDL\_ttf but I have no issues without it (yet?).
-    </p>
-    <p>
 
 If it helps, my /Library/Frameworks looks like:
 
-    % ls -d [Ss][^t]* Python.frameworkPython.framework/       SDL_mixer.framework/SDL.framework/          SDL_ttf.framework/SDL_image.framework/    smpeg.framework/
+    :::shell
+    $ ls -d [Ss][^t]* Python.framework
+    Python.framework/       SDL_mixer.framework/
+    SDL.framework/          SDL_ttf.framework/
+    SDL_image.framework/    smpeg.framework/
 
 Useful things are now available in `/Developer/Python/pygame`, with
 `/Developer/Python/pygame/Examples` providing a bunch of examples to
@@ -67,9 +63,7 @@ test your installation.
 A very big grin spread over my face watching the cube rotate from
 typing:
 
-    % python /Developer/Python/pygame/Examples/glcube.py
-
-</p>
+    $ python /Developer/Python/pygame/Examples/glcube.py
 
   [Richard Jones's talk]: http://osdc2005.cgpublisher.com/proposals/9
   [OSDC2005]: http://osdc2005.cgpublisher.com/timetable.html

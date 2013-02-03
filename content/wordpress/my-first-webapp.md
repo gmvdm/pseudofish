@@ -10,11 +10,9 @@ a very simple application.
 
 The specification looks like:
 
-<p>
 > <font color="#555555">The application shall allow the user to send
 > email notes to themselves</font>
 
-</p>
 I often email short notes to myself as reminders or to capture short
 pieces of information. The number of steps involved in doing this is
 [too many][]. I have to address the email, set a subject, navigate one
@@ -32,7 +30,6 @@ There are four pieces:
 3.  Web service to receieve send mail request
 4.  Application service to send mail
 
-</p>
 The task bar applet is the easy part (see [QSystemTrayIcon][]). That
 will be built, initially for Windows, using Qt. If I'm enthusiastic, it
 may support RTF and HTML email as well as unicode text.
@@ -52,7 +49,6 @@ The aims of the web service:
 -   To provide a REST style API.
 -   To easily provide different data formats (XML, JSON).
 
-</p>
 The application service will be built using [Haskell][]. It will be kept
 as an internal process. It will likely be built using a web service as
 well, but using [JSON][] as the transport. I am choosing Haskell mainly

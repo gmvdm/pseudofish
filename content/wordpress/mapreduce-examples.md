@@ -8,13 +8,9 @@ the posts from a heap of RSS feeds. However, the MongoDB documentation
 is [fairly][] basic. [This post][] has a bit more detail on more complex
 map/reduce functions.
 
-</p>
-
 Looking outside of MongoDB, there are a few other groups working with
 MapReduce. Google started the whole thing off, and has some good
 resources:
-
-</p>
 
 -   [MapReduce Tutorial][] - good overview of the process with some
     examples.
@@ -23,11 +19,7 @@ resources:
     comprehensive.
 -   [Slides][] - See Lecture 3.
 
-</p>
-
 Some examples of using MapReduce [include][]:
-
-</p>
 
 -   **Distributed Grep** - emit(matched line), reduce(identity)
 -   **Count of URL Access Frequency** - emit(url, 1), reduce(url, sum)
@@ -37,43 +29,28 @@ Some examples of using MapReduce [include][]:
 -   **Inverted Index**
 -   **Distributed Sort**
 
-</p>
-
 The reverse web-link graph sounds interesting:
 
-</p>
-
-<p>
 > The map function outputs <target , source> pairs for each link to a
 > target URL found in a page named "source". The reduce function
 > concatenates the list of all source URLs associated with a given
 > target URL and emits the pair:
 > </target><target , list(source)>.</target>
 
-</p>
-
 There is also [some work][] on using MapReduce to allow for machine
 classification to run in parallel. I also found a presentation on [Large
 Scale Data Analysis][] that was helpful.
-
-</p>
 
 The main thing to get my head around is that the map function can return
 more complicated results than just a simple count. The reduce function
 then just glues the results together in some way.
 
-</p>
-
 And then there is the idea of [multi-pass MapReduce][]. That could get
 interesting.
-
-</p>
 
 For now, I'm doing a lot of reading. The next step will be start to put
 into practice some of these ideas for analysing data. Actually, the next
 step is collecting the data, but that's on a different thread.
-
-</p>
 
   [MongoDB]: http://www.mongodb.org/
   [fairly]: http://www.mongodb.org/display/DOCS/MapReduce

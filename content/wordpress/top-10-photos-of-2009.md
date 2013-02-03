@@ -6,95 +6,49 @@ Category: Photography
 With much consideration, this is my selection of my top 10 photos from
 2009. (in no particular order)
 
-</p>
-
 [Canoes][]
-
-</p>
 
 [![Canoes][1]][]
 
-</p>
-
 [Conspiracies][]
-
-</p>
 
 [![Conspiracies – Fi & Benn Wedding][]][]
 
-</p>
-
 [Tulip Festival – 1][]
-
-</p>
 
 [![Tulip Festival – 1][2]][]
 
-</p>
-
 [Karen & Phil][]
-
-</p>
 
 [![Karen & Phil][3]][]
 
-</p>
-
 [Issabella][]
-
-</p>
 
 [![Issabella][4]][]
 
-</p>
-
 [Cupcakes][]
-
-</p>
 
 [![Cupcakes][5]][]
 
-</p>
-
 [Banff, Alberta, Canada][]
-
-</p>
 
 [![Banff, Alberta, Canada][6]][]
 
-</p>
-
 [Waiting][]
-
-</p>
 
 [![Waiting][7]][]
 
-</p>
-
 [Parisian Light][]
-
-</p>
 
 [![Parisian Light][8]][]
 
-</p>
-
 [Gingerbread Christmas Trees][]
-
-</p>
 
 [![Gingerbread Christmas Trees][9]][]
 
-</p>
-
 The larger selection of my favourite images from 2009 is on [Flickr][].
 
-</p>
-
 For comparison, last year's photos are [here][].
-
-</p>
 
   [Canoes]: http://www.flickr.com/photos/gmwils/3451714283/in/set-72157622820342473
   [1]: http://farm4.static.flickr.com/3644/3451714283_a6c35bcf2c_m.jpg

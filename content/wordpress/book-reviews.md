@@ -9,57 +9,34 @@ extensive library (one of my favourite parts of our Stockholm office).
 
 These are my highlights.
 
-</p>
-
 ### [Paradigms of AI Programming][]
-
-</p>
 
 After re-discovering Lisp style programming with Clojure, this book came
 high on my to-read list and I was not disappointed.
-
-</p>
 
 The book covers a wide range of classic AI problems, and walks through
 solutions in Common Lisp. This makes the book partly about solving AI
 problems, and partly an advanced book on Lisp programming.
 
-</p>
-
 I loved it for both aspects.
-
-</p>
 
 Be warned however, Peter Norvig is a master of his tools and reading
 along you can be seduced into how obvious each next step is. It is worth
 trying to implement some of these algorithms yourself, or even try
 solving [Sudoku][].
 
-</p>
-
 This book won't make you an expert on the latest AI techniques, but it
 will add to the class of problems you can solve, and make you a better
 programmer.
 
-</p>
-
 ### [Into the Plex][]
-
-</p>
 
 A great insight into the history and workings of Google. There are lots
 of examples of how Google goes about solving problems and lots of behind
 the scenes information.
 
-</p>
-
 One section I found interesting was on staff allocation:
 
-</p>
-
-<p>
-> </p>
->
 > Around 2005, Google determined a simple formula to distribute its
 > engineering talent: 70-20-10. Seventy percent of its engineers would
 > work in either search or ads. Twenty percent would focus on key
@@ -67,41 +44,25 @@ One section I found interesting was on staff allocation:
 > wild cards, which often emerged from the 20 percent time where people
 > could choose their own projects.
 
-</p>
-
 ### [Animal Spirits][]
-
-</p>
 
 After finishing Robert Schiller's course on [finance via iTunes
 University][], I picked up his book Animal Spirits.
-
-</p>
 
 This is an approachable book that doesn't assume too much finance
 background, and covers how behavioural finance fits into a macro
 economic framework. Or rather, how human emotions messes up existing
 approaches to making decisions for the broad economy.
 
-</p>
-
 If you're interested in how government should be setting policy, or how
 human psychology impacts economics, this is well worth a read.
 
-</p>
-
 ### [Toyota Production System][]
-
-</p>
 
 ### [The Toyota Way][]
 
-</p>
-
 I started by reading Toyota Production System, as the Toyota Way was
 already loaned out. This turned out to be fortuitous.
-
-</p>
 
 The Toyota Production System is written by [Taiichi Ohno][], who was
 responsible for putting in place most of the practices that define their
@@ -109,14 +70,10 @@ production system. The book is translated from the Japanese, and reads
 like the writings of a Zen master. Everything is very clear and concise
 with no superfluous words or explanations.
 
-</p>
-
 I found it enlightening. However, it is worth pausing often throughout
 the book to ponder the implications of what has been said, and was it
 assumes. This is a book to read to understand the fundamentals and the
 attitude required to implement a similar approach to your business.
-
-</p>
 
 The Toyota Way is an easier read, and based on the time Jeffrey Liker
 has spent studying Toyota. He had access to a range of plants in the US
@@ -124,33 +81,21 @@ and interviewed many of the key Toyota people. His book is written as a
 series of stories that act as a set of case studies for how the Toyota
 Way was applied to a range of engineering challenges.
 
-</p>
-
 I particularly loved the chapters explaining how Toyota created the
 Lexus brand and the Prius.
-
-</p>
 
 To get a good understanding of how Toyota works, it is worth reading
 both books. I feel like it is clearer on how Kanban fits into a wider
 corporate picture, after having previously read [David Anderson's
 book][].
 
-</p>
-
 ### [The Time Traveller's Wife][]
-
-</p>
 
 This was left by a previous occupant of the apartment we rented for the
 summer in Paris. It was a great holiday read.
 
-</p>
-
 Suspend disbelief for a while, and just let the story flow. The
 characters are well thought out and carry the story well.
-
-</p>
 
   [Paradigms of AI Programming]: http://www.amazon.com/gp/product/1558601910/ref=as_li_ss_tl?ie=UTF8&tag=pseudofish-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1558601910
   [Sudoku]: http://norvig.com/sudoku.html

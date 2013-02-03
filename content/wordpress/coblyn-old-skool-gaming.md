@@ -7,18 +7,12 @@ Category: Apple
 
 ![Coblyn0t][]</a> [![Coblyn4t][]][]
 
-</p>
-
 [Coblyn][![Coblyn4t][]] is just released for Mac OS X. A combination of
 puzzle solving and action, harks back to the computing days of old. If
 you loved [Boulder Dash][], check it out.
 
-</p>
-
 The neat thing is that the user manual includes details on how to create
 levels. The site also includes a bonus pack of 200 classic levels.
-
-</p>
 
   [Coblyn0t]: http://www.muryan.com/coblyn/index_files/page9_1.jpg
   [Coblyn4t]: http://www.muryan.com/coblyn/index_files/page9_4.jpg

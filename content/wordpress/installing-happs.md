@@ -19,8 +19,6 @@ list of packages that go together to get it running on Mac OS X Tiger.
 
 ### Versions
 
-</p>
-
 -   [HAppS][] (from darcs 2006-08-20) - Haskell App Server
 -   [FPS][] 0.5 - Fast Packed String library
 -   [GHC][] 6.4.1 for Mac OS X - Haskell compiler
@@ -30,13 +28,11 @@ list of packages that go together to get it running on Mac OS X Tiger.
 -   [Alex][] 2.0.1 - Lexical analyser generator
 -   [cpphs][] 1.2 - Haskell preprocessor
 
-</p>
 For Haddock to work you will also need a LaTeX system and the DocBook
 XSL stylesheets.
 
 ### Building
 
-</p>
 GHC installs as a binary package. The remainder of the packages are
 installed using a reasonably standard configure; build; install process.
 
@@ -48,21 +44,19 @@ To invoke the Setup.hs file, use either the runhaskell script or make
 the Setup.hs file executable (it will then hunt for runhaskell). You
 need to have `/usr/local/bin` in your path.
 
-<p>
-    % runhaskell ./Setup.hs configure% runhaskell ./Setup.hs build% sudo runhaskell ./Setup.hs install
-
-</p>
+    :::shell
+    $ runhaskell ./Setup.hs configure
+    $ runhaskell ./Setup.hs build
+    $ sudo runhaskell ./Setup.hs install
 
 ### FPS
 
-</p>
 The Fast Packed String library allows for fast string manipulation from
 within Haskell. However, there is a bit of a version problem with HAppS.
 
 -   HAppS 0.8 - needs FPS 0.4 (or earlier)
 -   HAppS dev - needs FPS 0.5 (0.7 breaks)
 
-</p>
 FPS changes its interface between minor versions, thus breaking
 dependencies for HAppS. It would be good for the HAppS installation to
 include the list of versions used to build against, or for FPS to use
@@ -70,7 +64,6 @@ better versioning.
 
 ### Examples
 
-</p>
 The example that looks most interesting is [httpd.hs][]. Based on the
 behavior of [http://happs.org/][] it appears that they are running this
 example as base of the site.
@@ -78,19 +71,20 @@ example as base of the site.
 In the examples directory, change the import statement for the
 `httpd.hs` file as follows:
 
-<p>
-    import Data.ByteString.Char8--import Data.FastPackedString
+    import Data.ByteString.Char8
+    --import Data.FastPackedString
 
-</p>
 Assuming that you are using FPS 0.5 and the development version of
 HAppS.
 
 The example can then be run from `examples/` as follows:
 
-<p>
-    % make% mkdir HAppS% echo '<h1>Hello World</h1>' > HAppS/README.html% ./httpd
+    :::shell
+    $ make
+    $ mkdir HAppS
+    $ echo '<h1>Hello World</h1>' > HAppS/README.html
+    $ ./httpd
 
-</p>
 Then point Safari to [http://localhost:5000/][]. The example will
 redirect to the file created above and serve the page.
 

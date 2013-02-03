@@ -5,21 +5,13 @@ Category: Clojure
 
 I am very excited about the potential unleashed by [Storm][].
 
-</p>
-
 Previously at BackType, [Nathan Marz][] has now built Storm into Twitter
 and then open sourced the platform.
-
-</p>
 
 Storm opens up a lot of possibilities, by bringing real-time distributed
 processing together in an elegant way. And it is built in Clojure!
 
-</p>
-
 Some useful links:
-
-</p>
 
 -   [Rationale][]
 -   [Slides][] - detailed presentation on Storm by Nathan
@@ -28,14 +20,10 @@ Some useful links:
 -   [Taking the Emmys by Storm][] - an hour long video of how to use
     Storm to aggregate data from Twitter in realtime to spot trends.
 
-</p>
-
 While playing around I wanted to try from Clojure (most examples are in
 Java). There is a great DSL for Clojure that makes using Storm super
 easy. I forked the [storm-starter][] project to add [examples][] based
 on a [Gist][] from Nathan.
-
-</p>
 
   [Storm]: https://github.com/nathanmarz/storm
   [Nathan Marz]: https://twitter.com/nathanmarz

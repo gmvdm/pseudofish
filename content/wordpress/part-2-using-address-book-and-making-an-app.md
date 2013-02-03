@@ -18,19 +18,25 @@ made the interaction a function that returns the data to the Delegate
 class. This is called `dateFields()`, and it creates a connection to the
 Address Book and loads the fields for it.
 
-<p>
-    import AddressBookdef dateFields():    book = AddressBook.ABAddressBook.sharedAddressBook()    return bookFields(book)
+    :::python
+    import AddressBook
 
-</p>
+    def dateFields():
+      book = AddressBook.ABAddressBook.sharedAddressBook()
+      return bookFields(book)
 
 `bookFields` generates the actual list using a list comprehension.
 `validPerson` filters the list to only include records which have the
 birthday field set.
 
-<p>
-    def validPerson(person):    return person.valueForProperty_(\        AddressBook.kABBirthdayProperty) != Nonedef bookFields(book):    return [ personToFields(p) \        for p in book.people() if validPerson(p) ]
+    :::python
+    def validPerson(person):
+      return person.valueForProperty_(\
+        AddressBook.kABBirthdayProperty) is not None
 
-</p>
+    def bookFields(book):
+      return [ personToFields(p) \
+        for p in book.people() if validPerson(p) ]
 
 I'm still in awe over how nicely the PyObjC does the translation behind
 the scenes. The native python list constructs loop effortlessly across
@@ -40,18 +46,29 @@ The next part in the story is to actually create the tuple with the
 person's name and birthday. If you recall, this should look something
 like:
 
-<p>
+    :::python
     {'date': 1977-08-04 12:00:00 GMT, 'name': u'Geoff Wilson'}
-
-</p>
 
 I've hidden this away in the `personToFields` function, with two
 functions to get some details, as follows:
 
-<p>
-    def personToFields(person):    return {        'date': getBirthday(person),        'name': getPersonName(person)    }def getPersonName(person):   return person.valueForProperty_(\        AddressBook.kABFirstNameProperty\        ) + ' ' \        + person.valueForProperty_(\        AddressBook.kABLastNameProperty)def getBirthday(person):    return person.valueForProperty_(\        AddressBook.kABBirthdayProperty)
+    :::python
+    def personToFields(person):
+      return {
+        'date': getBirthday(person),
+        'name': getPersonName(person)
+        }
 
-</p>
+    def getPersonName(person):
+      return person.valueForProperty_(\
+        AddressBook.kABFirstNameProperty\
+          ) + ' ' \
+            + person.valueForProperty_(\
+              AddressBook.kABLastNameProperty)
+
+    def getBirthday(person):
+      return person.valueForProperty_(\
+        AddressBook.kABBirthdayProperty)
 
 At this stage you should have enough code to be able to query your
 Address Book. Python allows you to add the equivalent of a main function
@@ -61,17 +78,16 @@ but this isn't an example of [TDD][].
 
 Add the following to your code:
 
-<p>
-    if __name__ == '__main__':    print dateFields()
-
-</p>
+    :::python
+    if __name__ == '__main__':
+      print dateFields()
 
 And then run the result:
 
-<p>
-    % python DateList.py[{'date': 2004-04-04 12:00:00 Australia/Melbourne, 'name': u'Test User'}]%
-
-</p>
+    :::python
+    $ python DateList.py
+    [{'date': 2004-04-04 12:00:00 Australia/Melbourne, 'name': u'Test User'}]
+    $
 
 Note: if you don't have any records in Address Book, you won't see any
 results.
@@ -80,22 +96,23 @@ The change to integrate this into the user interface is to update the
 delegate to request the data from the `dateFields()` function. You also
 need to add the appropriate import call:
 
-<p>
-    from PyObjCTools import NibClassBuilderfrom DateList import dateFieldsNibClassBuilder.extractClasses('MainMenu')class DateListDelegate(NibClassBuilder.AutoBaseClass):    def items(self):        return dateFields()
+    :::python
+    from PyObjCTools import NibClassBuilder
+    from DateList import dateFields
 
-</p>
+    NibClassBuilder.extractClasses('MainMenu')
+
+    class DateListDelegate(NibClassBuilder.AutoBaseClass):
+      def items(self):
+        return dateFields()
 
 The magical bit is that there is no need to re-compile and no need to
 change the user interface. You should now see something like:
 
 ![Birthday list][]
 
-</p>
-
 The source code for the sample application from this tutorial is
 available [here][].
-
-</p>
 
   [Part 1]: http://www.pseudofish.com/blog/2005/05/13/part-1-creating-a-basic-cocoabindings-app-with-pyobjc/
   [PyObjC]: http://pyobjc.sourceforge.net/

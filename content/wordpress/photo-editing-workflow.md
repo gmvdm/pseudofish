@@ -153,8 +153,6 @@ portfolio usage or fine art sale. To date, I have less than a handful of
 
 My aim is to shoot more images that make it to 5 stars.
 
-</p>
-
   [Lightroom]: http://www.adobe.com/products/photoshoplightroom/
   [other sites]: http://www.lightroomkillertips.com/archives/presets/
   [year]: http://pseudofish.com/blog/2009/01/27/top-10-photos-of-2008/

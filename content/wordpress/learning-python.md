@@ -18,10 +18,10 @@ can't recommend a good one.
 Thanks go to Apple for including python on Mac OS X, which means you can
 start from the Terminal:
 
-<p>
-    gmwils@mayumi % python Python 2.3.5 (#1, Mar 20 2005, 20:38:20) >>> 2**38274877906944L
-
-</p>
+    gmwils@mayumi % python
+    Python 2.3.5 (#1, Mar 20 2005, 20:38:20)
+    >>> 2**38
+    274877906944L
 
 My own route to learning python was that I was sick of [perl][], didn't
 want to use Visual Basic and needed to do some COM programming on Win32.

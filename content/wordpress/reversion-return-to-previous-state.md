@@ -6,28 +6,18 @@ Category: Musings
 After a year of living in Brisbane, I'm returning to Melbourne and have
 accepted a position at my old company, Atex.
 
-</p>
-
 I've learned a lot during my time in Brisbane. Lots of randomly useful
 technical things, like the `explicit` keyword for C++ and how mobile
 phones are built.
-
-</p>
 
 More importantly, I've discovered a lot of things about myself. A large
 part why I'm going back is crystallization of my values and how they
 impact what I do with my time.
 
-</p>
-
 If only I had managed the same revelations without the hassle of moving
 interstate twice.
 
-</p>
-
 To keep things interesting I'm traveling around a bit:
-
-</p>
 
 -   3 - 10 Feb: In Melbourne conducting a training course for Trolltech
 -   12, 13 Feb: Last days in the Brisbane office
@@ -38,10 +28,6 @@ To keep things interesting I'm traveling around a bit:
 -   17 Feb: Drive to Melbourne
 -   19 Feb: Commence work at Atex
 
-</p>
-
 I'll be a bit out of touch while moving gets sorted out. If you need to
 get hold of me, my mobile is the best bet.
-
-</p>
 

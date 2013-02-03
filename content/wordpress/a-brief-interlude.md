@@ -5,8 +5,6 @@ Category: Musings
 
 ### Another Glitch in the Call
 
-</p>
-
 (Sung to the tune of a recent Pink Floyd song.)
 
 We don't need no indirection

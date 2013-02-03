@@ -3,19 +3,14 @@ Date: 2007-06-24 23:51
 Author: gmwils
 Category: Business
 
-<p>
 > If the tone of this book seems steeped in the culture of Darwinism and
 > evolutionary thinking, it does not come from any remotely formal
 > training in the natural sciences, but from the evolutionary way of
 > thinking taught by my Monte Carlo simulators.
 
-</p>
-
 Nassim Taleb revised his [book][] on the way humans deal with
 randomness; how we rationalize luck. It is worth a read. (Recommended by
 the likes of [Tom Peters][], and [Peter Bernstein][]).
-
-</p>
 
 The part that grabbed my attention was Nassim's use of [Monte Carlo][]
 simulations, to test out scenarios. The simulator allows exploration of
@@ -24,47 +19,29 @@ to find successful survival strategies for a particular scenario. In
 biology, we have only one scenario to investigate: ours. The Monte Carlo
 simulator allows testing strategies under different scenarios.
 
-</p>
-
 This is very similar to the work on complexity theory being done at the
 Santa Fe institute (as told in the [Origin of Wealth][]). Nassim refers
 to their work later in the book:
 
-</p>
-
-<p>
 > The so-called *complexity theorists* came to the rescue. ... Clearly
 > these scientists are trying hard, and providing us with wonderful
 > solutions in the physical sciences and better models in the social
 > siblings (though nothing satisfactory there yet).
 
-</p>
-
 The key is the *yet*.
-
-</p>
 
 I'm holding out hope for complexity theory as applied to economics and
 finance. The classical equilibrium models don't resonate strongly with
 my understanding of this world. Early research into the application of
 complexity theory rings very true.
 
-</p>
-
 Even if the numbers don't hold out exactly, the model provided matches
 my understanding of people and markets much better. Nassim himself says
 it best:
 
-</p>
-
-<p>
 > Mathematics is principally a tool to meditate, rather than compute.
 
-</p>
-
 Lets hope it can deliver both.
-
-</p>
 
   [book]: http://www.amazon.com/exec/obidos/asin/0812975219/ref=nosim/pseudofish-20
   [Tom Peters]: http://www.amazon.com/exec/obidos/asin/0060548789/ref=nosim/pseudofish-20

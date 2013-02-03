@@ -8,6 +8,4 @@ Category: Photography
 Read the interview with [Shynola’s Chris Harding][] for some hints on
 how they made it.
 
-</p>
-
   [Shynola’s Chris Harding]: http://motionographer.com/theater/shynola-coldplay-strawberry-swing/

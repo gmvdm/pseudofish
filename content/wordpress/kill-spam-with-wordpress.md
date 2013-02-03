@@ -7,13 +7,7 @@ Category: Musings
 seems like a good way of stopping comment spam, I'm still receiving
 comment spam :(
 
-</p>
-
 Back to the drawing board.
-
-</p>
-
-</p>
 
 As I've mentioned [previously][] the amount of comment spam has been
 increasing on my blog. The filtering that [WordPress 1.5][] does is good
@@ -55,8 +49,6 @@ JavaScript support seems intuitively to be low.
 As more sites improve their spam detection, the spam bots are likely to
 get smarter. Fortunately, with WordPress's plug-in architecture, it is a
 simple matter of upgrading my spam strategy!
-
-</p>
 
   [previously]: http://www.pseudofish.com/blog/2005/10/04/comment-spam-hits-a-new-level/
   [WordPress 1.5]: http://wordpress.org/

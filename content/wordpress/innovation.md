@@ -5,23 +5,9 @@ Category: Management
 
 From the delightful [Jessica Hagy][]:
 
-</p>
-
-<p>
-> </p>
->
 > [![image][]][Jessica Hagy]
->
-> </p>
-> <p>
-
-</p>
-
-  
 
 Where would you rather be?
-
-</p>
 
   [Jessica Hagy]: http://indexed.blogspot.com/2008/05/whats-that-youve-found.html
   [image]: http://bp3.blogger.com/_FBXGhy-QmVw/SCBLuhF7TaI/AAAAAAAAByo/YGu0r7vVfZw/s320/card1530.JPG

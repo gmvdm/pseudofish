@@ -42,6 +42,4 @@ asked to be deleted, but had yet to actually delete.
 At least this is my theory on why deleted mail keeps popping back into
 my Inbox. Even if my theory is right, it doesn't make it less annoying.
 
-</p>
-
   [mails]: http://en.wikipedia.org/wiki/Bacn_(electronic)

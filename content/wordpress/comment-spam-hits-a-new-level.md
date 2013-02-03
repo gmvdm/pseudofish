@@ -21,11 +21,7 @@ I'm almost in agreement with [Seth Godin][] that if you want to have the
 conversation, start your own blog and then link back to the article.
 Almost.
 
-</p>
-
 Update: And now [an apology][] after the fact.
-
-</p>
 
   [Tom Coates]: http://www.plasticbag.org/archives/2005/09/on_cillit_bang_and_a_new_low_for_marketers.shtml
   [Hugh]: http://www.gapingvoid.com/Moveable_Type/archives/001965.html

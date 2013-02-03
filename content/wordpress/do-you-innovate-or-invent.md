@@ -13,7 +13,6 @@ gaining particular traction.
 Andrew has an interesting [article][] examining the difference between
 an invention and an innovation:
 
-<p>
 > Inventors must start with a world of possibilities and work to create
 > new ideas, patents, prototypes or processes, and propose that other
 > people should consider their contribution to the world (often through
@@ -21,7 +20,6 @@ an invention and an innovation:
 > inventors have already proposed, and turn that into something that
 > they follow through to adoption.
 
-</p>
 Which are you working on?
 
   [article]: http://www.sgi.nu/diary/2006/09/01/invention-versus-innovation/

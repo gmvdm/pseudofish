@@ -8,23 +8,15 @@ overview of the different types and applications of current machine
 learning algorithms. The course is available for free either on
 [YouTube][] or subscribe in [iTunes University][].
 
-</p>
-
 Be warned, this is a course on theory, so is taught through mathematics
 rather than programming. You will develop a deeper understanding, but it
 may hurt your brain.
 
-</p>
-
 The [section notes][] provide some assistance in reviewing the key
 concepts that you'll need.
 
-</p>
-
 I've watched the course, but I keep forgetting which lesson covered
 which topic. To remember, I've put together a brief summary below:
-
-</p>
 
 -   1 — Introduction and overview.
 -   2 — [Linear regression][], [Gradient Descent][], and [Normal
@@ -73,12 +65,8 @@ which topic. To remember, I've put together a brief summary below:
 -   20 — [POMDPs][] (Partially Observable MDPs), Policy Search,
     Reinforce, Pegasus, Conclusion.
 
-</p>
-
 iTunes University is a great way to keep up to date with a range of
 topics. Worth checking out to see what else you can find.
-
-</p>
 
   [Machine Learning]: http://www.stanford.edu/class/cs229/
   [YouTube]: http://www.youtube.com/results?search_query=machine+learning+stanford+%22machine+learning%22&as=1&and_queries=machine+learning+stanford&exact_query=machine+learning&or_queries=&negative_queries=&geo_name=stanford+ca&geo_latlong=&search_duration=&search_hl=&search_category_type=specific&search_category=27&search_sort=&uploaded=

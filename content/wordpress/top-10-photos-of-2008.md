@@ -5,92 +5,48 @@ Category: Photography
 
 After several hours of editing, these are my top 10 from 2008.
 
-</p>
-
 [Sunrise, Torquay][]
-
-</p>
 
 [![Sunrise, Torquay][1]][Sunrise, Torquay]
 
-</p>
-
 [Classic Portrait][]
-
-</p>
 
 [![Classic Portrait][2]][Classic Portrait]
 
-</p>
-
 [Winter afternoon][]
-
-</p>
 
 [![Winter afternoon, Saskatoon][]][Winter afternoon]
 
-</p>
-
 [Big Air, Falls Creek][]
-
-</p>
 
 [![Big Air, Falls Creek][3]][Big Air, Falls Creek]
 
-</p>
-
 [Great Wall at Badaling][]
-
-</p>
 
 [![Great Wall at Badaling, China][]][Great Wall at Badaling]
 
-</p>
-
 [Maheno Wreck, Fraser Island][]
-
-</p>
 
 [![Maheno Wreck, Fraser Island][4]][Maheno Wreck, Fraser Island]
 
-</p>
-
 [Creek][]
-
-</p>
 
 [![Creek][5]][Creek]
 
-</p>
-
 [Grain][]
-
-</p>
 
 [![Grain][6]][Grain]
 
-</p>
-
 [Milton, Brisbane][]
-
-</p>
 
 [![Milton, Brisbane][7]][Milton, Brisbane]
 
-</p>
-
 [Red Car, Parkville][]
-
-</p>
 
 [![Red Car, Parkville][8]][Red Car, Parkville]
 
-</p>
-
 The candidates for my best pictures of 2008 are in [this set][]; lots of
 depth from a photographic year.
-
-</p>
 
   [Sunrise, Torquay]: http://www.flickr.com/photos/gmwils/2261853139/
     "Sunrise, Torquay by gmwils, on Flickr"

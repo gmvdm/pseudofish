@@ -70,8 +70,6 @@ See also:
 -   [Language Bots in IM][]
 -   [Programming Fonts Revisited][]
 
-</p>
-
   [ACCS]: http://home.vicnet.net.au/~accs/MELTMETBL.html
   [ChinesePod]: http://chinesepod.com/
   [Jenny]: http://56minus1.com/2008/11/chats-jenny-zhu/

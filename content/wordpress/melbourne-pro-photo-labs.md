@@ -8,11 +8,7 @@ that I've bought an A4 photo printer for "proofing". For high quality
 prints, I'd rather outsource to a professional lab. The information on
 which ones are in Melbourne is a bit scattered, thus this list.
 
-</p>
-
 Melbourne labs:
-
-</p>
 
 -   [Bond Imaging][] – Richmond (*quote on request*)
 -   [CPL Digital][] – St Kilda ([price list][])
@@ -21,21 +17,15 @@ Melbourne labs:
 -   [NuLab][] – Braeside (*price list on registration*)
 -   [Vanbar Imaging][] – Carlton / North Melbourne ([price list][3])
 
-</p>
-
 To get the most out of a good photo lab, or any photo lab, you need to
 be using a colour managed workflow. This should include proofing in
 Photoshop based on the colour profile of the print device. If the lab
 can not supply a way of colour matching to their printer, you may want
 to consider another lab.
 
-</p>
-
 *Disclaimer*: I'm not affiliated with any of these labs. I actually
 haven't used most of them, so if you have recommendations, please leave
 a comment.
-
-</p>
 
   [Bond Imaging]: http://www.bondimaging.com/
   [CPL Digital]: http://www.cpldigital.com.au/

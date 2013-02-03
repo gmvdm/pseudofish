@@ -45,8 +45,6 @@ Facebook for a week. My Australian mobile also works, although I'll get
 a local SIM card today. Not sure if I get internet with a local SIM, so
 [Twitter][] updates are likely to be more sporadic.
 
-</p>
-
   [Babylon AD]: http://www.imdb.com/title/tt0364970/
   [Wall-E]: http://www.imdb.com/title/tt0910970/
   [Kung Fu Hip Hop]: http://www.imdb.com/title/tt1287843/

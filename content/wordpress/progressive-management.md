@@ -11,15 +11,12 @@ haven't been able to figure out.
 [Steve Pavlina][] posted a [great article][] on using progressive
 training to learn:
 
-> </p>
 > ... progressive training means changing various aspects of your
 > training to increase the challenge, including distance, speed,
 > duration, etc. If you keep lifting the same weights week after week,
 > you aren’t going to get much stronger. Progressive training helps
 > ensure that you remain in the sweet spot of challenge, so you grow
 > stronger in less time than you would otherwise.
->
-> <p>
 
 This is something well understood within most physical activities.
 Progression is something that I hear often when listening to
@@ -54,19 +51,11 @@ So if you are in a position of management, what is it that you do to
 increase your managerial skills? What is the heavy lifting to progress
 to the next level?
 
-</p>
-
 <u>Bonus links:</u>
-
-</p>
 
 [Current management theories][]
 
-</p>
-
 [Modern management example][]
-
-</p>
 
   [Steve Pavlina]: http://www.stevepavlina.com/blog/
   [great article]: http://www.stevepavlina.com/blog/2006/03/progressive-training/

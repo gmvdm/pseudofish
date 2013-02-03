@@ -49,8 +49,6 @@ purchase.
 If you know any other places to get reliable and cheap sales of Canon
 lenses, let me know in the comments.
 
-</p>
-
   [17-40mm f/4]: http://www.the-digital-picture.com/Reviews/Canon-EF-17-40mm-f-4.0-L-USM-Lens-Review.aspx
   [this web site]: http://www.the-digital-picture.com/Reviews/
   [Canon]: http://canon.com.au/products/visual/cameras_lenses_accessories/ultrawide_zoom_lenses.html

@@ -29,6 +29,4 @@ How to reduce your risk of cancer (excluding smoking).
 <small>Source: World Cancer Research Fund (via [the
 Economist][])</small>
 
-</p>
-
   [the Economist]: http://economist.com/science/displaystory.cfm?story_id=10062421

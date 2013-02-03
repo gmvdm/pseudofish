@@ -10,10 +10,7 @@ looking for developers.
 
 I can agree with the comment:
 
-<p>
 > Cocoa has a TOUGH learning curve
-
-</p>
 
 Even replacing Objective-C with Python (thanks to [PyObjC][]), Cocoa is
 still a large set of APIs and not something one can master overnight.

@@ -41,8 +41,6 @@ The next step for me is to actually sort out my own DAM procedures. My
 archival process is rather ad-hoc. At least I know what I should be
 doing and have some of the required tools.
 
-</p>
-
   [Lightroom]: http://www.adobe.com/products/photoshoplightroom/
     "Adobe Photoshop Lightroom"
   [DAM]: http://www.amazon.com/exec/obidos/asin/0596100183/ref=nosim/pseudofish-20

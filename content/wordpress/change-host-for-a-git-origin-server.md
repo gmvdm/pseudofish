@@ -8,55 +8,33 @@ using to collaborate on a few git projects with had the domain name
 expire. This meant finding a way of migrating the local repositories to
 get back in sync.
 
-</p>
-
 **Update:** Thanks to @[mawolf][] for pointing out there is an easy way
 with recent git versions (post Feb, 2010):
 
-</p>
-
-<p>
     git remote set-url origin ssh://newhost.com/usr/local/gitroot/myproject.git
-
-</p>
 
 See the [man page][] for details.
 
-</p>
-
 If you're on an older version, then try this:
-
-</p>
 
 As a caveat, this works only as it is the same server, just with
 different names.
 
-</p>
-
 Assuming that the new hostname is "newhost.com", and the old one was
 "oldhost.com", the change is quite simple.
-
-</p>
 
 Edit the .git/config file in your working directory. You should see
 something like:
 
-</p>
-
-<p>
-    [remote "origin"]    fetch = +refs/heads/*:refs/remotes/origin/*    url = ssh://oldhost.com/usr/local/gitroot/myproject.git
-
-</p>
+    [remote "origin"]
+    fetch = +refs/heads/*:refs/remotes/origin/*
+    url = ssh://oldhost.com/usr/local/gitroot/myproject.git
 
 Change `oldhost.com` to `newhost.com`, save the file and you're done.
-
-</p>
 
 From my limited testing (git pull origin; git push origin; gitx)
 everything seems in order. And yes, I know it is bad form to mess with
 git internals.
-
-</p>
 
   [mawolf]: http://twitter.com/mawolf/status/17334075193
   [man page]: http://www.kernel.org/pub/software/scm/git/docs/git-remote.html

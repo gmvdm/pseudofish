@@ -35,6 +35,4 @@ the recent increase in the average Australian weight.
 
 Sad, sad times.
 
-</p>
-
   [interesting article]: http://www.nytimes.com/2007/04/22/magazine/22wwlnlede.t.html?em&ex=1177819200&en=012aaa4af05f033c&ei=5087%0A
