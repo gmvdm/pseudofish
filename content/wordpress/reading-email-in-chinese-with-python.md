@@ -5,112 +5,69 @@ Category: Python
 
 Read email from a mailbox, in Chinese, with Python. Sounded easy.
 
-</p>
-
 After playing at the python prompt and many Google searches later, still
 no success. Then, I found [two][] [articles][] that helped.
-
-</p>
 
 Turns out that there are a few tricks to getting email parsing to work
 properly for multi-byte languages.
 
-</p>
-
 So, if you end up with strings something like:
 
-</p>
-
-<p>
     =?GB2312?Q?Qingwen_Word_List:_=D3=D0=D2=E2=CB=BC=B5=C4=B4=CA?=
-
-</p>
 
 Or:
 
-</p>
-
-<p>
     =CA=AF[=CA=AF] sh=A8=AA =A2=D9 rock =A2=DA stone =A2=DB stone inscription =A2==DC one of the eight ancient musical instruments =B0=CB=D2=F4[ba1 yin1]=20=C0=BC=BB=A8[=CCm=BB=A8] l=A8=A2nhu=A8=A1 =A2=D9 cymbidium =A2=DA orchid=20
 
-</p>
 
 Then, you'll need two different approaches. One for the header strings,
 and one for the body text.
 
-</p>
-
 Given an [email][] message, either from a string or file:
 
-</p>
-
-<p>
+    :::python
     from email import headerimport emailmsg = email.message_from_string(str_msg)
 
-</p>
 
 Then, headers can be read using something like:
 
-</p>
-
-<p>
+    :::python
     subject, encoding = header.decode_header(msg['Subject'])[0]print subject.decode(encoding)
-
-</p>
 
 Which gives:
 
-</p>
-
-<p>
+    :::python
     Qingwen Word List: 有意思的词
-
-</p>
 
 In this case, the encoding can be read from the email message and is
 'gb2312'.
 
-</p>
-
 The body text needs a slightly different approach:
 
-</p>
-
-<p>
+    :::python
     print unicode(msg.get_payload(decode=True), msg.get_content_charset(), 'replace')
-
-</p>
 
 For:
 
-</p>
-
-<p>
     石[石] shí ① rock ② stone ③ stone inscription ④ one of the eight ancient musical instruments 八音[ba1 yin1] 兰花[?花] lánhuā ① cymbidium ② orchid...
 
-</p>
 
 The ['replace'][] option will mark unknown characters using U+FFFD,
 rather than throw an exception.
 
-</p>
 
 This approach should work for most languages. Getting the various
 decodings sorted out allowed me to move forward on a project I'm working
 on. Now to re-implement it test first.
 
-</p>
 
 I know the format of the emails coming in, so can ignore multi-part MIME
 messages. If you are looking for some more details on how to handle
 them, check out [this article][two].
 
-</p>
-
 If you were curious about the =DA encoding, it is called
 [quoted-printable][] ([RFC][]).
 
-</p>
 
   [two]: http://ginstrom.com/scribbles/2007/11/19/parsing-multilingual-email-with-python/
   [articles]: http://lobstertech.com/python_unicode.html#hands_on_with_asian_spam
