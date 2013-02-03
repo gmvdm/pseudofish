@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<dl>
+{% for article in dates %}
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+{% endfor %}
+</dl>
+{% endblock %}
