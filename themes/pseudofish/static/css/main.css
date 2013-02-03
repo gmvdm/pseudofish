@@ -1,0 +1,10 @@
+/* Pseudofish main stylesheet
+   Author: Geoff Wilson
+   Version: 1
+ */
+
+@import url("pygment.css");
+
+body {
+    font-family: Helvetica, Arial, Verdana, sans-serif;
+}

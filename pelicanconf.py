@@ -14,6 +14,7 @@ DEFAULT_LANG = u'en'
 IGNORE_FILES = ['*.#*']
 
 THEME = 'themes/pseudofish'
+CSS_FILE = 'main.css'
 
 LINKS =  ()
 SOCIAL = ()
