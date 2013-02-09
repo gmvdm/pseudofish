@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'Geoff Wilson'
-SITENAME = u'Pseudofish'
+SITENAME = u'pseudofish'
 
 FEED_ATOM = 'atom.xml'
 FEED_MAX_ITEMS = 15
