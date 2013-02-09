@@ -27,6 +27,10 @@ body {
     margin: 0 auto 0;
 }
 
+.paginator {
+    text-align: center;
+}
+
 .codehilite {
     background-color: #F5FCFC;
     color: #404040;
