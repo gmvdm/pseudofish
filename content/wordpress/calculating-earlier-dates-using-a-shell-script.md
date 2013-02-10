@@ -12,14 +12,14 @@ with:
 
     ::shell
     #!/bin/sh
+
     MONTHS_AGO=3
     DATE_AGO_EPOCH=$((`date +%s` - $MONTHS_AGO * 31 * 24 * 3600))
     OSTYPE=`uname`
     FORMAT='+%Y-%m-%d'
 
     if [ "Linux" = $OSTYPE ] ; then
-      DATE_AGO_ISO=`date -d "1970-01-01 00:00 UTC + $DATE_AGO_EPOCH seconds"
-      $FORMAT`
+      DATE_AGO_ISO=`date -d "1970-01-01 00:00 UTC + $DATE_AGO_EPOCH seconds" $FORMAT`
     else
       DATE_AGO_ISO=`date -r $DATE_AGO_EPOCH $FORMAT`
     fi
