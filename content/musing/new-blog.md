@@ -16,3 +16,6 @@ database, and not so easy to transform.
 I'm not sure how attached I'll be to Markdown. I am contemplating adding
 [org-mode](http://orgmode.org/) support to Pelican, as I use it for most other
 notetaking.
+
+You may notice some duplicate articles via RSS. This is unfortunately due to
+changing the URL scheme.
