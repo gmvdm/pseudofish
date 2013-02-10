@@ -7,16 +7,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=anonymous
-FTP_TARGET_DIR=/
-
 SSH_HOST=pf
 SSH_PORT=22
 SSH_USER=gmwils
-SSH_TARGET_DIR=/home/gmwils/public_html/pseudofish.com/p
-
-DROPBOX_DIR=~/Dropbox/Public/
+SSH_TARGET_DIR=/home/gmwils/public_html/pseudofish.com
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -61,16 +55,6 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvz --delete $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-
-dropbox_upload: publish
-	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
-
-ftp_upload: publish
-	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
-
-github: publish
-	ghp-import $(OUTPUTDIR)
-	git push origin gh-pages
+	rsync -e "ssh -p $(SSH_PORT)" -P -rvz $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload github
