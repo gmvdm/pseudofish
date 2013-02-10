@@ -10,7 +10,7 @@ things we've seen, or that friends have found.
 To get up-to-date tips, contact me directly or via Twitter
 (@[gmwils][]).
 
-[![Fjäderholmarna, Stockholm Archipeligo][]][]
+![Fjäderholmarna, Stockholm Archipeligo][]
 
 ### Sights
 
@@ -110,8 +110,6 @@ These few phrases will get you far:
   [gmwils]: http://twitter.com/gmwils
   [Fjäderholmarna, Stockholm Archipeligo]: http://farm7.static.flickr.com/6026/5987241892_973d037135.jpg
     "Fjäderholmarna, Stockholm Archipeligo"
-  [![Fjäderholmarna, Stockholm Archipeligo][]]: http://www.flickr.com/photos/97356053@N00/5987241892
-    "View 'Fjäderholmarna, Stockholm Archipeligo' on Flickr.com"
   [Vasa Museum]: http://vasamuseet.se/en/
   [Nordic Museum]: http://en.wikipedia.org/wiki/Nordic_Museum
   [Skansen]: http://www.skansen.se/en/
