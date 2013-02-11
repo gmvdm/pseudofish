@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://pseudofish.com/sitemap.xml
