@@ -6,7 +6,7 @@ Category: Design, Musings
 > "Strunk and White's The Elements of Style" has sold more than 10
 > million copies since its initial publication in April 1959.
 
-[Newsday][] highlights the 50^th^ anniversary of the classic text on
+[Newsday][] highlights the 50<sup>th</sup> anniversary of the classic text on
 English grammar and writing style.
 
 This is *the* book on the subject.

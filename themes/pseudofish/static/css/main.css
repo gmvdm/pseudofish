@@ -104,6 +104,11 @@ a, a:visited {
     padding-bottom: 0.7em;
 }
 
+.content sup {
+    vertical-align:super;
+    font-size: 0.8em;
+}
+
 .content h2 {
     font-size: 1.4em;
 }

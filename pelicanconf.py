@@ -17,6 +17,7 @@ IGNORE_FILES = ['*.#*']
 
 THEME = 'themes/pseudofish'
 CSS_FILE = 'main.css'
+TYPOGRIFY = True
 
 LINKS =  ()
 SOCIAL = ()
