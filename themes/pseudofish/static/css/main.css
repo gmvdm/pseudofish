@@ -179,8 +179,12 @@ a, a:visited {
 
 /* Code */
 
-.codehilite {
+.codehilite, code {
     font-family: 'panic sans','bitstream vera sans mono',consolas,'lucida console',monaco,'courier new',Sans-Serif;
+    font-size: 0.9em;
+}
+
+.codehilite {
     font-size: 0.8em;
     background-color: #F5FCFC;
     color: #404040;
