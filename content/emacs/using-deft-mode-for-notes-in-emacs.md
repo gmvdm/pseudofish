@@ -3,7 +3,8 @@ Date: 2013-03-14
 Author: gmwils
 
 [Deft](http://jblevins.org/projects/deft/) mode is one of my favorite
-discoveries of emacs, when combined with the magic of org-mode.
+discoveries of [emacs](http://www.gnu.org/software/emacs/), especially when
+combined with the magic of [org-mode](http://orgmode.org/).
 
 I use the combination of both deft and org-mode almost every day. If I'm doing
 an interview, taking notes in a meeting, keeping a personal backlog or ideas
@@ -46,3 +47,17 @@ pbcopy`) to paste into email.
 Getting a solid system for note taking in emacs has helped with how often I
 use the same text editor. This was also part of my motivation of migrating my
 blog to text files (although markdown formatted).
+
+## Additional tips
+
+To launch emacs from the command line with deft mode open, I set the following
+alias:
+
+    alias de="emacs --eval '(deft)'"
+
+Often I have similar formats for things like notes, minutes or interviews. To
+avoid lots of typing, I use
+[yasnippet](http://capitaomorte.github.io/yasnippet/) to create templates.
+
+For some examples, see my
+[dotfiles](https://github.com/gmwils/dotfiles/tree/master/emacs.d/snippets/org-mode).
