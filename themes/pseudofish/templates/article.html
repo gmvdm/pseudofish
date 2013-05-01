@@ -4,6 +4,13 @@
   <meta property="og:type" content="article"/>
   <meta property="og:title" content="{{ article.title|striptags }}" />
   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+  <meta property="og:description" content="{{ article.summary|striptags }}" />
+  <meta name="twitter:card" value="summary">
+  <meta name="twitter:site" value="@gmwils">
+  <meta name="twitter:creator" value="@gmwils">
+  <meta name="twitter:description" value="{{ article.summary|striptags }}">
+  <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
+  <meta name="twitter:title" content="{{ article.title|striptags }}">
 {% endblock %}
 {% block title %}{{ article.title|striptags }} &mdash; pseudofish.org{% endblock %}
 {% block content %}

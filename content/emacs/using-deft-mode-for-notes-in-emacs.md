@@ -1,6 +1,7 @@
 Title: Using deft mode for notes in Emacs
 Date: 2013-03-14
 Author: gmwils
+Summary: How to use emacs to simplify note taking.
 
 [Deft](http://jblevins.org/projects/deft/) mode is one of my favorite
 discoveries of [emacs](http://www.gnu.org/software/emacs/), especially when
