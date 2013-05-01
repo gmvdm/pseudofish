@@ -2,15 +2,16 @@
 <html lang="{{ DEFAULT_LANG }}">
 <head>
   <meta charset="utf-8" />
-  {% block head %}
   <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-  {% endblock head %}
+
+{% block head %}{% endblock head %}
 
   <link href="http://feeds2.feedburner.com/Pseudofish" type="application/atom+xml" rel="alternate" title="pseudofish" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="author" content="Geoff Wilson"/>
   <meta name="copyright" content="&copy; Copyright 2005 to Present"/>
+  <meta property="og:site_name" content="Pseudofish" />
 
   <meta name="description" content="Geoff Wilson's site covering technology, development, agile practices, management and strategy."/>
 
