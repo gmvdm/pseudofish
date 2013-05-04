@@ -51,7 +51,7 @@ After cleaning up my .emacs.d configuration, I've now started using
 Emacs on Linux servers I use regularly. For temporary servers, I'll
 fallback to Vim as Emacs is often not installed.
 
-If you want to improve your emacs skills follow @[emacs\_knight][].
+If you want to improve your emacs skills follow @[emacs_knight][].
 
 ### Vim
 
@@ -113,7 +113,7 @@ text editor so often that a small improvement is a major payoff.
   [Aquamacs]: http://aquamacs.org/
   [macports]: http://www.macports.org/
   [here]: http://www.gnu.org/software/emacs/windows/Getting-Emacs.html#Getting-Emacs
-  [emacs\_knight]: https://twitter.com/#!/emacs_knight
+  [emacs_knight]: https://twitter.com/emacs_knight
   [The Vim Learning Curve is a Myth]: http://robots.thoughtbot.com/post/13164810557/the-vim-learning-curve-is-a-myth
   [Vim]: http://www.vim.org/download.php
   [MacVim]: http://code.google.com/p/macvim/
