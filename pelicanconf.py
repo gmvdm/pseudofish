@@ -24,6 +24,8 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 20
 
+STATIC_PATHS = ['images']
+
 FILES_TO_COPY = (('extras/robots.txt', 'robots.txt'),
                  ('extras/favicon.ico', 'favicon.ico'),)
 
