@@ -15,7 +15,7 @@ body {
 }
 
 @media (max-width : 640px) {
-    .article, .articles, .topcolor, .topheader, .pagefooter {
+    .article, .page, .articles, .topcolor, .topheader, .pagefooter {
         width: 100%;
         padding: 0 0.5em 0;
     }
@@ -25,7 +25,7 @@ body {
 }
 
 @media (min-width : 640px) {
-    .article, .articles, .topcolor, .topheader, .pagefooter {
+    .article, .page, .articles, .topcolor, .topheader, .pagefooter {
         width: 35em;
         padding: 0 2.5em 0;
         margin: 0 auto 0;
@@ -67,7 +67,7 @@ body {
     font-size: 0.9em;
 }
 
-.articles, .article {
+.articles, .article, .page {
     background-color: white;
 }
 
@@ -76,7 +76,7 @@ body {
     padding-bottom: 1.5em;
 }
 
-.entry-title, .article .title {
+.entry-title, .article .title, .page .title {
     font-size: 1.6em;
     font-weight: bold;
     color: #87A9D5;
@@ -183,8 +183,8 @@ a, a:visited {
 
 /* Code */
 
-.codehilite, code {
-    font-family: 'panic sans','bitstream vera sans mono',consolas,'lucida console',monaco,'courier new',Sans-Serif;
+.codehilite, code, pre {
+    font-family: 'panic sans','bitstream vera sans mono',consolas,'lucida console',monaco,'courier new', monospace;
     font-size: 0.9em;
 }
 
@@ -198,4 +198,9 @@ a, a:visited {
     margin-bottom: 0.5em;
     padding: 0.2em;
     overflow: auto;
+}
+
+.pgp {
+    font-family: 'lucida console',monaco,'courier new', monospace;
+    font-size: 0.8em;
 }
