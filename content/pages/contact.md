@@ -2,15 +2,17 @@ Title: Contact
 Author: gmwils
 Summary: Contact details & public key
 
+Where to find me on the web:
 
-Email: [gmwils@gmail.com](mailto:gmwils@gmail.com)
+* Twitter: @[gmwils](https://twitter.com/gmwils)
+* LinkedIn: [gmwils](http://www.linkedin.com/in/gmwils)
+* Email: [gmwils@gmail.com](mailto:gmwils@gmail.com)
 
-<br/>
 
 ### Secure contact
 
-For validating signed or handling encrypted communication, you can use
-[GPG](http://www.gnupg.org/).
+For validating signed or handling encrypted communication via email, you can
+use [GPG](http://www.gnupg.org/).
 
 This is my PGP key, which is valid until 23 June 2017.
 
