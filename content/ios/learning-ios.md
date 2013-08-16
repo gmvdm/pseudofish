@@ -38,6 +38,8 @@ and have available on my Mac for searching when needed.
   guests. A mix of iOS & Mac themes.
 * [Identical Cousins](http://identicalcousins.net/) -- general chat on a range
   of topics.
+* [Edge Cases](http://edgecasesshow.com/) -- two iOS experts chatting. What's
+  not to like.
 
 
 
