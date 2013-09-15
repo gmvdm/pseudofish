@@ -10,6 +10,11 @@ Summary: Three books that provide insight into modern Chinese history
 is a fascinating book, covering the philosophies of 11 leading thinkers and
 spanning from the Opium Wars in the 1800s through to modern times.
 
+> As the dramatis personae of this book abundantly illustrate, China’s modern
+> thinkers and leaders, smarting from the humiliation of precipitous decline and
+> foreign incursion, had their own more immediate and urgent goal, namely, the
+> restoration of national wealth, power and greatness.
+
 This book requires that you have a reasonable knowledge of
 [Chinese history](http://chinahistorypodcast.com/), and is stronger for
 assuming familiarity.
@@ -28,9 +33,10 @@ The people covered include:
 * Zhu Rongji (1928-)
 * Liu Xiaobo (1955-)
 
-Each has a strong vision for how China must change to recover its rightful
-place as the strongest nation. Given how badly China felt they were treated
-from the Opium Wars onwards, it makes for a very interesting perspective.
+> For a people possessed of such an abiding sense of pride and face, China’s
+> fall in the nineteenth century from a place of such centrality and dominance
+> was a special ignominy, and it engendered a very strong and enduring
+> counterreaction.
 
 Many of the ideas were brought in from tours of either Japan or the West, as
 well as being informed by China's long history. By taking a long view, you
