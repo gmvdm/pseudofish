@@ -11,6 +11,7 @@
   <meta name="twitter:description" value="{{ article.summary|striptags }}">
   <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
   <meta name="twitter:title" content="{{ article.title|striptags }}">
+  <link rel="author" href="https://plus.google.com/+GeoffvanderMeer77" />
 {% endblock %}
 {% block title %}{{ article.title|striptags }} &mdash; pseudofish.org{% endblock %}
 {% block content %}
@@ -26,7 +27,7 @@
       <address class="vcard author">
         By <a href="/pages/contact.html">
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span itemprop="name">
+            <span itemprop="name" class="fn">
               Geoff van der Meer
             </span>
           </span>
@@ -36,7 +37,7 @@
     {{ article.content }}
   </div>
   <footer class="post-info">
-    <abbr itemprop="datePublished" content="{{ article.data.isoformat() }}" class="published" title="{{ article.date.isoformat() }}">
+    <abbr itemprop="datePublished" content="{{ article.date.isoformat() }}" class="published" title="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </abbr>
   </footer><!-- /.post-info -->

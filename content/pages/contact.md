@@ -7,7 +7,7 @@ Where to find me on the web:
 * Twitter: @[gmwils](https://twitter.com/gmwils)
 * LinkedIn: [gmwils](http://www.linkedin.com/in/gmwils)
 * Email: [gmwils@gmail.com](mailto:gmwils@gmail.com)
-
+* Google+: [Geoff van der Meer](https://www.google.com/+GeoffvanderMeer77)
 
 ### Secure contact
 
