@@ -14,23 +14,29 @@
 {% endblock %}
 {% block title %}{{ article.title|striptags }} &mdash; pseudofish.org{% endblock %}
 {% block content %}
-<section class="article">
+<section class="article" itemscope itemtype="http://schema.org/Article">
   <header>
     <h2 class="title">
-      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+      <a itemprop="url" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
          title="Link to {{ article.title|striptags }}">{{ article.title }}</a>
     </h2>
   </header>
   <div class="content">
     <div class="author">
       <address class="vcard author">
-        By <a href="/pages/contact.html">Geoff van der Meer</a>
+        By <a href="/pages/contact.html">
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">
+              Geoff van der Meer
+            </span>
+          </span>
+        </a>
       </address>
     </div>
     {{ article.content }}
   </div>
   <footer class="post-info">
-    <abbr class="published" title="{{ article.date.isoformat() }}">
+    <abbr itemprop="datePublished" content="{{ article.data.isoformat() }}" class="published" title="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </abbr>
   </footer><!-- /.post-info -->
