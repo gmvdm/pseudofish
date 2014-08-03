@@ -77,6 +77,14 @@ body {
     font-size: 0.9em;
 }
 
+h2.category {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #576D8A;
+    padding-bottom: 1em;
+}
+
+
 .archives, .articles, .article, .page {
     background-color: white;
 }
@@ -92,7 +100,6 @@ body {
     color: #87A9D5;
     padding-bottom: 0.3em;
 }
-
 
 /* Links */
 
