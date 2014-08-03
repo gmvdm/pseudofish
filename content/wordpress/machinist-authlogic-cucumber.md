@@ -1,7 +1,7 @@
 Title: Machinist, AuthLogic & Cucumber
 Date: 2010-03-21 02:40
 Author: gmwils
-Category: Ruby
+Category: programming
 
 For a Rails app, I wanted to define rules about authentication using
 [Cucumber][] and a bit of BDD. This went well, until I added in

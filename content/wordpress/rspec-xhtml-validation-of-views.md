@@ -1,7 +1,7 @@
 Title: RSpec XHTML Validation of Views
 Date: 2010-06-19 16:02
 Author: gmwils
-Category: Ruby
+Category: programming
 
 A great way to learn is to read other people's code. And in that vein,
 Chris Lowe has a [great post][] on suggested OSS Rails apps to [look

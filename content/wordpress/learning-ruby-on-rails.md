@@ -1,7 +1,7 @@
 Title: Learning Ruby on Rails
 Date: 2010-02-15 13:30
 Author: gmwils
-Category: Ruby, Technology
+Category: programming
 
 This year, my technology goal is to learn Ruby on Rails.
 

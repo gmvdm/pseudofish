@@ -1,7 +1,7 @@
 Title: Joel: The Perils of JavaSchools
 Date: 2006-01-07 09:00
 Author: gmwils
-Category: Haskell, Musings
+Category: programming
 
 Joel Spolsky has an interesting [article][] about the difficulty of
 identifying an exceptional programmer if they are using Java.

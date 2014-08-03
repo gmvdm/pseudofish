@@ -1,7 +1,7 @@
 Title: Wow! And User Experiences
 Date: 2007-06-25 12:39
 Author: gmwils
-Category: Design, Technology
+Category: Design
 
 > People’s first reaction to such a device (“WOW”) is amazing. It is,
 > therefore, incredible disappointing to realize that the product is

@@ -1,7 +1,7 @@
 Title: Tracking Outbound Links with Rails 3
 Date: 2011-02-28 05:45
 Author: gmwils
-Category: Ruby
+Category: programming
 
 To gain some insight on what interests users, I want to be able to track
 which links they click on.

@@ -1,7 +1,7 @@
 Title: Timelapsed Tents
 Date: 2009-01-21 21:06
 Author: gmwils
-Category: Musings, Photography
+Category: photography
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/llJY1nFnmz4&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/llJY1nFnmz4&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 

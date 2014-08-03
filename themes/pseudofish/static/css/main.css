@@ -15,7 +15,7 @@ body {
 }
 
 @media (max-width : 640px) {
-    .article, .page, .articles, .topcolor, .topheader, .pagefooter {
+    .article, .archives, .page, .articles, .topcolor, .topheader, .pagefooter {
         padding: 0 0.8em 0;
     }
     .content ul, .content ol {
@@ -27,7 +27,7 @@ body {
 }
 
 @media (min-width : 640px) {
-    .article, .page, .articles, .topcolor, .topheader, .pagefooter {
+    .article, .archives, .page, .articles, .topcolor, .topheader, .pagefooter {
         width: 35em;
         padding: 0 2.5em 0;
         margin: 0 auto 0;
@@ -69,7 +69,7 @@ body {
     font-size: 0.9em;
 }
 
-.articles, .article, .page {
+.archives, .articles, .article, .page {
     background-color: white;
 }
 

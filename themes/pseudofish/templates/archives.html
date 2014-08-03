@@ -1,8 +1,24 @@
 {% extends "base.html" %}
+
 {% block content %}
-<dl>
+<section class="archives">
+<ol class="articletitles">
 {% for article in dates %}
-    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+<li>
+  <article class="hentry">
+    <header>
+      <abbr itemprop="datePublished" content="{{ article.date.isoformat() }}" class="published" title="{{ article.date.isoformat() }}">
+        {{ article.locale_date }}
+      </abbr>
+      <h2 class="entry-title">
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+           title="Permalink to {{ article.title|striptags }}">
+          {{ article.title }}</a>
+      </h2>
+    </header>
+  </article>
+</li>
 {% endfor %}
-</dl>
+</ol>
+</section>
 {% endblock %}
