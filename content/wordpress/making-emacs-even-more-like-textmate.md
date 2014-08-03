@@ -1,7 +1,7 @@
 Title: Making Emacs even more like TextMate
 Date: 2010-12-23 15:21
 Author: gmwils
-Category: programming
+Category: emacs
 
 Much as I love TextMate, I'm still trying to get back to one editor.
 Here are a two more things to make Aquamacs even more TextMate like.

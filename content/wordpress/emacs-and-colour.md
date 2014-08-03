@@ -1,7 +1,7 @@
 Title: Emacs and Colour
 Date: 2010-10-20 09:53
 Author: gmwils
-Category: clojure
+Category: emacs
 
 After spending time with emacs, I really enjoy its support for Clojure.
 However, the default colour scheme made me sad.
