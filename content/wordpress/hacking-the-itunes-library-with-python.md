@@ -1,7 +1,7 @@
 Title: Hacking the iTunes library with Python
 Date: 2005-07-18 20:23
 Author: gmwils
-Category: Apple, Musings, Python
+Category: python
 
 [Bob][] was having [a bit of trouble][] with his Airport Express.
 Fortunately for the rest of us, his solution involved delving into the

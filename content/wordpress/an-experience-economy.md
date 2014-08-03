@@ -1,7 +1,7 @@
 Title: An Experience Economy
 Date: 2009-03-30 18:00
 Author: gmwils
-Category: Business, Management, Musings
+Category: musings
 
 Joseph Pine's [talk][] at TED really has me thinking.
 

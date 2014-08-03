@@ -1,7 +1,7 @@
 Title: What Changed?
 Date: 2005-11-16 14:30
 Author: gmwils
-Category: Management, Musings
+Category: management
 
 I work at a software company, consulting for the newspaper industry.
 Newspapers are forever breaking their internal systems. A trait I'm sure

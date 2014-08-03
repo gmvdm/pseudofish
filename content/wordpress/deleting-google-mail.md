@@ -1,7 +1,7 @@
 Title: Deleting Google Mail
 Date: 2008-02-09 11:41
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 Of late I've noticed that deleting mail on my GMail account doesn't
 always work. Delete a message, check mail, and there it is back again.

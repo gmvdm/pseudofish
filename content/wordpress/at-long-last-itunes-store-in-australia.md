@@ -1,7 +1,7 @@
 Title: At long last: iTunes store in Australia
 Date: 2005-10-25 09:10
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 The perfect iPod accessory, legally downloadable music!
 

@@ -1,7 +1,7 @@
 Title: Help creating Apple Help
 Date: 2006-03-02 14:10
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 Useful [article][] (via [Usable Help][]) about creating online help for
 your Mac OS X application, including how to integrate context sensitive

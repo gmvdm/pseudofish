@@ -1,7 +1,7 @@
 Title: Saving a file using NSSavePanel
 Date: 2005-10-01 21:17
 Author: gmwils
-Category: Cocoa, Python
+Category: python
 
 Saving a file was something I'd been avoiding for a while, as I hadn't
 been able to find the right control in Interface Builder to make it

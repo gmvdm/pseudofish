@@ -1,7 +1,7 @@
 Title: Tracking a Hen's Tooth
 Date: 2007-05-30 23:31
 Author: gmwils
-Category: Musings, Photography
+Category: photography
 
 Ever since February in Florida, I've wanted a [Burton Zoom][] backpack.
 

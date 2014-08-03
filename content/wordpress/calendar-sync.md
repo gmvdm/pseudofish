@@ -1,7 +1,7 @@
 Title: Calendar Sync
 Date: 2008-03-06 15:36
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 I'm convinced that sync is a big thing. There are lots more players in
 this space, attempting to solve a simple problem: We use many devices.

@@ -1,7 +1,7 @@
 Title: It's Always a People Problem
 Date: 2007-12-08 20:36
 Author: gmwils
-Category: Business, Management
+Category: management
 
 From [The Secrets of Consulting][]:
 

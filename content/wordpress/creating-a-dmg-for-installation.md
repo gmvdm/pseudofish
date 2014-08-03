@@ -1,7 +1,7 @@
 Title: Creating a .dmg for installation
 Date: 2005-07-13 20:29
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 Having been talked out of making an installer, I still wanted to be able
 to automate the creation of a .dmg file for easy deployment.

@@ -1,7 +1,7 @@
 Title: Teaching isn't a Waste of Time
 Date: 2006-10-02 22:09
 Author: gmwils
-Category: Management, Musings
+Category: management
 
 From [Seth][]:
 

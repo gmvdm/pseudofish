@@ -1,7 +1,7 @@
 Title: Changing Tides in the Newspaper Business
 Date: 2007-05-07 23:50
 Author: gmwils
-Category: Business, Technology
+Category: technology
 
 [Various][] [pundits][] have been calling newspapers down and out in the
 media game. The reality, however, is not that simple. Instead, changing

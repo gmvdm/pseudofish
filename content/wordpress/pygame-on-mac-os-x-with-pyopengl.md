@@ -1,7 +1,7 @@
 Title: PyGame on Mac OS X with PyOpenGL
 Date: 2005-12-06 11:22
 Author: gmwils
-Category: Apple, Musings, Python
+Category: python
 
 As a result of [Richard Jones's talk][] at [OSDC2005][], I decided to
 install [PyGame][] to play around with.

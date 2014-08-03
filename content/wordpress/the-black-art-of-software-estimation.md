@@ -1,7 +1,7 @@
 Title: The Black Art of Software Estimation
 Date: 2007-01-23 15:55
 Author: gmwils
-Category: Management, Technology
+Category: technology
 
 Estimating software development is hard. But it doesn't have to be
 impossible.

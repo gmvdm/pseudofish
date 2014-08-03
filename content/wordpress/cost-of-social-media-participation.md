@@ -1,7 +1,7 @@
 Title: Cost of Social Media Participation
 Date: 2008-04-21 23:30
 Author: gmwils
-Category: Business, Media
+Category: musings
 
 Social media is the latest buzz phrase to describe the trend in *normal*
 people creating content. Something previously the realm of professional

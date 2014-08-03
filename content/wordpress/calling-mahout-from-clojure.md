@@ -1,7 +1,7 @@
 Title: Calling Mahout from Clojure
 Date: 2011-08-18 18:07
 Author: gmwils
-Category: Clojure, Technology
+Category: technology
 
 Mahout is a set of libraries for running machine learning processes,
 such as recommendation, clustering and categorisation.

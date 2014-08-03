@@ -1,7 +1,7 @@
 Title: Orbis Ring Flash for Events
 Date: 2009-03-03 22:18
 Author: gmwils
-Category: Musings, Photography
+Category: photography
 
 The [Orbis Ring flash][] is a low budget option for using portable
 strobes to power a ring flash. There are two big advantages to the

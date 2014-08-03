@@ -1,7 +1,7 @@
 Title: Bruce - Presentation software using PyGame
 Date: 2005-12-10 07:11
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 [Richard Jones][] has posted [Bruce][], the presentation software he
 used at the recent [OSDC][].

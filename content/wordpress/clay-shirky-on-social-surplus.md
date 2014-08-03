@@ -1,7 +1,7 @@
 Title: Clay Shirky on Social Surplus
 Date: 2008-04-27 21:45
 Author: gmwils
-Category: Media, Technology
+Category: technology
 
 Brilliant, brilliant [article][]. Go. Read. [Now][article].
 

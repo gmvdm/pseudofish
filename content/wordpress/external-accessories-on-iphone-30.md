@@ -1,7 +1,7 @@
 Title: External Accessories on iPhone 3.0
 Date: 2009-06-19 19:54
 Author: gmwils
-Category: Apple, Photography, Technology
+Category: apple
 
 My initial reaction to the [teasers][] for 3.0 was excitement. My
 understanding of the opening up of the accessory port to developers

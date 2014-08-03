@@ -1,7 +1,7 @@
 Title: iCal interactions
 Date: 2005-08-19 22:14
 Author: gmwils
-Category: Apple, Python
+Category: python
 
 Apple was nice enough to provide a feature rich interface for the
 AddressBook, and so I started my investigations of iCal with high hopes.

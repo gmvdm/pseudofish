@@ -1,7 +1,7 @@
 Title: Life in the 21st Century
 Date: 2009-06-02 09:29
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 -   On the flight, I get to watch lectures on iPhone development from
     [Stanford][], along with talks from a [conference][] in California.

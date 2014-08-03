@@ -1,7 +1,7 @@
 Title: Starting out with web services for Python
 Date: 2005-06-13 18:04
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 One of the things that I've been looking at is web services. So far,
 I've played around with .NET, Java (Axis) and PHP for writing and

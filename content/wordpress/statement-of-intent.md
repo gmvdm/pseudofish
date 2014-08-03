@@ -1,7 +1,7 @@
 Title: Statement of intent
 Date: 2005-05-03 21:49
 Author: gmwils
-Category: Apple, Python
+Category: python
 
 My initial aim for this site is to follow my progress of figuring out
 how to write a Cocoa application using Python. This is entirely possible

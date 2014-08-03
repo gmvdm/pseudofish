@@ -1,7 +1,7 @@
 Title: Origin of Wealth
 Date: 2007-06-07 23:21
 Author: gmwils
-Category: Business, Management
+Category: management
 
 From [The Origin of Wealth][]:
 

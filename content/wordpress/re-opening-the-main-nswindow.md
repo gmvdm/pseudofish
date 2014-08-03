@@ -1,7 +1,7 @@
 Title: Re-opening the main NSWindow
 Date: 2005-09-21 21:21
 Author: gmwils
-Category: Cocoa, Musings, Python
+Category: python
 
 I was faced with what seemed a very simple problem, when I closed the
 window on my application, I didn't have a way to open it again. For a

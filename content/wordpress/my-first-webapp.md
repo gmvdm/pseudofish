@@ -1,7 +1,7 @@
 Title: My First WebApp
 Date: 2007-03-25 16:07
 Author: gmwils
-Category: Haskell, Musings, Python, Technology
+Category: technology
 
 There are lots of technologies that I have been investigating recently,
 with the intent of building something useful. However, it's hard to

@@ -1,7 +1,7 @@
 Title: Owning an Agile Product
 Date: 2010-09-19 17:23
 Author: gmwils
-Category: Management, Technology
+Category: agile
 
 One of the challenges in running a successful agile project is having a
 strong product owner.

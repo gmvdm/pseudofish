@@ -1,7 +1,7 @@
 Title: Kanban & Agile Development
 Date: 2011-04-19 19:16
 Author: gmwils
-Category: Management, Technology
+Category: agile
 
 [Kanban][] is a scheduling system for work items that I'm exploring
 further.

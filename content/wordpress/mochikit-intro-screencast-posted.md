@@ -1,7 +1,7 @@
 Title: MochiKit Intro Screencast posted!
 Date: 2005-11-16 22:04
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 If you have ever tried JavaScript programming, you know how painful it
 is. You can not help but be impressed by [Bob Ippolito's][] work on

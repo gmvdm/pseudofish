@@ -1,7 +1,7 @@
 Title: Apple's recent announcements disappointing
 Date: 2005-10-13 09:34
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 Admittedly, I was *really* hoping for a video version of AirTunes. At
 the moment I'm stuck with way too many wires snaking around my living

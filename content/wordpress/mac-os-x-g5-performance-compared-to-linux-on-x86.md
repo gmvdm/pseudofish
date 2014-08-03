@@ -1,7 +1,7 @@
 Title: Mac OS X G5 performance compared to Linux on x86
 Date: 2005-06-05 21:46
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 There has been much coverage of the [performance comparison][] posted by
 Johan De Gelas at Anandtech.

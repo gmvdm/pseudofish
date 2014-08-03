@@ -1,7 +1,7 @@
 Title: Making a NSDocument application with PyObjC
 Date: 2005-06-22 22:02
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 To break things up a bit, I've been working on a different application,
 with the intent to return to the birthday example from Parts [1][],

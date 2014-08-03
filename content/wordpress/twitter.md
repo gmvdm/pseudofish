@@ -1,7 +1,7 @@
 Title: Twitter
 Date: 2008-03-06 18:22
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 I admit, I didn't understand [Twitter][] when it first came out. I still
 wasn't sold on the second wave of popularity. In fact, the blogosphere

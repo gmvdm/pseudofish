@@ -1,7 +1,7 @@
 Title: How to be an Innovator for Life
 Date: 2008-11-27 14:24
 Author: gmwils
-Category: Business, Musings
+Category: design
 
 [Tom Kelly][], of the design and development firm IDEO, gives a
 brilliant speech at Stanford's [ETL program][].

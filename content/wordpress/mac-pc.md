@@ -1,7 +1,7 @@
 Title: Mac ~= PC?
 Date: 2005-05-18 22:25
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 Over on [Apple matters][] there is a nice long essay on how a mac and a
 pc are similar, but that a mac is still better.

@@ -1,7 +1,7 @@
 Title: NDAs for Technology
 Date: 2007-01-17 11:39
 Author: gmwils
-Category: Business, Technology
+Category: technology
 
 One of the big hassles in my job has been attempting to organize NDA
 agreements with customers and partners. The fun and games begin with

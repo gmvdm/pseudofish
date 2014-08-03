@@ -1,7 +1,7 @@
 Title: Tracking Technology Trends
 Date: 2008-10-13 12:41
 Author: gmwils
-Category: Media, Technology
+Category: technology
 
 [Robert Scoble][] recently posted his [top list][] of interesting people
 for technology. He is a vocal advocate for [Friend Feed][]. It got me

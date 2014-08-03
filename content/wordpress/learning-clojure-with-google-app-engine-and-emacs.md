@@ -1,7 +1,7 @@
 Title: Learning Clojure with Google App Engine and Emacs
 Date: 2010-09-18 23:30
 Author: gmwils
-Category: Clojure, Musings, Technology
+Category: programming
 
 This is an overview to my attempts at getting Clojure with Emacs.
 Inspired by [this post][], I set out to learn three things

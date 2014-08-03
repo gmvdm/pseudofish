@@ -1,7 +1,7 @@
 Title: The Destruction of Value
 Date: 2008-04-11 10:13
 Author: gmwils
-Category: Business, Technology
+Category: technology
 
 Business and technology news is awash with the latest rounds of M&A.
 

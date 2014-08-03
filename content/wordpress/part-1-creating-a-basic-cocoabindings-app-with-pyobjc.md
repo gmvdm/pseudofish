@@ -1,7 +1,7 @@
 Title: Part 1 - Creating a basic CocoaBindings app with PyObjC
 Date: 2005-05-13 22:18
 Author: gmwils
-Category: Cocoa, Musings, Python
+Category: python
 
 Python provides a clean, easy to learn, easy to develop in programming
 language. Cocoa provides a rich, easy to program framework for building

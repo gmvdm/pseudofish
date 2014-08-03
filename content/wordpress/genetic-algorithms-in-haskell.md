@@ -1,7 +1,7 @@
 Title: Genetic Algorithms in Haskell
 Date: 2007-12-16 00:20
 Author: gmwils
-Category: Haskell, Technology
+Category: haskell
 
 I started with the idea of playing around with Genetic Algorithms
 ([GAs][]) in Haskell.The [links][] I found were to two research papers,

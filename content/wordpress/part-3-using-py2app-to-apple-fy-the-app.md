@@ -1,7 +1,7 @@
 Title: Part 3 - Using py2app to Apple-fy the app
 Date: 2005-05-29 12:52
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 `py2app` provides a few more things than just packaging up the code into
 a bundle. To make the app more of a first class citizen in the Apple

@@ -1,7 +1,7 @@
 Title: On Being Successful
 Date: 2007-07-24 21:45
 Author: gmwils
-Category: Business, Photography
+Category: photography
 
 Career advice from Dilbert's [Scott Adams][]:
 

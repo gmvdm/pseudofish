@@ -1,7 +1,7 @@
 Title: 50 Years of Style
 Date: 2009-03-25 08:17
 Author: gmwils
-Category: Design, Musings
+Category: design
 
 > "Strunk and White's The Elements of Style" has sold more than 10
 > million copies since its initial publication in April 1959.

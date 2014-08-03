@@ -1,7 +1,7 @@
 Title: Elementary Bluetooth using PyObjC
 Date: 2006-03-28 22:49
 Author: gmwils
-Category: Cocoa, Python
+Category: python
 
 Bluetooth connectivity to devices is supported on Mac OS X using Cocoa
 APIs, so is possible to access from Python. Bluetooth itself opens up a

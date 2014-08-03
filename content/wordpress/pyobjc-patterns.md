@@ -1,7 +1,7 @@
 Title: PyObjC patterns
 Date: 2005-07-05 23:37
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 [PyObjC - First Steps][]. Bob Ippolito has posted some common usage
 patterns for calling Objective C from Python.

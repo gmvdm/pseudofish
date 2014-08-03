@@ -1,7 +1,7 @@
 Title: Opening an AddressBook entry with PyObjC
 Date: 2005-07-19 21:02
 Author: gmwils
-Category: Cocoa, Musings, Python
+Category: python
 
 Having done some user testing on my DateList application, I discovered
 that they (me and my other test subject) expected something to happen

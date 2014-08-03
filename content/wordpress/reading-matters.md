@@ -1,7 +1,7 @@
 Title: Reading Matters
 Date: 2007-07-23 09:52
 Author: gmwils
-Category: Business, Management
+Category: management
 
 An interesting [article][] in the NYTimes on reading habits of CEOs:
 

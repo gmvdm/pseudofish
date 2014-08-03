@@ -1,7 +1,7 @@
 Title: PyObjC released for Tiger (and other stuff)
 Date: 2005-05-19 22:02
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 [PyObjC][] has been officially released for Tiger. This is a big
 upgrade, and includes wrappers for some of the new Tiger technologies,

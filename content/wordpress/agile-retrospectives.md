@@ -1,7 +1,7 @@
 Title: Agile Retrospectives
 Date: 2010-07-02 16:54
 Author: gmwils
-Category: Management, Technology
+Category: agile
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/qqtPZYigfNI&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qqtPZYigfNI&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 

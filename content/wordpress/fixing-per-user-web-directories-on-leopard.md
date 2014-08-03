@@ -1,7 +1,7 @@
 Title: Fixing per-user web directories on Leopard
 Date: 2007-11-17 17:55
 Author: gmwils
-Category: Apple, Musings
+Category: apple
 
 I do most of my web testing and development on localhost/\~gmwils.
 Unfortunately, the upgrade to Leopard made this very broken.

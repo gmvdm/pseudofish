@@ -1,7 +1,7 @@
 Title: Crossroads on Languages
 Date: 2005-09-10 12:27
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 Recently, I've been distracted by reading [Paul Graham's essays][] as a
 result of a Tim Bray [posting][].

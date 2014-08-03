@@ -1,7 +1,7 @@
 Title: Paul Graham: What Languages Fix
 Date: 2005-12-11 09:47
 Author: gmwils
-Category: Haskell, Musings
+Category: haskell
 
 Paul has an [interesting article][] about describing languages:
 

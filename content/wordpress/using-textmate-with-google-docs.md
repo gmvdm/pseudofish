@@ -1,7 +1,7 @@
 Title: Using TextMate with Google Docs
 Date: 2010-06-22 11:19
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 The new [Google Command Line][] opens up some interesting possibilities.
 One that I wanted to explore was using TextMate to edit basic Google

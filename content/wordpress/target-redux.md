@@ -1,7 +1,7 @@
 Title: Target (redux)
 Date: 2005-12-18 14:31
 Author: gmwils
-Category: Haskell, Musings
+Category: haskell
 
 After having spent some of [last week][] solving the Target word problem
 using Haskell, I thought I might try another language.

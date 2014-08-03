@@ -1,7 +1,7 @@
 Title: Reading a Twitter account from Clojure
 Date: 2011-05-09 06:52
 Author: gmwils
-Category: Clojure, Technology
+Category: technology
 
 For my [photography news][] site, I want to use Twitter as a data source
 for popular links. This involves getting tweets out of Twitter and into

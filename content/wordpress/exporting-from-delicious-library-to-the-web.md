@@ -1,7 +1,7 @@
 Title: Exporting Delicious Library to the web
 Date: 2005-10-07 23:06
 Author: gmwils
-Category: Apple, Python
+Category: python
 
 I've been using [Delicious Library][] for a while now and have been
 incredibly happy with the results. I even managed to figure out which

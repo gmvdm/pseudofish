@@ -1,7 +1,7 @@
 Title: Target - Finding Letters in Words
 Date: 2005-12-07 05:55
 Author: gmwils
-Category: Haskell, Musings, Python
+Category: haskell
 
 [Target][] - A simple word puzzle. The beginnings of pain. The basic
 problem is a grid of nine letters printed in a newspaper. One of the

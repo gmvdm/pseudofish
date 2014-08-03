@@ -1,7 +1,7 @@
 Title: PyObjC support for Tiger
 Date: 2005-05-04 22:43
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 [PyObjC adds support for Tiger specific technologies][] - however not in
 the current released build. You currently need to grab the source via

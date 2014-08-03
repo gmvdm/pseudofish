@@ -1,7 +1,7 @@
 Title: Ten Essential Development Practices
 Date: 2005-07-15 17:10
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 In [this article][] Damian Conway outlines ten development practices
 that he considers essential for developing big, business critical

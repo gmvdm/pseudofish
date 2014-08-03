@@ -1,7 +1,7 @@
 Title: Executive's Web 2.0 Survey
 Date: 2007-03-23 08:03
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 McKinsey recently conducted a [survey][] (free reg required) of
 business's use and intended use of Web 2.0 technologies.

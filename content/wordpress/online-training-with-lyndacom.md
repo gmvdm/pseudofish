@@ -1,7 +1,7 @@
 Title: Online Training with Lynda.com
 Date: 2009-09-07 16:41
 Author: gmwils
-Category: Musings, Photography
+Category: photography
 
 With my CS4 registration, Adobe gave me one month of a [Lynda.com][]
 subscription. I didn't think this would be useful, and was expecting to

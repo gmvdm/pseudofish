@@ -1,7 +1,7 @@
 Title: Part 2 - Using Address Book and making an app
 Date: 2005-05-24 22:04
 Author: gmwils
-Category: Musings, Python
+Category: python
 
 Having successfully created a simple Cocoa application using Python in
 [Part 1][], the next step is to integrate data from Apple's Address Book

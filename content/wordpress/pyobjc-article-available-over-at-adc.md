@@ -1,7 +1,7 @@
 Title: PyObjC article available over at ADC
 Date: 2005-08-17 19:58
 Author: gmwils
-Category: Apple, Cocoa, Musings, Python
+Category: python
 
 Apple has recently posted an [introduction to PyObjC][] over at ADC. The
 article is courtesy of the [Red Shed][] and even includes movies of the

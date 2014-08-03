@@ -1,7 +1,7 @@
 Title: Wired's Interview of Google CEO
 Date: 2007-04-16 11:48
 Author: gmwils
-Category: Management, Technology
+Category: management
 
 Eric Schmidt was [interviewed][] recently by Wired. Some of the
 hightlights from the discussion include:

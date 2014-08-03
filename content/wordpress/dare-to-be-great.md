@@ -1,7 +1,7 @@
 Title: Dare to be Great
 Date: 2007-05-16 01:00
 Author: gmwils
-Category: Management, Musings
+Category: management
 
 The [ETL series][] has been consistently good, and the recent lectures
 have continued the tradition.

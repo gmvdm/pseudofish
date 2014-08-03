@@ -1,7 +1,7 @@
 Title: Programming Fonts
 Date: 2007-11-08 18:13
 Author: gmwils
-Category: Apple, Design
+Category: programming
 
 James Duncan Davidson writes a bit about fixed width fonts on Mac OS X:
 

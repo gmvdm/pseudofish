@@ -1,7 +1,7 @@
 Title: Pimp My Code, Part 5: In Python
 Date: 2005-10-03 22:17
 Author: gmwils
-Category: Cocoa, Musings, Python
+Category: python
 
 Wil Shipley continues his *Pimp My Code series* with an [article][]
 reviewing what should have been a very simple method to return a path

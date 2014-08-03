@@ -1,7 +1,7 @@
 Title: Progressive Management
 Date: 2006-04-15 08:25
 Author: gmwils
-Category: Management, Musings
+Category: management
 
 Recently, I've been learning some new skills and re-aquiring some old
 ones. So I'm paying attention to the process involved in developing a

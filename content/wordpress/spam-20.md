@@ -1,7 +1,7 @@
 Title: Spam 2.0
 Date: 2007-01-22 11:08
 Author: gmwils
-Category: Musings, Technology
+Category: technology
 
 The amount of comment spam has been rising rapidly, even with efforts to
 [reduce][] the tide. As a result, I weighed up the benefits of comments

@@ -1,7 +1,7 @@
 Title: Making Light of Copyright
 Date: 2007-07-16 23:26
 Author: gmwils
-Category: Apple, Photography
+Category: photography
 
 In [Lightroom][], I want to set some metadata on [import][]. The tricky
 bit is entering the copyright symbol, on both Mac and PC.
