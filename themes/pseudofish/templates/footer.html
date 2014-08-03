@@ -1,8 +1,11 @@
   <footer class="pagefooter">
-<!--
-    {% for cat, null in categories %}
-    <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+    <h5>Categories</h5>
+    <p>{% for cat, null in categories %}
+     <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>{% if not loop.last %},{% endif %}
     {% endfor %}
--->
+    </p>
+
+    <div class="copyright"><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Copyright
+    © 2005-2014</a> &ndash; Geoff van der Meer</div>
   </footer>
 

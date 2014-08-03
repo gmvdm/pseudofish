@@ -37,9 +37,17 @@ body {
 }
 
 .pagefooter {
-    background-color: white;
+    color: #B8C1CD;
+    background-color: #576D8A;
     padding-top: 0.5em;
     padding-bottom: 3em;
+}
+
+.copyright {
+    padding-top: 1.0em;
+    padding-bottom: 0.5em;
+    text-align: right;
+    font-size: 0.8em;
 }
 
 .topcolor {
@@ -95,6 +103,10 @@ a, a:visited {
 
 .entry-title a, .entry-title a:visited, .article .title a, .article.title a:visited {
     color: #87A9D5;
+}
+
+.pagefooter a, .pagefooter a:visited {
+    color: #eee;
 }
 
 /* Site Content */
