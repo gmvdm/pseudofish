@@ -6,18 +6,7 @@
 
 {% block head %}{% endblock head %}
 
-  <link href="http://feeds2.feedburner.com/Pseudofish" type="application/atom+xml" rel="alternate" title="pseudofish" />
-
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="Geoff van der Meer"/>
-  <meta name="copyright" content="&copy; Copyright 2005 to Present"/>
-  <meta property="og:site_name" content="Pseudofish" />
-
-  <meta name="description" content="Geoff van der Meer talking about technology, development, agile practices, management and strategy."/>
-
-  <link rel="openid.server" href="http://www.myopenid.com/server" />
-  <link rel="openid.delegate" href="http://gmwils.myopenid.com/" />
-
+  {% include "sitemetadata.html" %}
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
 
   {% include "analytics.html" %}
