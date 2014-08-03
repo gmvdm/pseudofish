@@ -72,6 +72,18 @@ body {
     color: #576D8A;
 }
 
+.titleheader {
+    color: #576D8A;
+    font-weight: normal;
+    font-size: 0.8em;
+    padding-bottom: 0.3em;
+}
+
+.titleheader .category {
+    font-weight: bold;
+    color: #576D8A;
+}
+
 .subheader {
     color: #B8C1CD;
     font-size: 0.9em;
@@ -83,7 +95,6 @@ h2.category {
     color: #576D8A;
     padding-bottom: 1em;
 }
-
 
 .archives, .articles, .article, .page {
     background-color: white;
@@ -99,6 +110,10 @@ h2.category {
     font-weight: bold;
     color: #87A9D5;
     padding-bottom: 0.3em;
+}
+
+.article .title {
+    padding-bottom: 0.8em;
 }
 
 /* Links */
