@@ -1,7 +1,7 @@
 Title: Reversion - Return to Previous State
 Date: 2007-02-01 15:57
 Author: gmwils
-Category: Musings
+Category: musings
 
 After a year of living in Brisbane, I'm returning to Melbourne and have
 accepted a position at my old company, Atex.

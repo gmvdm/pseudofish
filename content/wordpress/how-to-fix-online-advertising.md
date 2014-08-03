@@ -1,7 +1,7 @@
 Title: How to fix online advertising
 Date: 2010-08-13 15:12
 Author: gmwils
-Category: Media
+Category: media
 
 Fark's Drew Curtis is [interviewed][] by the O'Reilly team and has some
 good insights on how to succeed with internet advertising.

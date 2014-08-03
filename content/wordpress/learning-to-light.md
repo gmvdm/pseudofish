@@ -1,7 +1,7 @@
 Title: Learning to Light
 Date: 2006-11-20 20:34
 Author: gmwils
-Category: Photography
+Category: photography
 
 > Beauty is in the eye of the cheque book holder
 >

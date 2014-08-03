@@ -1,7 +1,7 @@
 Title: Reflections and revelations
 Date: 2006-06-06 22:40
 Author: gmwils
-Category: Musings
+Category: musings
 
 There is a school of thought that a blog is a useful tool for personal
 development - a tool for change. Learning a new programming API is only

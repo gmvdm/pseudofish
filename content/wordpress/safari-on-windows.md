@@ -1,7 +1,7 @@
 Title: Safari on Windows
 Date: 2007-11-16 22:30
 Author: gmwils
-Category: Apple
+Category: apple
 
 [Safari][] has been available on Windows for a while. This provides
 Apple with a wider development platform for iPhone apps. It also gives

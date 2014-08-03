@@ -1,7 +1,7 @@
 Title: Beijing Restaurants (北京饭馆)
 Date: 2008-12-14 23:25
 Author: gmwils
-Category: Musings
+Category: chinese
 
 While in Beijing, I did a lot of dining out. There were some great
 experiences and one questionable one.

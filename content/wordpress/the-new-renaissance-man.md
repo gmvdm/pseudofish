@@ -1,7 +1,7 @@
 Title: The New Renaissance Man
 Date: 2007-01-12 08:53
 Author: gmwils
-Category: Management
+Category: management
 
 The book [In Search of Excellence][] (by [Tom Peters][] and [Robert
 Waterman][]) mentions work by Stanford's Harold Leavitt on the

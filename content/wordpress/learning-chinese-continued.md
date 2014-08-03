@@ -1,7 +1,7 @@
 Title: Learning Chinese - continued
 Date: 2010-06-18 15:29
 Author: gmwils
-Category: Musings
+Category: chinese
 
 Since my [last post][], I've spent a fair bit more time on improving my
 Chinese. Some recent changes to my routine have improved the speed at

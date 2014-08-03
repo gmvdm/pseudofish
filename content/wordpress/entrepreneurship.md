@@ -1,7 +1,7 @@
 Title: Entrepreneurship
 Date: 2006-06-13 00:31
 Author: gmwils
-Category: Management
+Category: management
 
 > To be sure, people who need certainty are unlikely to make good
 > entrepreneurs. But such people are unlikely to do well in a host of

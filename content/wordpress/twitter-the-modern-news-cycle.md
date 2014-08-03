@@ -1,7 +1,7 @@
 Title: Twitter & The Modern News Cycle
 Date: 2009-05-19 08:50
 Author: gmwils
-Category: Media
+Category: media
 
 Yesterday, Monday 18th May, an earthquake measuring 5 on the richter
 scale struck California.

@@ -1,7 +1,7 @@
 Title: Reading email in Chinese with Python
 Date: 2012-10-15 16:41
 Author: gmwils
-Category: Python
+Category: python
 
 Read email from a mailbox, in Chinese, with Python. Sounded easy.
 

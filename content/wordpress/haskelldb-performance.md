@@ -1,7 +1,7 @@
 Title: HaskellDB Performance
 Date: 2008-05-18 23:47
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 Things did not go well with HaskellDB when I ran my query across a large
 data set. MySQL as a query optimizer, sucked. Postgres seems to be doing

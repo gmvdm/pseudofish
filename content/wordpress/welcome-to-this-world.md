@@ -1,7 +1,7 @@
 Title: Welcome to this World
 Date: 2007-04-04 19:10
 Author: gmwils
-Category: Musings
+Category: musings
 
 Ronan Thomas Lampert arrived this morning to his proud [parents][]. All
 are doing well.

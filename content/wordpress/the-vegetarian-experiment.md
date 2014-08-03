@@ -1,7 +1,7 @@
 Title: The Vegetarian Experiment
 Date: 2006-12-12 18:16
 Author: gmwils
-Category: Musings
+Category: musings
 
 Boxing Day 2005 -- a point of inflection in my life, the day I started
 my vegetarian experiment. I've been asked recently as to if I'll

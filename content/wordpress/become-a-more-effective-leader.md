@@ -1,7 +1,7 @@
 Title: Become a more effective leader
 Date: 2008-10-08 21:22
 Author: gmwils
-Category: Management
+Category: management
 
 [Manager Tools][] (MT) is a weekly podcast that provides free training
 on how to be a more effective manager and leader. The hosts have an

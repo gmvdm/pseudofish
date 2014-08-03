@@ -1,7 +1,7 @@
 Title: Vanity and Rupert
 Date: 2008-10-06 08:17
 Author: gmwils
-Category: Media
+Category: media
 
 [Rupert Murdoch][] opens up to Vanity Fair's Michael Wolff as background
 for an upcoming biography. The [article][Rupert Murdoch] provides great

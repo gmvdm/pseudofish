@@ -1,7 +1,7 @@
 Title: Update
 Date: 2005-07-12 18:30
 Author: gmwils
-Category: Musings
+Category: musings
 
 It's been a while since I posted, due to a few other things going on. I
 also have a couple of articles in the wings that are waiting for me to

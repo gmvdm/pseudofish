@@ -1,7 +1,7 @@
 Title: Looking Sideways, the Art of
 Date: 2007-12-09 14:28
 Author: gmwils
-Category: Design
+Category: design
 
 Dreams
 

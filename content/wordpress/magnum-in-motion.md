@@ -1,7 +1,7 @@
 Title: Magnum In Motion
 Date: 2007-09-07 00:29
 Author: gmwils
-Category: Photography
+Category: photography
 
 If you enjoy photography, subscribe to [Magnum in Motion][] (in
 [iTunes][]).

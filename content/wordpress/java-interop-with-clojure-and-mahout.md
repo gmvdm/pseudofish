@@ -1,7 +1,7 @@
 Title: Java interop with Clojure and Mahout
 Date: 2011-08-24 02:13
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 While porting a simple example of generating a Hadoop file for Mahout, I
 came across a number of edge cases of the Clojure [Java interop][].

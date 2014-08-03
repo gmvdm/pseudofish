@@ -1,7 +1,7 @@
 Title: Quantitative Trading
 Date: 2010-05-11 00:36
 Author: gmwils
-Category: Business
+Category: business
 
 Quantitative trading is something I know almost nothing about, but is a
 topic that I find interesting. Mixing computers, math and some luck to

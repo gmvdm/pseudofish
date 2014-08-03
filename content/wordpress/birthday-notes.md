@@ -1,7 +1,7 @@
 Title: Birthday Notes
 Date: 2005-12-23 12:16
 Author: gmwils
-Category: Cocoa
+Category: python
 
 [Birthday Notes][] is an application with two purposes. On one hand it
 provides an easy way to keep track of people's birthdays on Mac OS X.

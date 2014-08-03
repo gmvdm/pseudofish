@@ -1,7 +1,7 @@
 Title: 5 Tips for Learning to Manage
 Date: 2006-10-17 08:29
 Author: gmwils
-Category: Management
+Category: management
 
 I've blogged about [management][] before, and still don't have any
 answers. What I do have, is a range of ways of improving.

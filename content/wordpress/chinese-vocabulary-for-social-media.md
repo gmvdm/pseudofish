@@ -1,7 +1,7 @@
 Title: Chinese vocabulary for Social Media
 Date: 2010-09-19 15:30
 Author: gmwils
-Category: Musings
+Category: chinese
 
 [Jeremy Webb][], over at the [Asia Digital Map blog][], has a great list
 of [Chinese terms][] for the social media web:

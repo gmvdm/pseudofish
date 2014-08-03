@@ -1,7 +1,7 @@
 Title: Replacing sublis in Clojure
 Date: 2011-07-27 04:06
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 In porting some Lisp code across to Clojure, I was missing the
 [sublis][] function, or at least something similar.

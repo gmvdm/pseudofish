@@ -1,7 +1,7 @@
 Title: How to find Cocoa Developers?
 Date: 2005-06-20 22:39
 Author: gmwils
-Category: Musings
+Category: technology
 
 MacSlash has opened up the forums for discussion on [Finding Cocoa
 Developers][]. This topic should provide interesting reading for

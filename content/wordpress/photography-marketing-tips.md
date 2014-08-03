@@ -1,7 +1,7 @@
 Title: Photography Marketing Tips
 Date: 2008-07-14 09:25
 Author: gmwils
-Category: Photography
+Category: photography
 
 > 1.  Be Aggressive
 > 2.  Diversify

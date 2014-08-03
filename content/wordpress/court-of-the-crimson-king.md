@@ -1,7 +1,7 @@
 Title: Court of the Crimson King
 Date: 2007-03-11 16:57
 Author: gmwils
-Category: Musings
+Category: musings
 
 [Robert Fripp][] has long inhabited my music collection. I inherited an
 [old LP][] and then was hooked. His collaborations with Brian Eno have

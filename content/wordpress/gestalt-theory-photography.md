@@ -1,7 +1,7 @@
 Title: Gestalt Theory & Photography
 Date: 2009-02-24 19:28
 Author: gmwils
-Category: Photography
+Category: photography
 
 > The Gestalt effect refers to the form-forming capability of our senses
 > (the word Gestalt in German literally means "shape" or "figure"),

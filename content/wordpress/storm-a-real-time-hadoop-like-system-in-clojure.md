@@ -1,7 +1,7 @@
 Title: Storm - a real time Hadoop like system in Clojure
 Date: 2011-09-26 02:33
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 I am very excited about the potential unleashed by [Storm][].
 

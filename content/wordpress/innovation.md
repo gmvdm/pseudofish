@@ -1,7 +1,7 @@
 Title: Innovation
 Date: 2008-05-07 13:11
 Author: gmwils
-Category: Management
+Category: management
 
 From the delightful [Jessica Hagy][]:
 

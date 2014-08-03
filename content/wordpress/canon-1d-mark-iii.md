@@ -1,7 +1,7 @@
 Title: Canon 1D Mark III
 Date: 2007-12-16 00:07
 Author: gmwils
-Category: Photography
+Category: photography
 
 [![Canon][]][]
 

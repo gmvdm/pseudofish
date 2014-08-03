@@ -1,7 +1,7 @@
 Title: On Writing, The Story of an Author
 Date: 2007-07-31 19:40
 Author: gmwils
-Category: Musings
+Category: musings
 
 I grew up reading. Reading lots. As a child, Mum would take me to the
 local library to borrow books; ten at a time. I read everything I could

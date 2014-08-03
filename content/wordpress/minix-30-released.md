@@ -1,7 +1,7 @@
 Title: Minix 3.0 released
 Date: 2005-10-24 21:49
 Author: gmwils
-Category: Musings
+Category: technology
 
 [OSNews story][] on the release of [Minix 3.0][].
 

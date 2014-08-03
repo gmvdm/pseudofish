@@ -1,7 +1,7 @@
 Title: Kill Spam with WordPress
 Date: 2005-10-19 19:19
 Author: gmwils
-Category: Musings
+Category: musings
 
 *Update:* Perhaps too much optimism too early. Even with what logically
 seems like a good way of stopping comment spam, I'm still receiving

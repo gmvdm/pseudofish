@@ -1,7 +1,7 @@
 Title: Installing HAppS
 Date: 2006-08-20 14:06
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 Update: [HAppS 0.8.2][] is out, which works with the latest version of
 FPS. (FPS 0.8 from latest darcs)

@@ -1,7 +1,7 @@
 Title: Change Host for a Git Origin Server
 Date: 2010-06-28 21:19
 Author: gmwils
-Category: Technology
+Category: technology
 
 Hopefully this isn't something you need to do. The server that I've been
 using to collaborate on a few git projects with had the domain name

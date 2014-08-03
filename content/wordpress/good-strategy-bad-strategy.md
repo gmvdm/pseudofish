@@ -1,7 +1,7 @@
 Title: Good Strategy Bad Strategy
 Date: 2012-06-24 22:53
 Author: gmwils
-Category: Management
+Category: business
 
 My current reading list is mixed between coding, decision making, agile,
 and strategy. Richard Rumelt's [Good Strategy Bad Strategy][] stands out

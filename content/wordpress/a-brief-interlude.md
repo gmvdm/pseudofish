@@ -1,7 +1,7 @@
 Title: A brief interlude
 Date: 2005-09-07 10:16
 Author: gmwils
-Category: Musings
+Category: musings
 
 ### Another Glitch in the Call
 

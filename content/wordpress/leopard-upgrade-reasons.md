@@ -1,7 +1,7 @@
 Title: Leopard Upgrade Reasons
 Date: 2006-09-20 22:36
 Author: gmwils
-Category: Apple
+Category: apple
 
 From [wincent][] on Leopard APIs:
 

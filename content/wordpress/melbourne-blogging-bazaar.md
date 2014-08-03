@@ -1,7 +1,7 @@
 Title: Melbourne Blogging Bazaar
 Date: 2007-05-24 00:04
 Author: gmwils
-Category: Musings
+Category: musings
 
 Melbourne's inaugural [blogging meet-up][] came together tonight with a
 very strong turnout.

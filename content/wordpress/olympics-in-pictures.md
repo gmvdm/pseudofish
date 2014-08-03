@@ -1,7 +1,7 @@
 Title: Olympics in Pictures
 Date: 2008-08-16 22:18
 Author: gmwils
-Category: Photography
+Category: photography
 
 I wasn't hugely interested in the Olympics from a sporting perspective.
 I'm more a Winter Olympics kinda guy. However, I've found myself

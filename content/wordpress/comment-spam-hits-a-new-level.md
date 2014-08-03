@@ -1,7 +1,7 @@
 Title: Comment spam hits a new level
 Date: 2005-10-04 09:12
 Author: gmwils
-Category: Musings
+Category: musings
 
 An interesting read by [Tom Coates][] about an advertising firm (maybe)
 using comment spam to promote cleaning products.

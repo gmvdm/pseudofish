@@ -1,7 +1,7 @@
 Title: Attention vs Social networks
 Date: 2006-01-31 09:07
 Author: gmwils
-Category: Musings
+Category: musings
 
 Insight into the world of online networks:
 

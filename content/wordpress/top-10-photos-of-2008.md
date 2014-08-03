@@ -1,7 +1,7 @@
 Title: Top 10 Photos of 2008
 Date: 2009-01-27 20:56
 Author: gmwils
-Category: Photography
+Category: photography
 
 After several hours of editing, these are my top 10 from 2008.
 

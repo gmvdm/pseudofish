@@ -1,7 +1,7 @@
 Title: Notes on using Maven
 Date: 2011-03-14 03:38
 Author: gmwils
-Category: Technology
+Category: technology
 
 I've been looking at build tools for JVM projects. These are the notes I
 took while reviewing [Maven][].

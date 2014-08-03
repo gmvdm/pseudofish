@@ -1,7 +1,7 @@
 Title: Positioning
 Date: 2011-11-28 20:37
 Author: gmwils
-Category: Business
+Category: business
 
 [Positioning][], by Al Ries and Jack Trout, has long been on my *to
 read* list, and I wish I had read it sooner.

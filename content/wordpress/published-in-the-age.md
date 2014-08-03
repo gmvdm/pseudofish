@@ -1,7 +1,7 @@
 Title: Published in the Age
 Date: 2009-01-22 20:51
 Author: gmwils
-Category: Photography
+Category: photography
 
 
 <a href="http://www.flickr.com/photos/97356053@N00/3217585642"

@@ -1,7 +1,7 @@
 Title: A/B Testing Overview
 Date: 2010-06-25 10:41
 Author: gmwils
-Category: Musings
+Category: design
 
 A/B Testing is how sites like Amazon, Yahoo, Google, Facebook and others
 became the best in the world. They used data to drive decisions about

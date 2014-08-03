@@ -1,7 +1,7 @@
 Title: Innovative Management
 Date: 2007-11-04 20:53
 Author: gmwils
-Category: Management
+Category: management
 
 From [McKinsey][]:
 

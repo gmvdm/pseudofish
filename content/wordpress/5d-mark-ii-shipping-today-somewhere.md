@@ -1,7 +1,7 @@
 Title: 5D Mark II Shipping Today, Somewhere
 Date: 2008-11-26 08:15
 Author: gmwils
-Category: Photography
+Category: photography
 
 Canon's new [5D][] has [started shipping][] in the US.
 
@@ -13,7 +13,7 @@ and can ship this week.
 China is a bit luckier, as it is [already available][] in selected
 camera stores.
 
-<u>Bonus:</u> Video editing tutorials for FCP and the 5D.
+<em>Bonus:</em> Video editing tutorials for FCP and the 5D.
 
 -   [Editing 5D footage][]
 -   [Color Grading 5D footage][]

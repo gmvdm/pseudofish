@@ -1,7 +1,7 @@
 Title: Web Application Frameworks
 Date: 2011-02-03 21:53
 Author: gmwils
-Category: Technology
+Category: technology
 
 I've been thinking about building a web application that behaves more
 like a desktop application. Think MobileMe, GMail, Google Docs, etc.

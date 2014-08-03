@@ -1,7 +1,7 @@
 Title: N11 - Another BRIC in the wall
 Date: 2007-05-23 08:34
 Author: gmwils
-Category: Business
+Category: business
 
 This week's [Economist][] has a special report on international banking.
 With the rise in new types of financial instruments, and private equity

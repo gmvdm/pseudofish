@@ -1,7 +1,7 @@
 Title: Mobilizing Minds
 Date: 2007-12-10 11:48
 Author: gmwils
-Category: Management
+Category: management
 
 [Mobilizing Minds][] takes the ideas from a range of sources, including
 the [Origins of Wealth][] and the authors own experiences, to create a

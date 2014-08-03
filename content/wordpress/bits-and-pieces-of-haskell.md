@@ -1,7 +1,7 @@
 Title: Bits and Pieces of Haskell
 Date: 2006-11-28 18:11
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 There are a few threads that I've been attempting to unravel that don't
 quite justify their own post. However, as each is proving to be very

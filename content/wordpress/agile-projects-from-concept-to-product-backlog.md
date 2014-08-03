@@ -1,7 +1,7 @@
-Title: Agile projects – From Concept to Product Backlog
+Title: Agile projects – From Concept to Product Backlog
 Date: 2010-04-30 18:13
 Author: gmwils
-Category: Technology
+Category: agile
 
 Agile is something that I've previously found to work very well with
 in-house R&D projects, and rather more challenging when negotiating

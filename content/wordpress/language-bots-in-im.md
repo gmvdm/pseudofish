@@ -1,7 +1,7 @@
 Title: Language Bots in IM
 Date: 2008-03-25 20:33
 Author: gmwils
-Category: Musings
+Category: technology
 
 Instant message bots are all the rage at the moment. [Twitter][] has an
 IM bot, [Google][] has recently provided language translation via

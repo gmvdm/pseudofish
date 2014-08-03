@@ -1,7 +1,7 @@
 Title: Sharpen the Saw: Typing
 Date: 2012-03-07 00:14
 Author: gmwils
-Category: Musings
+Category: technology
 
 I once explained my job as an overpaid typist.
 

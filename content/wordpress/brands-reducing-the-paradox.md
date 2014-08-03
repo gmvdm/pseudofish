@@ -1,7 +1,7 @@
 Title: Brands - Reducing the Paradox?
 Date: 2006-10-06 23:39
 Author: gmwils
-Category: Musings
+Category: business
 
 Barry Schwartz presented a very compelling meme at the Google campus,
 the [Paradox of Choice][]. In a nutshell, choice is good, lots of choice

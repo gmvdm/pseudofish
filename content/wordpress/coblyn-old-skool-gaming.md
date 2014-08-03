@@ -1,7 +1,7 @@
 Title: Coblyn - Old Skool Gaming
 Date: 2008-06-21 18:11
 Author: gmwils
-Category: Apple
+Category: apple
 
 <a href="http://www.muryan.com/coblyn/" rel="external">
 

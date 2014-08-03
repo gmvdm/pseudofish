@@ -1,7 +1,7 @@
 Title: Sad Truth about Food Economics
 Date: 2007-04-27 17:48
 Author: gmwils
-Category: Musings
+Category: musings
 
 The New York Times has an [interesting article][] (free reg req.) about
 the economics of food sold in supermarkets.

@@ -1,7 +1,7 @@
 Title: Tony Blair
 Date: 2007-06-07 23:32
 Author: gmwils
-Category: Musings
+Category: management
 
 [What I've Learned][], an article by Tony Blair, covers his time as
 prime minister of Britain.

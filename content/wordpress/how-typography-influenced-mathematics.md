@@ -1,7 +1,7 @@
 Title: How Typography Influenced Mathematics
 Date: 2007-08-27 23:00
 Author: gmwils
-Category: Musings
+Category: design
 
 > The predominant use of the letter *x* to represent an unknown value
 > came about in an interesting way. During the printing of *La

@@ -1,7 +1,7 @@
 Title: Browser Wars Hot Up; Who Cares?
 Date: 2009-02-03 06:38
 Author: gmwils
-Category: Musings
+Category: technology
 
 [Recent reports][] highlight Internet Explorer's drop in percentage of
 internet users. Given the huge war between Mozilla and IE, it sounds

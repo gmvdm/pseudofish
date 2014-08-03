@@ -1,7 +1,7 @@
 Title: Stockholm Tourist Sights
 Date: 2011-07-30 19:00
 Author: gmwils
-Category: Musings
+Category: musings
 
 This is my current list of things to do and see if you happen to be
 visiting Stockholm for a weekend or a bit longer. The list is based on

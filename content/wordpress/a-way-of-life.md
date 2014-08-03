@@ -1,7 +1,7 @@
 Title: A Way of Life
 Date: 2006-10-09 19:24
 Author: gmwils
-Category: Photography
+Category: photography
 
 > To take photographs means to recognize -- simultaneously and within a
 > fraction of a second -- both the fact itself and the rigorous

@@ -1,7 +1,7 @@
 Title: Debugging Python with PDB
 Date: 2012-05-03 02:51
 Author: gmwils
-Category: Python
+Category: python
 
 I suck at using debuggers, largely because I don't launch them often
 enough.

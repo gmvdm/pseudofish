@@ -1,7 +1,7 @@
 Title: Off to China
 Date: 2008-12-08 08:35
 Author: gmwils
-Category: Musings
+Category: musings
 
 I start a two week trip through China today; mostly for business, and
 mostly not sharable in public (pesky NDAs again). However, I will post a

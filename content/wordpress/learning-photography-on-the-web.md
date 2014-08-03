@@ -1,7 +1,7 @@
 Title: Learning Photography on the Web
 Date: 2006-06-09 20:23
 Author: gmwils
-Category: Photography
+Category: photography
 
 Ansel Adams' instructional series ([Camera][], [Negative][], [Print][])
 was my introduction to photography. Over the last month or two, I found

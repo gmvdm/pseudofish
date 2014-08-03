@@ -1,7 +1,7 @@
 Title: WSDL - where to now?
 Date: 2005-05-08 17:04
 Author: gmwils
-Category: Musings
+Category: technology
 
 WSDL is useful in the enterprise space where toolsets do most of the
 heavy lifting, but it really is too much hard work to write WSDL from

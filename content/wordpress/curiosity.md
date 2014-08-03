@@ -1,7 +1,7 @@
 Title: Curiosity
 Date: 2006-11-06 15:30
 Author: gmwils
-Category: Photography
+Category: photography
 
 > If I were just curious, it would be very hard to say to someone, “I
 > want to come to your house and have you talk to me and tell me the

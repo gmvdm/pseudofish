@@ -1,7 +1,7 @@
 Title: Emacs or Vim
 Date: 2011-11-25 01:33
 Author: gmwils
-Category: Technology
+Category: emacs
 
 After over 12 years of using Vi(m), and a brief fling with TextMate, I
 [started][] [using][] Emacs as my primary editor.

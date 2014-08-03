@@ -1,7 +1,7 @@
 Title: Postgres database migrations with Python
 Date: 2012-11-18 02:41
 Author: gmwils
-Category: Python
+Category: python
 
 If you need to setup database migrations that work both locally and on
 [Heroku][] in Python, these steps may be helpful.

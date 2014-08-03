@@ -1,7 +1,7 @@
 Title: The Anti-Hero
 Date: 2006-09-22 01:54
 Author: gmwils
-Category: Musings
+Category: musings
 
 As a big fan of the TV series [24][], I identify quite strongly with the
 central character. The anti-hero. Jack Bauer.

@@ -1,7 +1,7 @@
 Title: High Tea in Sorrento
 Date: 2009-05-18 09:24
 Author: gmwils
-Category: Musings
+Category: photography
 
 After being overly busy with work, a weekend in Melbourne allowed for
 relaxing travel. Michelle and I went down to Sorrento to visit a friend

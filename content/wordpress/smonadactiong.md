@@ -1,7 +1,7 @@
 Title: s/Monad/Action/g
 Date: 2005-12-07 10:28
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 [Autrijus][] gave a wonderful [talk][] on [Haskell][] at OSDC. One
 insight that must be shared:

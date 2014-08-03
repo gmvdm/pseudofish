@@ -1,7 +1,7 @@
 Title: Yes, We are All Different
 Date: 2007-06-07 23:14
 Author: gmwils
-Category: Musings
+Category: musings
 
 ### Generation Me
 

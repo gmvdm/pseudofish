@@ -1,7 +1,7 @@
 Title: Death of a language
 Date: 2008-02-12 10:14
 Author: gmwils
-Category: Musings
+Category: musings
 
 On January 21^st^, aged 89, Marie Smith died and with her the Eyak
 language passed into oblivion.

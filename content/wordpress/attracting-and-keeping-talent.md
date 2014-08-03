@@ -1,7 +1,7 @@
 Title: Attracting and keeping talent
 Date: 2006-11-30 15:25
 Author: gmwils
-Category: Management
+Category: management
 
 [John Hagel][] has a brilliant summary of [talent acquisition][] and how
 to avoid talent drain.

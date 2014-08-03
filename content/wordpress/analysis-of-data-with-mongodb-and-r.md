@@ -1,7 +1,7 @@
 Title: Analysis of data with MongoDB and R
 Date: 2011-05-25 00:59
 Author: gmwils
-Category: Technology
+Category: data
 
 For my [photography news][] site, I've ended up with a data store of a
 lot of blog articles in [MongoDB][]. To try and look for patterns, I

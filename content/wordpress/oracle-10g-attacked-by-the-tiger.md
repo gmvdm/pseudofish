@@ -1,7 +1,7 @@
 Title: Oracle 10g attacked by the Tiger
 Date: 2005-05-06 23:45
 Author: gmwils
-Category: Apple
+Category: apple
 
 [This forum post][] explained through the pain of others how I lost an
 evening attempting to install Oracle.

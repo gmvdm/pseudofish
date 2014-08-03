@@ -1,7 +1,7 @@
 Title: How to install Oracle on Mac OS X 10.4 (Tiger)
 Date: 2005-05-26 20:06
 Author: gmwils
-Category: Apple
+Category: apple
 
 Install [instructions][] are now available for getting Oracle to work on
 Mac OS X 10.4. I'm happily able to type `sqlplus` in Terminal and not

@@ -1,7 +1,7 @@
 Title: Media 09 Conference - Summary
 Date: 2009-02-18 12:56
 Author: gmwils
-Category: Media
+Category: media
 
 [Media 09][] is a new media conference held in Sydney. I attended last
 year's, and missed this year due to being in Canada. Fortunately, Brad

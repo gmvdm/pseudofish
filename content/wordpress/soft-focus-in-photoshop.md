@@ -1,7 +1,7 @@
 Title: Soft Focus in Photoshop
 Date: 2008-04-29 09:08
 Author: gmwils
-Category: Photography
+Category: photography
 
 [Photoshop TV][]'s Matt Kloskowski highlighted a great tip for soft
 focus, based on a sharpening technique.

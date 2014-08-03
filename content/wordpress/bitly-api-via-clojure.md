@@ -1,7 +1,7 @@
 Title: Bitly API via Clojure
 Date: 2011-07-03 04:51
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 While playing with links in Clojure for [Photozeit][], I wanted to
 shorten them via Bit.ly and to also lookup click counts per link.

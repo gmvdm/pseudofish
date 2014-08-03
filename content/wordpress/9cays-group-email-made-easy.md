@@ -1,7 +1,7 @@
 Title: 9cays - group email made easy
 Date: 2006-03-03 13:40
 Author: gmwils
-Category: Musings
+Category: technology
 
 Friends have launched the beta of their email based web app, [9cays][].
 The basic premise is that you CC a special email address and then get a

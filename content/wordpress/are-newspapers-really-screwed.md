@@ -1,7 +1,7 @@
 Title: Are Newspapers Really Screwed?
 Date: 2007-08-13 23:27
 Author: gmwils
-Category: Business
+Category: business
 
 [Alley Insider][] claims newspapers are screwed, and provides a
 financial model to explain why. Using the New York Times as a case

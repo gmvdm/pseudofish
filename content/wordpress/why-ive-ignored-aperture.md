@@ -1,7 +1,7 @@
 Title: Why I've Ignored Aperture
 Date: 2007-05-04 16:53
 Author: gmwils
-Category: Photography
+Category: photography
 
 One word: [Lightroom][]
 

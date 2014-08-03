@@ -1,7 +1,7 @@
 Title: The Value of LOC Metrics
 Date: 2007-02-13 15:06
 Author: gmwils
-Category: Technology
+Category: technology
 
 Two interesting things turned up for me around the same time that have
 ended up linked. The first is the concept of using Lines of Code (LOC)

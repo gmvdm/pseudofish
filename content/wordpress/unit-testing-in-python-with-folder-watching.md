@@ -1,7 +1,7 @@
 Title: Unit testing in Python with folder watching
 Date: 2012-03-14 05:09
 Author: gmwils
-Category: Python
+Category: python
 
 Unit testing is good. Running unit tests manually is annoying.
 

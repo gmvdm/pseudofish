@@ -1,7 +1,7 @@
 Title: User Generated Metatdata used by Google
 Date: 2007-02-14 14:50
 Author: gmwils
-Category: Technology
+Category: technology
 
 If you are interested in the search world, Andy has a great [article][]
 about the inclusion of Wikipedia results in Google's OneBox results.

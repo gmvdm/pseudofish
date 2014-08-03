@@ -1,7 +1,7 @@
 Title: MapReduce Examples
 Date: 2010-10-30 21:36
 Author: gmwils
-Category: Technology
+Category: technology
 
 In investigating [MongoDB][] I decided to explore MapReduce to analyse
 the posts from a heap of RSS feeds. However, the MongoDB documentation

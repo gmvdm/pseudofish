@@ -1,7 +1,7 @@
 Title: Cancer Risk Analysis
 Date: 2007-11-07 07:44
 Author: gmwils
-Category: Musings
+Category: musings
 
 How to reduce your risk of cancer (excluding smoking).
 

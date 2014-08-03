@@ -1,7 +1,7 @@
 Title: A New Theory on Brains
 Date: 2009-05-09 16:02
 Author: gmwils
-Category: Musings
+Category: musings
 
 [Jeff Hawkins][]' TED talk on brain science got me thinking. He posits
 that the act of thinking is about predicting, rather than about

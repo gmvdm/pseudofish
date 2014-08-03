@@ -1,7 +1,7 @@
 Title: More Unicode for Python articles
 Date: 2005-06-17 13:49
 Author: gmwils
-Category: Python
+Category: python
 
 O'Reilly sites have added two new articles on Unicode and Python.
 

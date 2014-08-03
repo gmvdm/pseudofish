@@ -1,7 +1,7 @@
 Title: Top 10 Photos of 2009
 Date: 2010-01-24 16:20
 Author: gmwils
-Category: Photography
+Category: photography
 
 With much consideration, this is my selection of my top 10 photos from
 2009. (in no particular order)

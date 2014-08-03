@@ -1,7 +1,7 @@
 Title: Canon 5D Mark II And Wow
 Date: 2008-09-18 21:29
 Author: gmwils
-Category: Photography
+Category: photography
 
 ![image][]
 

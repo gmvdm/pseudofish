@@ -1,7 +1,7 @@
 Title: Adding Filtering to list by subclassing an NSArrayController
 Date: 2005-08-06 14:32
 Author: gmwils
-Category: Cocoa
+Category: python
 
 In the previous series of articles, we've covered [getting started][],
 [basic Address Book][] usage, and [making an app bundle][]. This time,

@@ -1,7 +1,7 @@
 Title: Magic
 Date: 2006-08-18 20:12
 Author: gmwils
-Category: Musings
+Category: musings
 
 One of my favorite quotes!
 

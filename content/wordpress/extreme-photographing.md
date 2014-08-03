@@ -1,7 +1,7 @@
 Title: Extreme Photographing
 Date: 2008-06-13 08:50
 Author: gmwils
-Category: Photography
+Category: photography
 
 [This edition][] of [Michael Clark][]'s newsletter is a doozie. Aside
 from reminding me of my annoyance with Canon for not having a decent

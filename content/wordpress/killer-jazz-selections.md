@@ -1,7 +1,7 @@
 Title: Killer Jazz Selections
 Date: 2007-01-09 21:39
 Author: gmwils
-Category: Musings
+Category: musings
 
 Thanks to [Brad][] I'm addicted to Barry Eisler's books. The main
 protagonist, John Rain, is like Jack Bauer from 24 except with a license

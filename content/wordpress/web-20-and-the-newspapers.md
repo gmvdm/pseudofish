@@ -1,7 +1,7 @@
 Title: Web 2.0 and the Newspapers
 Date: 2008-10-31 20:02
 Author: gmwils
-Category: Media
+Category: media
 
 *(Based on my [speech][] at [PANPA][] this year)*
 

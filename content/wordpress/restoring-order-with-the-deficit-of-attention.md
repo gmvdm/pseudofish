@@ -1,7 +1,7 @@
 Title: Restoring order with the Deficit of Attention
 Date: 2005-10-31 20:07
 Author: gmwils
-Category: Musings
+Category: musings
 
 Due to a temporary lack of internet service, I have been enjoying
 uninterrupted computer usage. And it is unnerving.

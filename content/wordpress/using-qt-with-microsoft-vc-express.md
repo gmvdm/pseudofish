@@ -1,7 +1,7 @@
 Title: Using Qt with Microsoft VC++ Express
 Date: 2006-12-14 15:42
 Author: gmwils
-Category: Technology
+Category: technology
 
 [Qt][] is a happy little framework that runs on pretty much anything
 from Windows to embedded Linux. Most of my experience with it has been

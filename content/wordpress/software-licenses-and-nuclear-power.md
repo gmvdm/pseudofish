@@ -1,7 +1,7 @@
 Title: Software licenses and nuclear power
 Date: 2005-10-03 18:15
 Author: gmwils
-Category: Musings
+Category: technology
 
 In a recent [sample][] from Sun, I noticed the following in their
 license:

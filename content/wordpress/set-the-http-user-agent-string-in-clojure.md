@@ -1,7 +1,7 @@
 Title: Set the HTTP User-Agent string in Clojure
 Date: 2011-04-27 02:38
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 I wanted to be able to set the User Agent string for web requests made
 from Clojure. This is polite when crawling other sites, otherwise the

@@ -1,7 +1,7 @@
 Title: China Road
 Date: 2007-11-20 15:23
 Author: gmwils
-Category: Musings
+Category: musings
 
 > Over years of living in China, I have spoken to dozens of Chinese
 > professors and experts, intellectuals and urbanites who give the

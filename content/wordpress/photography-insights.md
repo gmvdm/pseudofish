@@ -1,7 +1,7 @@
 Title: Photography Insights
 Date: 2008-02-27 08:04
 Author: gmwils
-Category: Photography
+Category: photography
 
 From the [Adobe(r) Lightroom][] podcast with Catherine Hall:
 
@@ -19,7 +19,6 @@ podcast series where I do not miss an episode. I went back and listened
 to the early shows. There is much to learn about photography in these
 interviews.
 
-  
 
 From the [LightSource][] podcast with [David Tobie][] from [Data
 Color][]:

@@ -1,7 +1,7 @@
 Title: Rocks have their place
 Date: 2008-05-17 13:23
 Author: gmwils
-Category: Musings
+Category: musings
 
 > One day, a Tibetan Lama was speaking to a group of monks and, to make
 > a point, pulled out a large jar, set it on the table in front of him,

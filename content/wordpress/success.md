@@ -1,7 +1,7 @@
 Title: Success
 Date: 2006-08-23 09:45
 Author: gmwils
-Category: Musings
+Category: musings
 
 From [Seth Godin][]:
 

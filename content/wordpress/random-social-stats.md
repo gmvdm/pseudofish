@@ -1,7 +1,7 @@
 Title: Random Social Stats
 Date: 2007-11-04 20:36
 Author: gmwils
-Category: Musings
+Category: musings
 
 -   472 contacts in AddressBook
 -   234 RSS feeds subscribed to

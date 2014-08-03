@@ -1,7 +1,7 @@
 Title: The Other 95%
 Date: 2007-11-13 23:45
 Author: gmwils
-Category: Musings
+Category: technology
 
 Rumour is that search as we know it only solves 5% of the problem.
 

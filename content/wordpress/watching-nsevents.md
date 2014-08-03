@@ -1,7 +1,7 @@
 Title: Watching NSEvents
 Date: 2005-07-27 18:50
 Author: gmwils
-Category: Cocoa
+Category: apple
 
 In the midst of investigating how events are passed around within Cocoa
 and I found some interesting information. Based on the [Apple Tech Note

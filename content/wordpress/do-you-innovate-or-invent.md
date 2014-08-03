@@ -1,7 +1,7 @@
 Title: Do you Innovate or Invent?
 Date: 2006-09-02 22:44
 Author: gmwils
-Category: Musings
+Category: business
 
 From the perspective of an entrepreneur, an idea on its own is not worth
 much. To be valuable, the idea has to be nurtured through to a product

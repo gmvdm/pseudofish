@@ -1,7 +1,7 @@
 Title: Phishing for a Holiday
 Date: 2005-11-15 19:43
 Author: gmwils
-Category: Musings
+Category: musings
 
 In keeping with the interruption theme, I was interrupted by a phone
 call from an Indian woman telling me in a toneless voice that I should

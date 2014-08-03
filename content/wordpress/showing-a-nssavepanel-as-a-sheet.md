@@ -1,7 +1,7 @@
 Title: Showing a NSSavePanel as a sheet
 Date: 2005-10-16 23:28
 Author: gmwils
-Category: Cocoa
+Category: python
 
 Using a sheet to display a save panel adds for a significant user
 interface improvement. Based on the simplicity of a range of other Cocoa
@@ -12,14 +12,24 @@ bridge.
 
 Creating the panel and creating the sheet is as follows:
 
-    sp = NSSavePanel.savePanel()       sp.setRequiredFileType_('ics')        sp.setNameFieldLabel_('Export As:')sp.beginSheetForDirectory_file_modalForWindow_modalDelegate_didEndSelector_contextInfo_(\    userDocumentFolder(),'default.ics',\    NSApp().mainWindow(),self,\    'didEndSheet:returnCode:contextInfo:',0)
+    sp = NSSavePanel.savePanel()
+    sp.setRequiredFileType_('ics')
+    sp.setNameFieldLabel_('Export As:')
+    sp.beginSheetForDirectory_file_modalForWindow_modalDelegate_didEndSelector_contextInfo_(\
+        userDocumentFolder(),'default.ics',\
+        NSApp().mainWindow(),self,\
+        'didEndSheet:returnCode:contextInfo:',0)
 
 The tricky bit is the asynchronous callback, which is passed in as an
 Objective C selector: `'didEndSheet:returnCode:contextInfo:'`
 
 In Python terms, the following method does the trick:
 
-    def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):    if returnCode == NSCancelButton:        return    # Save the file returned by sheet.filename()    print sheet.filename()
+    def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):
+        if returnCode == NSCancelButton:
+            return
+        # Save the file returned by sheet.filename()
+        print sheet.filename()
 
 I only had one slight problem. The application crashed when the user
 clicked a button on the sheet.
@@ -37,11 +47,27 @@ why the type signature is important.
 
 The Python 2.4 version (using decorators) looks like:
 
-    from objc import *@objc.signature('v@:@ii')def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):    if returnCode == NSCancelButton:        return    # Save the file returned by sheet.filename()
+    from objc import *
+
+    @objc.signature('v@:@ii')
+    def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):
+        if returnCode == NSCancelButton:
+            return
+
+        # Save the file returned by sheet.filename()
 
 With the standard version like:
 
-    from objc import *def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):    if returnCode == NSCancelButton:        return    # Save the file returned by sheet.filename()    print sheet.filename()didEndSheet_returnCode_contextInfo_ = objc.selector(\        didEndSheet_returnCode_contextInfo_ , signature='v@:@ii')
+    from objc import *
+
+    def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):
+        if returnCode == NSCancelButton:
+            return
+
+       # Save the file returned by sheet.filename()
+       print sheet.filename()
+       didEndSheet_returnCode_contextInfo_ = objc.selector(\
+           didEndSheet_returnCode_contextInfo_ , signature='v@:@ii')
 
 With the type information added in, the callback can locate the method
 on the object and all is well in the world. Files are saved, memory
@@ -65,7 +91,17 @@ provides an example.
 Using a convenience method on AppHelper, the type information does not
 need to be explicitly included in the code for the endSheet case:
 
-    from PyObjCTools import AppHelper# Python 2.4@AppHelper.endSheetMethoddef didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):   pass# Python 2.3def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):    passdidEndSheet_returnCode_contextInfo_ = AppHelper.endSheetMethod(\        didEndSheet_returnCode_contextInfo_)
+    from PyObjCTools import AppHelper
+
+    # Python 2.4
+    @AppHelper.endSheetMethod
+    def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):
+        pass
+
+    # Python 2.3
+    def didEndSheet_returnCode_contextInfo_(self, sheet, returnCode, info):
+        passdidEndSheet_returnCode_contextInfo_ = AppHelper.endSheetMethod(\
+            didEndSheet_returnCode_contextInfo_)
 
 This third option provides cleaner code, but still didn't explain where
 type signatures come from.

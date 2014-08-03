@@ -1,7 +1,7 @@
 Title: HFS+ (Case-sensitive, Journaled)
 Date: 2005-05-09 01:27
 Author: gmwils
-Category: Apple
+Category: apple
 
 After tracking down why a few apps broke on my new Tiger install, I was
 starting to ponder the wisdom of formating my main drive as case

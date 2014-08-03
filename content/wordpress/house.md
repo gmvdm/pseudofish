@@ -1,7 +1,7 @@
 Title: House
 Date: 2005-07-05 00:37
 Author: gmwils
-Category: Musings
+Category: musings
 
 For a bit of a change in obsessions, I've been watching a lot of the tv
 series [House][], partially to recover from snowboarding, and partially

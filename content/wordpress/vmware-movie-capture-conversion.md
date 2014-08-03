@@ -1,7 +1,7 @@
 Title: VMWare Movie Capture & Conversion
 Date: 2008-08-01 10:11
 Author: gmwils
-Category: Technology
+Category: technology
 
 On a PC, I want to be able to easily capture screencasts for the
 products we use at work. The ulterior motive is to be able to show a

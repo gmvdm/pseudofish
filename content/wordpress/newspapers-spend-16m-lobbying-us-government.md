@@ -1,7 +1,7 @@
 Title: Newspapers spend $1.6m lobbying US government
 Date: 2008-02-20 12:10
 Author: gmwils
-Category: Business
+Category: business
 
 From [sfnblog][]:
 

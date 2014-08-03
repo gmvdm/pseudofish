@@ -1,7 +1,7 @@
 Title: Pocket Wizards
 Date: 2007-07-14 12:05
 Author: gmwils
-Category: Photography
+Category: photography
 
 [Strobist][] has inspired my purchase of a set of three Pocket Wizards.
 Rather than spend heaps of time talking about them, I've included some

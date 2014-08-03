@@ -1,7 +1,7 @@
 Title: Lens Shopping
 Date: 2008-01-23 10:40
 Author: gmwils
-Category: Photography
+Category: photography
 
 Deciding on a new lens is hard. There are many options and many factors
 to consider, such as your photographic style, cost, and build quality.

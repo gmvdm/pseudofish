@@ -1,7 +1,7 @@
 Title: Utility
 Date: 2007-07-29 16:37
 Author: gmwils
-Category: Photography
+Category: photography
 
 > It should be added however that some of the very best photography is
 > useful only as juggling, theology, or pure mathematics is useful --

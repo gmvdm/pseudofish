@@ -1,7 +1,7 @@
 Title: The History of Haskell
 Date: 2007-11-17 09:41
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 The [history of Haskell][] has recently been published. It is a rather
 long read (55 pages), but a rewarding one. It covers how Haskell formed,

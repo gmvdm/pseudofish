@@ -1,7 +1,7 @@
 Title: iPod Shuffle slashed in price
 Date: 2008-02-20 08:26
 Author: gmwils
-Category: Apple
+Category: apple
 
 Apple's [iPod Shuffle][] is now only $65 AUD ($49 USD). I picked up one
 when they cost a bit more, and found it to be a very useful way of

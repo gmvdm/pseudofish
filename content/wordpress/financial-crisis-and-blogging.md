@@ -1,7 +1,7 @@
 Title: Financial Crisis and Blogging
 Date: 2008-11-21 19:57
 Author: gmwils
-Category: Musings
+Category: musings
 
 <a href="http://thisisindexed.com/2008/11/time-to-look-busy/">![image][]
 

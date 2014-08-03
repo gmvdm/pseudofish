@@ -1,7 +1,7 @@
 Title: Programming Fonts Revisited
 Date: 2008-05-01 23:09
 Author: gmwils
-Category: Technology
+Category: technology
 
 [Fixed width fonts][] don't play nice with non-Western character sets.
 

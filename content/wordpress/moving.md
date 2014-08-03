@@ -1,7 +1,7 @@
 Title: Moving ...
 Date: 2006-01-31 14:25
 Author: gmwils
-Category: Musings
+Category: musings
 
 -   I'm moving industries, from the [media industry][], to a new start
     in [telecommunications][].

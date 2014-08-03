@@ -1,7 +1,7 @@
 Title: An Inconvenient (Apple) Truth
 Date: 2007-10-23 22:49
 Author: gmwils
-Category: Apple
+Category: apple
 
 There will be no 12" MacBook Pro.
 

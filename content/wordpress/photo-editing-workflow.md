@@ -1,7 +1,7 @@
 Title: Photo Editing Workflow
 Date: 2009-02-19 15:52
 Author: gmwils
-Category: Photography
+Category: photography
 
 Pressing the shutter on the camera is the simple bit. Once the photo is
 taken there are a large number of options around workflow. This is my

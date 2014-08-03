@@ -1,7 +1,7 @@
 Title: Melbourne Pro Photo Labs
 Date: 2008-07-08 23:18
 Author: gmwils
-Category: Photography
+Category: photography
 
 I'm recently become quite excited about printing my photos. So much so
 that I've bought an A4 photo printer for "proofing". For high quality

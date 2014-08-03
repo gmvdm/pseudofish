@@ -1,7 +1,7 @@
 Title: Two New Blogs
 Date: 2009-07-23 22:07
 Author: gmwils
-Category: Musings
+Category: musings
 
 M & I are starting a food blog here: [Dreaming of Winter][].
 

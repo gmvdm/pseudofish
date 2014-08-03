@@ -1,7 +1,7 @@
 Title: The Cost of Shavers and Razors
 Date: 2006-05-04 22:31
 Author: gmwils
-Category: Musings
+Category: musings
 
 The short version: If you shave using a razor more than once a week,
 then you can justify buying a $300 electric shaver and reduce your

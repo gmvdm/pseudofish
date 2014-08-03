@@ -1,7 +1,7 @@
 Title: Make it Real
 Date: 2006-11-12 12:21
 Author: gmwils
-Category: Musings
+Category: musings
 
 In the age of digital everything, using reality makes you stand out.
 

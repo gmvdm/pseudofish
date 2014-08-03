@@ -1,7 +1,7 @@
 Title: Chocolate Cake
 Date: 2007-11-26 21:17
 Author: gmwils
-Category: Musings
+Category: musings
 
 *Note: This is a recipe for chocolate cake that my mother made us often
 when I was younger. It is posted here so I can easily find it.*

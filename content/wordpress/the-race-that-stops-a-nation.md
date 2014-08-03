@@ -1,7 +1,7 @@
 Title: The Race that Stops a Nation
 Date: 2006-11-07 11:35
 Author: gmwils
-Category: Musings
+Category: musings
 
 Melbourne Cup Day.
 

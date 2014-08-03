@@ -1,7 +1,7 @@
 Title: Following Url Redirects with Clojure
 Date: 2010-11-11 00:33
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 In attempting to normalize urls for a project, I needed to unravel the
 redirects.

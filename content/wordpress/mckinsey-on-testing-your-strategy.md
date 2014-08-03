@@ -1,7 +1,7 @@
 Title: McKinsey on testing your strategy
 Date: 2011-08-22 18:09
 Author: gmwils
-Category: Management
+Category: business
 
 In [an article][] from January 2011, McKinsey outlines a series of ten
 tests to validate your current strategy:

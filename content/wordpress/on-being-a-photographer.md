@@ -1,7 +1,7 @@
 Title: On Being a Photographer
 Date: 2008-03-03 23:37
 Author: gmwils
-Category: Photography
+Category: photography
 
 From [On Being a Photographer][]:
 

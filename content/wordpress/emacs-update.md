@@ -1,7 +1,7 @@
 Title: Emacs Update
 Date: 2011-04-14 21:22
 Author: gmwils
-Category: Technology
+Category: emacs
 
 Now that I’ve been using Emacs for a while, I'm finding that my reflexes
 are adjusting to the Emacs way. On the bright side, I can still jump

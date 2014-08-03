@@ -1,7 +1,7 @@
 Title: Haskell Quotes
 Date: 2007-07-25 12:07
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 > Fear leads to uncertainty. Uncertainty leads to doubt. Doubt leads to
 > theorem proving.

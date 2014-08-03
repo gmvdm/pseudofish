@@ -1,7 +1,7 @@
 Title: Blog Trends
 Date: 2007-04-18 10:17
 Author: gmwils
-Category: Musings
+Category: musings
 
 [Hugh][] has gone back to incredibly interesting with his recent move to
 Microsoft. Over the last few months, his blog hasn't been as interesting

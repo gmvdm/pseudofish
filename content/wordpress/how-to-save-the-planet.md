@@ -1,7 +1,7 @@
 Title: How to Save the Planet
 Date: 2007-10-24 23:02
 Author: gmwils
-Category: Musings
+Category: musings
 
 In the [New York Times][], Thomas L. Friedman [writes][New York Times]:
 

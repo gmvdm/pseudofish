@@ -1,7 +1,7 @@
 Title: SVN, RSS and shell magic on Mac OS X
 Date: 2006-08-19 11:20
 Author: gmwils
-Category: Apple
+Category: apple
 
 Bill Bumgarner has a [wonderful post][] on how to setup an RSS feed for
 a SVN server. This is an interesting approach, especially given how most

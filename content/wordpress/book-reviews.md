@@ -1,7 +1,7 @@
 Title: Book Reviews
 Date: 2011-08-12 15:54
 Author: gmwils
-Category: Musings
+Category: musings
 
 I've read a few books this year, thanks to Kindle for iPhone & Mac as
 well as a few actual printed books either found or borrowed from work's

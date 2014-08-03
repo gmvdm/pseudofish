@@ -1,7 +1,7 @@
 Title: Learning Python
 Date: 2005-05-11 23:23
 Author: gmwils
-Category: Python
+Category: python
 
 Obviously attempting to write Cocoa applications in [Python][] would
 require some knowledge of the language. Fortunately, there is some very

@@ -1,7 +1,7 @@
 Title: Calculating earlier dates using a shell script
 Date: 2011-10-07 01:40
 Author: gmwils
-Category: Technology
+Category: technology
 
 Mongo has a database size limit in 32 bit mode, so I want to purge out
 items that are less than a certain date in the past. I decided that it

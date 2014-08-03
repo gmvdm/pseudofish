@@ -1,7 +1,7 @@
 Title: ADC Core Data Video Tutorial
 Date: 2006-03-30 17:39
 Author: gmwils
-Category: Cocoa
+Category: apple
 
 See [here][] for details on a new tutorial on Core Data.
 

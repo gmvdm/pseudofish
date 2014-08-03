@@ -1,7 +1,7 @@
 Title: My Path to Economical Discovery
 Date: 2006-12-05 23:55
 Author: gmwils
-Category: Musings
+Category: musings
 
 I'll be the first to admit, for the longest time, I couldn't tell the
 difference between economics, accounting or anything else even vaguely

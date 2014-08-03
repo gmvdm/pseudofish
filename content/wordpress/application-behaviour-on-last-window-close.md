@@ -1,7 +1,7 @@
 Title: Application behaviour on last window close
 Date: 2005-12-01 22:07
 Author: gmwils
-Category: Cocoa
+Category: python
 
 I grew up with Microsoft's various windowing systems, and learnt the X
 Windows style of things while at Uni. When I first used a Mac, Apple's

@@ -1,7 +1,7 @@
 Title: Binding to a NSTextView
 Date: 2005-06-15 22:00
 Author: gmwils
-Category: Musings
+Category: apple
 
 If you have done much Cocoa programming previously, you may find this
 amusingly obvious. However if you are learning from the start, this may

@@ -1,7 +1,7 @@
 Title: Learning Chinese
 Date: 2008-12-12 02:18
 Author: gmwils
-Category: Musings
+Category: chinese
 
 After almost two years of study, there are many different approaches
 I've tried for learning Chinese. These are the ones that stuck the most.

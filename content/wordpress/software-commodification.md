@@ -1,7 +1,7 @@
 Title: Software commodification
 Date: 2006-05-01 19:33
 Author: gmwils
-Category: Musings
+Category: technology
 
 Not so long ago...
 

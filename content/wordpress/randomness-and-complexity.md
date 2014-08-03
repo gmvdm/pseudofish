@@ -1,7 +1,7 @@
 Title: Randomness and Complexity
 Date: 2007-06-24 23:51
 Author: gmwils
-Category: Business
+Category: business
 
 > If the tone of this book seems steeped in the culture of Darwinism and
 > evolutionary thinking, it does not come from any remotely formal

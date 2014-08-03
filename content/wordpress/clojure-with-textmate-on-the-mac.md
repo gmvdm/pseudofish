@@ -1,7 +1,7 @@
 Title: Clojure with TextMate on the Mac
 Date: 2010-06-17 21:41
 Author: gmwils
-Category: Technology
+Category: clojure
 
 [Clojure][] has been getting a bit of press recently, such as prominence
 on the ThoughtWorks [Technology Radar][]. Having spent some time

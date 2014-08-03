@@ -1,7 +1,7 @@
 Title: HaskellDB Basics
 Date: 2008-05-11 23:35
 Author: gmwils
-Category: Haskell
+Category: haskell
 
 [HaskellDB][] is a domain specific embedded language for specifying
 database queries and operations.

@@ -1,7 +1,7 @@
 Title: The Man in the High Castle
 Date: 2009-06-28 16:02
 Author: gmwils
-Category: Musings
+Category: musings
 
 > Dilemma of civilized man; body mobilized, but danger obscure
 >

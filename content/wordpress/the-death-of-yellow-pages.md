@@ -1,7 +1,7 @@
 Title: The Death of Yellow Pages
 Date: 2006-10-20 10:19
 Author: gmwils
-Category: Musings
+Category: technology
 
 There are two very large books of information sitting on my door step.
 Usually, I like books. These two are almost completely useless to me.

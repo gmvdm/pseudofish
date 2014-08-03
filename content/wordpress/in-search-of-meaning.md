@@ -1,7 +1,7 @@
 Title: In Search of Meaning
 Date: 2006-05-13 22:57
 Author: gmwils
-Category: Musings
+Category: musings
 
 Two books have a profound impact on me, [Zen and the Art of Motorcycle
 Maintenance][] and [The Alchemist][].

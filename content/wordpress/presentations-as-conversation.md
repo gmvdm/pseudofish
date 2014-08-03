@@ -1,7 +1,7 @@
 Title: Presentations as Conversation
 Date: 2006-07-25 17:13
 Author: gmwils
-Category: Musings
+Category: musings
 
 As a result of running through several PowerPoint presentations in the
 last month, I discovered a positive effect from them. Even if we only

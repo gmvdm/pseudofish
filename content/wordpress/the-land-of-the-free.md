@@ -1,7 +1,7 @@
 Title: The Land of the Free
 Date: 2007-09-25 22:58
 Author: gmwils
-Category: Musings
+Category: musings
 
 From the [Economist][]:
 

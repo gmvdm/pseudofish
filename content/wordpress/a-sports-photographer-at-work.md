@@ -1,7 +1,7 @@
 Title: A sports photographer at work
 Date: 2007-10-31 19:10
 Author: gmwils
-Category: Photography
+Category: photography
 
 [Details][] of how a working photographer, Rod Mar, goes about taking a
 feature photo.

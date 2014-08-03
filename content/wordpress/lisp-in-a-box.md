@@ -1,7 +1,7 @@
 Title: Lisp in a Box
 Date: 2007-02-14 16:54
 Author: gmwils
-Category: Technology
+Category: technology
 
 I like to learn programming by doing. After many attempts to learn Lisp
 by reading, I tried by doing. Much higher level of success!

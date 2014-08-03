@@ -1,7 +1,7 @@
 Title: Transferrable Skills
 Date: 2006-06-20 04:18
 Author: gmwils
-Category: Musings
+Category: musings
 
 After a bit of travel and consulting for my new company, I am reflecting
 on the skills that I have learnt that transferred and those that did

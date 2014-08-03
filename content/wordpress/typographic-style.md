@@ -1,7 +1,7 @@
 Title: Typographic Style
 Date: 2007-09-28 22:57
 Author: gmwils
-Category: Design
+Category: design
 
 If you're interested in typography, odds are you've already read [The
 Elements of Typographic Style][].

@@ -1,7 +1,7 @@
 Title: Clay Shirky on Ontologies
 Date: 2005-05-18 22:37
 Author: gmwils
-Category: Musings
+Category: media
 
 [Clay Shirky][] has a great article up about the history of
 classifications of things (ontologies).

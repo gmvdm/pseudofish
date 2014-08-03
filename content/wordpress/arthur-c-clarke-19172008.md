@@ -1,7 +1,7 @@
 Title: Arthur C. Clarke, 1917—2008
 Date: 2008-03-19 09:32
 Author: gmwils
-Category: Musings
+Category: musings
 
 > Any sufficiently advanced technology is indistinguishable from magic.
 

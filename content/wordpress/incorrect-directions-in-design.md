@@ -1,7 +1,7 @@
 Title: Incorrect directions in design
 Date: 2005-06-08 21:38
 Author: gmwils
-Category: Musings
+Category: musings
 
 For the amusement of others I'm going to share with you what will
 hopefully provide an instructive story in my misadventures in software

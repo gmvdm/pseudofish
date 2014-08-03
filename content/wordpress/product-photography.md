@@ -1,7 +1,7 @@
 Title: Product Photography
 Date: 2006-09-23 01:21
 Author: gmwils
-Category: Photography
+Category: photography
 
 [![image][]][]
 

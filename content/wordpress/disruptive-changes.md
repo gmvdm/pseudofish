@@ -1,7 +1,7 @@
 Title: Disruptive Changes
 Date: 2006-03-22 11:21
 Author: gmwils
-Category: Musings
+Category: musings
 
 I recently joined a rather innovative gym. They don't have many weight
 machines or bikes or walking contraptions, instead they have four large,

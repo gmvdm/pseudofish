@@ -1,7 +1,7 @@
 Title: Satire for Thanksgiving
 Date: 2006-11-22 11:03
 Author: gmwils
-Category: Musings
+Category: musings
 
 [zefrank][] provides insight on how to survive the holiday.
 

@@ -1,7 +1,7 @@
 Title: Travel
 Date: 2006-12-12 15:02
 Author: gmwils
-Category: Musings
+Category: musings
 
 I'm heading down south for the holiday season, in a bid to catch up with
 family and friends.

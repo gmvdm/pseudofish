@@ -1,7 +1,7 @@
 Title: How to write a blog post
 Date: 2006-11-22 15:38
 Author: gmwils
-Category: Musings
+Category: musings
 
 Do it like this: [Seth Godin][]
 

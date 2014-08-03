@@ -1,7 +1,7 @@
 Title: CS229 Machine Learning at Stanford (iTunes U)
 Date: 2011-07-29 02:40
 Author: gmwils
-Category: Technology
+Category: technology
 
 Andrew Ng's course at Stanford on [Machine Learning][] provides a great
 overview of the different types and applications of current machine

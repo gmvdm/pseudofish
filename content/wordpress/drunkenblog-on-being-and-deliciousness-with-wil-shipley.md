@@ -1,7 +1,7 @@
 Title: DrunkenBlog: On Being and Deliciousness, with Wil Shipley
 Date: 2005-07-21 23:01
 Author: gmwils
-Category: Cocoa
+Category: technology
 
 Another [brilliant interview][] over at DrunkenBlog. Go check it out.
 Wil Shipley speaks on software, Apple, Cocoa and life.

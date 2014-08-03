@@ -1,7 +1,7 @@
 Title: Thinking of Music
 Date: 2005-08-24 19:04
 Author: gmwils
-Category: Musings
+Category: musings
 
 A few interesting, music related things I've been playing with recently
 that I thought I'd share.

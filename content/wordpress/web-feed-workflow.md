@@ -1,7 +1,7 @@
 Title: Web Feed workflow
 Date: 2005-09-19 10:20
 Author: gmwils
-Category: Musings
+Category: musings
 
 Having just returned from nine days snowboarding with no internet
 access, I'm presented with the daunting task of *catching up*. Work and

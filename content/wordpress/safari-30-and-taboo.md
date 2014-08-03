@@ -1,7 +1,7 @@
 Title: Safari 3.0 and Taboo
 Date: 2007-06-29 13:32
 Author: gmwils
-Category: Apple
+Category: apple
 
 In the old days, before 3.0, Safari had an annoying habit. If you
 pressed Cmd-Q with many windows and tabs open, then Safari would quit.

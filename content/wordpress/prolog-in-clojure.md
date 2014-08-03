@@ -1,7 +1,7 @@
 Title: Prolog in Clojure
 Date: 2011-08-05 16:31
 Author: gmwils
-Category: Clojure
+Category: clojure
 
 After reading Peter Novig's classic, [Paradigms of AI Programming][], I
 decided to try porting his implementation of Prolog in Lisp to Clojure.

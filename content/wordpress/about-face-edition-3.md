@@ -1,7 +1,7 @@
 Title: About Face, Edition 3
 Date: 2012-02-29 17:21
 Author: gmwils
-Category: Design
+Category: design
 
 > In any field, if you expand your view to know all the ecosystem around
 > you it’s beneficial.
