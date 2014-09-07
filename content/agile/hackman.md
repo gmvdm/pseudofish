@@ -1,22 +1,21 @@
 Title: The design of work teams
-Date: 2014-08-04
+Date: 2014-09-07
 Author: gmwils
 Summary: Research from J. Richard Hackman on the design of work teams helps inform the why behind much of agile.
-status: draft
 
-Modern software development is all about teams. It is the core principle
-behind much of the agile movement. There is also a significant body of
-research into the topic of effective teams that one could use to create a
-model for effective teams.
+Modern work is all about teams. They are at the core of agile
+development.
 
-Fortunately, this was already done. In 1987.
+To help better understand how design effective work teams, it is worth reading
+through J. Richard Hackman's 1987 research paper:
+[The design of work teams](http://groupbrain.wjh.harvard.edu/jrh/pub/JRH1987_1.pdf).
 
-## Background
+The paper is dense reading, so I'm going to extract some relevant sections
+for future reference.
 
-[The design of work teams](http://groupbrain.wjh.harvard.edu/jrh/pub/JRH1987_1.pdf)
-is an amazing set of research into how and why teams work well to achieve
-group performance. The article is dense, so I'm going to extract some of
-the relevant sections for future reference.
+## Background research
+
+From the summary of earlier research, I found this interesting:
 
 > In sum, research findings regarding process interventions suggest that
 > structured techniques that minimize process losses (or reduce their effects)
@@ -25,34 +24,23 @@ the relevant sections for future reference.
 > "process gains" appear not to yield reliable improvements in group task
 > effectiveness.
 
-There is much to gain from the lean process approach to reducing waste,
-and likely less from the soft approach to improving team interactions.
-
+That is, there is more improvements to gain from the lean approach to reducing
+waste, and less from the common soft approaches to improving team
+interactions.
 
 ## A Normative Model of Group Effectiveness
-Creating a model of group effectiveness, based on research, such that:
 
-1. The variables user in the model make non-trivial difference to group
+The goal of the paper is to create a model of group effectiveness, based on
+research, such that:
+
+1. The variables used in the model make non-trivial difference to group
 performance
 2. It is feasible to change them in an organization
 3. People can understand and use them.
 
-Needless to say, this is a challenge.
-
 To be effective, the model is restricted to work groups in
 organizations. Fortunately, this is the circumstances most of us find
 ourselves in.
-
-There are three criteria used to assess team effectiveness for the model:
-
-1. The productive output of the work group should meet or exceed the
-performance standards of teh people who receive and/or review the output.
-
-2. The social processes used in carrying out the work shoudl maintain or
-enhance the capability of members to work together on subsequent team tasks.
-
-3. The group exeperience should, on balance, satisfy rather than frustrate the
-personal needs of group members.
 
 Hackman goes on to propose that the overall effectiveness of work groups in
 organizations is a joint function of:
@@ -81,16 +69,16 @@ examine the impact of the following classes of variables:
 
 To expect a group to work hard on the group task, the following should be met:
 
-* The group task requires members to use a variety of relatively high-level
-  skills.
-* The group task is a whole and meaningful piece of work, with a visible
-  outcome.
-* The outcomes of the group's work on the task have significant consequences
+* The group task requires members to use a variety of relatively _high-level
+  skills_.
+* The group task is a _whole and meaningful_ piece of work, with a _visible
+  outcome_.
+* The outcomes of the group's work on the task have _significant consequences_
   for other people (eg. other organisation members or external clients)
-* The task provides group members with substantial autonomy for deciding about
+* The task provides group members with _substantial autonomy_ for deciding about
   hwo they do the work -- in effect, the group "owns" the task and is
   responsible for the work outcomes.
-* Work on the task generates regular, trustworthy feedback about how well the
+* Work on the task generates _regular, trustworthy feedback_ about how well the
   group is performing.
 
 If a group task meets these criteria, it is likely that members will
@@ -98,9 +86,6 @@ experience their work as meaningful and feel collectively
 responsible. Improving the design of a group's work is usually a better way to
 foster high collective effort than directly addressing group norms about
 productivity.
-
-Reading through these conditions, I'm reminded of a range of agile techniques,
-including a clear mission, impact mapping, user stories and retrospectives.
 
 ### Organisational context
 
@@ -251,36 +236,26 @@ those who are expert in creating work teams, developing them, and harvesting
 the considerable contributions they have to make to organisational
 effectiveness.
 
-## Closing thoughts
 
-Up to here, I've largely been paraphrasing and quoting from the original
-paper. The surprising thing is how relevant it sounds today working amoung
-agile teams.
 
-A big thank you to [Peter Antman](http://blog.crisp.se/author/peterantman) for recommending the article!
 
 ## Further reading
 
-Hackman wrote a book covering much of his findings, called
-[Leading Teams](http://www.amazon.com/Leading-Teams-Setting-Stage-Performances/dp/1578513332/).
+* [Leading Teams](http://www.amazon.com/Leading-Teams-Setting-Stage-Performances/dp/1578513332/pseudofish-20)
+    -- Hackman's continued refinement of his model, including examples.
 
-The book spends many more words expanding the concepts above, and distills the
-enabling conditions down to five chapters:
-
-1. A Real Team
-2. Compelling Direction
-3. Enabling Structure
-4. Supportive Context
-5. Expert Coaching
-
-He also had a great article up on
-[HBR](http://blogs.hbr.org/2011/06/six-common-misperceptions-abou/), where he
-covers six common misconceptions about teamwork.
+    The book distills the enabling conditions down to: A Real
+    Team, Compelling Direction, Enabling Structure, Supportive Context, Expert Coaching
 
 
-To read more on teams in general, the
-[Group dynamics](http://en.wikipedia.org/wiki/Group_dynamics) and [Group behaviour](http://en.wikipedia.org/wiki/Group_behaviour)
-pages on wikipedia are a good starting point.
+* [Building Effective Teams: Miss the Start, Miss the End](http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html)
 
-Hackman also gets referenced by the agile community:
-http://www.estherderby.com/2011/11/miss-the-start-miss-the-end.html
+    > 60% of the variation in team effectiveness is attributable to the design
+    of the team, 30% to the way the team is launched, and 10% to leader
+    coaching once the team is underway.
+
+* [Six Common Misperceptions about Teamwork](http://blogs.hbr.org/2011/06/six-common-misperceptions-abou/).
+
+
+Thank you to [Peter Antman](http://blog.crisp.se/author/peterantman) for the
+recommendation to look into Hackman's work.

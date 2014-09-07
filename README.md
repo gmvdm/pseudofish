@@ -10,3 +10,6 @@ Images optimised using [ImageOptim](https://imageoptim.com/command-line.html):
 ```
 open -a ImageOptim content/images
 ```
+
+## Drafts
+Drafts can be viewed on: http://localhost:8000/drafts
