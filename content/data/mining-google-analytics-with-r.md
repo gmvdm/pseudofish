@@ -1,5 +1,5 @@
 Title: Mining Google Analytics with R
-Date: 
+Date: 2014-09-01
 Author: gmwils
 Summary: 
 status: draft
