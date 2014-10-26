@@ -10,8 +10,8 @@ To help better understand how design effective work teams, it is worth reading
 through J. Richard Hackman's 1987 research paper:
 [The design of work teams](http://groupbrain.wjh.harvard.edu/jrh/pub/JRH1987_1.pdf).
 
-The paper is dense reading, so I'm going to extract some relevant sections
-for future reference.
+The paper is dense reading, so I extracted some relevant sections for future
+reference.
 
 ## Background research
 
