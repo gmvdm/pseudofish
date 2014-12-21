@@ -74,15 +74,25 @@ body {
 
 .titleheader {
     color: #576D8A;
-    font-weight: normal;
     font-size: 0.8em;
-    padding-bottom: 0.3em;
 }
 
 .titleheader .category {
     font-weight: bold;
+}
+
+.titleheader a, .titleheader a:visited {
     color: #576D8A;
 }
+
+.titleheader abbr {
+    text-transform: uppercase;
+}
+
+.articletitles li {
+    padding-bottom: 0.5em;
+}
+
 
 .subheader {
     color: #B8C1CD;

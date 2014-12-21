@@ -16,18 +16,7 @@
 {% block title %}{{ article.title|striptags }} &mdash; pseudofish.org{% endblock %}
 {% block content %}
 <section class="article" itemscope itemtype="http://schema.org/Article">
-  <header>
-    <div class="titleheader"><abbr itemprop="datePublished" content="{{ article.date.isoformat() }}" class="published" title="{{ article.date.isoformat() }}">
-        {{ article.date.strftime("%e %B, %Y") }}
-      </abbr>
-      &mdash;
-      <a class="category" href="{{ article.category.url }}">{{ article.category }}</a>
-    </div>
-    <h2 class="title">
-      <a itemprop="url" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-         title="Link to {{ article.title|striptags }}">{{ article.title }}</a>
-    </h2>
-  </header>
+  {% include "titleheader.html" %}
   <div class="content">
     {{ article.content }}
   </div>

@@ -6,16 +6,7 @@
 {% for article in dates %}
 <li>
   <article class="hentry">
-    <header>
-      <abbr itemprop="datePublished" content="{{ article.date.isoformat() }}" class="published" title="{{ article.date.isoformat() }}">
-        {{ article.locale_date }}
-      </abbr> {{ article.category }}
-      <h2 class="entry-title">
-        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-           title="Permalink to {{ article.title|striptags }}">
-          {{ article.title }}</a>
-      </h2>
-    </header>
+    {% include "titleheader.html" %}
   </article>
 </li>
 {% endfor %}

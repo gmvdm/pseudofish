@@ -1,0 +1,16 @@
+<header>
+  <div class="titleheader">
+    <abbr itemprop="datePublished" content="{{ article.date.isoformat() }}" class="published" t\
+          itle="{{ article.date.isoformat() }}">
+      {{ article.date|strftime("%Y %B %d") }}
+    </abbr>
+    <a class="category" href="{{ SITEURL }}/{{ article.category.url }}">
+      {{ article.category }}
+    </a>
+  </div>
+  <h2 class="entry-title">
+    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+       title="Permalink to {{ article.title|striptags }}">
+      {{ article.title }}</a>
+  </h2>
+</header>
