@@ -39,8 +39,8 @@ history and famous people with particular names, I picked.
 After I had picked, it was pointed out to me that the two characters in my
 name reference two [chengyu](https://en.wikipedia.org/wiki/Chengyu):
 
-* 浩如烟海 - vast as the open sea
-* 器宇轩昂 - having a dignified appearance
+* 浩如烟海 -- vast as the open sea
+* 器宇轩昂 -- having a dignified appearance
 
 This adds a nice extra dimension to my name.
 
