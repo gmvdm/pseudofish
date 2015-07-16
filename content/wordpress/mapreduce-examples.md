@@ -56,7 +56,7 @@ step is collecting the data, but that's on a different thread.
   [fairly]: http://www.mongodb.org/display/DOCS/MapReduce
   [This post]: http://rickosborne.org/blog/index.php/2010/02/08/playing-around-with-mongodb-and-mapreduce-functions/
   [MapReduce Tutorial]: http://code.google.com/edu/parallel/mapreduce-tutorial.html
-  [Original Paper]: http://labs.google.com/papers/mapreduce.html
+  [Original Paper]: http://research.google.com/archive/mapreduce.html
   [Lecture Series]: http://code.google.com/edu/submissions/mapreduce-minilecture/listing.html
   [Slides]: http://code.google.com/edu/submissions/mapreduce/listing.html
   [include]: http://code.google.com/edu/parallel/mapreduce-tutorial.html#MRExamples
