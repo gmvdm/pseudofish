@@ -4,6 +4,20 @@ My blog, using Pelican, a static site generator.
 
 https://github.com/getpelican/pelican
 
+## Setup
+First, get python, virtualenv, autoenv, etc working.
+
+Then:
+
+```
+pip install pelican markdown typogrify
+make devserver
+...
+./develop_server.sh stop
+```
+
+Then open the [dev blog](http://localhost:8000/), changes are updated
+automatically when editing local files.
 
 ## Writing
 Some useful articles:

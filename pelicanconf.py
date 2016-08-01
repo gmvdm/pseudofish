@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u'Geoff Wilson'
+from os.path import expanduser
+
+AUTHOR = u'Geoff van der Meer'
 SITENAME = u'pseudofish'
 
-PLUGINS = ['pelican.plugins.sitemap',]
+PLUGIN_PATHS = [expanduser('~') + '/src/pelican-plugins']
+PLUGINS = ['sitemap',]
 
 FEED_ATOM = 'atom.xml'
 FEED_MAX_ITEMS = 15
