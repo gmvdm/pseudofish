@@ -1,0 +1,27 @@
+#+TITLE: Org-mode for everything
+#+DATE: 2016-08-20
+
+[[http://orgmode.org][Org-mode]] is a super useful emacs mode for editing text. Recently, I have been
+extending my use of it to a few new places. This includes blogging and my
+emacs config. I also use org mode for [[http://pseudofish.com/using-deft-mode-for-notes-in-emacs.html][note taking]].
+
+Blogging with org-mode can be done using the [[https://github.com/getpelican/pelican-plugins/tree/master/org_reader][org_reader]] plugin for [[http://blog.getpelican.com][pelican]].
+There may be other blog platforms that integrate org-mode, however that is the
+one I'm using. In practice, this means I can write a simple TODO: link org file that is
+then generated into html for the blog.
+
+Using org-mode for emacs config is a bit trickier. The big advantage is that
+is [[https://en.wikipedia.org/wiki/Literate_programming][literate programming]]. This makes it both easy to modify and self
+documenting. Github also provides nice support for org docs, so my emacs
+config is easily viewed [[https://github.com/gmwils/dotfiles/blob/master/emacs.d/gmwils.org][here]].
+
+By using org mode for config, it becomes normal to document why you have
+particular configuration settings. Given how complex configuring emacs usually
+is, this makes it more sane. The other win is that you can group settings by
+using org headings. All in one file.
+
+I use yasnippets to automate creating most documents, such as a [[https://github.com/gmwils/dotfiles/blob/master/emacs.d/snippets/org-mode/blog][blog]] entry.
+This helps with not having to remember specific formatting or metadata for
+different document types. This is particularly handy for conducting
+interviews, where I have created org templates for each role, including
+criteria I want to assess, and a range of questions.
